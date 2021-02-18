@@ -32,8 +32,15 @@
 <details open>
  <summary>📈 <b>My Github/Programming Stats</b></summary>
 
-  <a href="https://github.com/ItsDrike"><img src="https://github-readme-stats.vercel.app/api?username=ItsDrike&show_icons=true&theme=darcula&line_height=27"></a>|<a href="https://wakatime.com/@itsdrike"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsdrike&layout=compact&theme=darcula"></a>
-  |:--:|:--:|
-  <a href="https://github.com/ItsDrike"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsDrike&theme=dark"></a>|<a href="https://github.com/ItsDrike"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDrike&layout=compact&theme=darcula"></a>
+ <a href="https://github.com/ItsDrike"><img src="https://github-readme-stats.vercel.app/api?username=ItsDrike&show_icons=true&theme=darcula&line_height=27"></a>|<a href="https://wakatime.com/@itsdrike"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsdrike&layout=compact&theme=darcula"></a>
+ |:--:|:--:|
+ <a href="https://github.com/ItsDrike"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsDrike&theme=dark"></a>|<a href="https://github.com/ItsDrike"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDrike&layout=compact&theme=darcula"></a>
   
+</details>
+
+<details>
+ <summary> <b>Extensive wakatime details</b></summary>
+ 
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka-->
 </details>
