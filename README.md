@@ -29,8 +29,8 @@
 - :snake: I mostly code in python, because I love the beauty of it's simplicity and readability.
 - :tv: I enjoy watching TV shows, mostly Sci-Fi/Fantasy.
 
-<details open>
- <summary>📈 <b>My Github/Programming Stats</b></summary>
+<details>
+ <summary>:pushpin: <b>My Github/Programming Stats</b></summary>
 
  <a href="https://github.com/ItsDrike"><img src="https://github-readme-stats.vercel.app/api?username=ItsDrike&show_icons=true&theme=darcula&line_height=27"></a>|<a href="https://wakatime.com/@itsdrike"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsdrike&layout=compact&theme=darcula"></a>
  |:--:|:--:|
@@ -39,7 +39,7 @@
 </details>
 
 <details>
- <summary> <b>Extensive wakatime details</b></summary>
+ <summary>:chart_with_upwards_trend: <b>Extensive wakatime details</b></summary>
  
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
