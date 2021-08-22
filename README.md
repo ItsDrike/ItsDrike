@@ -47,15 +47,15 @@
 **I Mostly Code in Python** 
 
 ```text
-Python                   20 repos            ██████████████████████░░░   90.91% 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+Python                   21 repos            ██████████████████████░░░   91.3% 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
 
 ```
 
 
 
- Last Updated on 21/08/2021
+ Last Updated on 22/08/2021
 <!--END_SECTION:waka-->
 
 </details>
