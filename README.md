@@ -66,7 +66,7 @@
     <img alt="" width="400" src="https://github.com/ItsDrike/ItsDrike/blob/master/metrics/code_snippet.svg">
    </td>
    <td align="center">
-    <img alt="" width="400" src="https://github.com/ItsDrike/ItsDrike/blob/master/metrics/activity.svg">
+    <img alt="" width="400" src="https://github.com/ItsDrike/ItsDrike/blob/master/metrics/starred_repos.svg.svg">
    </td>
   </tr>
   <tr>
