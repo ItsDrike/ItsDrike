@@ -29,8 +29,60 @@
 - :snake: I mostly code in python, because I love the beauty of it's simplicity and readability.
 - :tv: I enjoy watching TV shows, mostly Sci-Fi/Fantasy.
 
- ![Metrics](https://metrics.lecoq.io/itsdrike?template=classic&languages=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=UTC)
-
+<details open>
+ <summary> <b>Detailed stats</b></summary>
+ 
+ <table>
+  <tr>
+    <th>🙋 Profile Details</th>
+    <th>🧮 Repositories traffic</th>
+  </tr>
+  <tr>
+   <td>
+     <img alt="" width="400" src="https://github.com/ItsDrike/ItsDrike/blob/master/metrics/profile.svg">
+   </td>
+   <td>
+     <img alt="" width="400" src="https://github.com/ItsDrike/ItsDrike/blob/master/metrics/repositories.svg">
+   </td>
+  </tr>
+  <tr>
+    <th>📅 Isometric commit calendar</th>
+    <th>🈷️ Most used languages</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="https://github.com/ItsDrike/ItsDrike/blob/master/metrics/isocalendar.svg">
+    </td>
+    <td>
+      <img alt="" width="400" src="https://github.com/ItsDrike/ItsDrike/blob/master/metrics/languages.svg">
+    </td>
+  </tr>
+  <tr>
+   <th>♐ Code snippet of the day</th>
+   <th>🌟 Recently starred repositories</th>
+  </tr>
+  <tr>
+   <td align="center">
+    <img alt="" width="400" src="https://github.com/ItsDrike/ItsDrike/blob/master/metrics/code_snippet.svg">
+   </td>
+   <td align="center">
+    <img alt="" width="400" src="https://github.com/ItsDrike/ItsDrike/blob/master/metrics/activity.svg">
+   </td>
+  </tr>
+  <tr>
+    <th>💡 Coding habits</th>
+    <th>⏰ WakaTime plugin</th>
+  </tr>
+  <tr>
+   <td align="center">
+    <img alt="" width="400" src="https://github.com/ItsDrike/ItsDrike/blob/master/metrics/habits.svg">
+   </td>
+   <td align="center">
+     <img alt="" width="400" src="https://github.com/ItsDrike/ItsDrike/blob/master/metrics/wakatime.svg">
+   </td>
+  </tr>
+ </table>
+</details>
 
 <details>
  <summary>:chart_with_upwards_trend: <b>Extensive wakatime details</b></summary>
