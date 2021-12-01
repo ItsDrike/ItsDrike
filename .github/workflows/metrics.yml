@@ -18,7 +18,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           filename: metrics/wakatime.svg
           # Individual plugin settings. Setting details: https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/metadata.yml
           plugin_wakatime_limit: 4        # Show 4 entries per graph
