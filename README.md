@@ -29,16 +29,8 @@
 - :snake: I mostly code in python, because I love the beauty of it's simplicity and readability.
 - :tv: I enjoy watching TV shows, mostly Sci-Fi/Fantasy.
 
-<details>
- <summary>:pushpin: <b>My Github/Programming Stats</b></summary>
+ ![Metrics](https://metrics.lecoq.io/itsdrike?template=classic&languages=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=UTC)
 
- <a href="https://github.com/ItsDrike"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=ItsDrike&show_icons=true&theme=darcula&line_height=27"></a>
- <a href="https://wakatime.com/@itsdrike"><img height="180px" src="https://github-readme-stats.vercel.app/api/wakatime?username=itsdrike&layout=compact&theme=darcula"></a>
- <br>
- <a href="https://github.com/ItsDrike"><img height="182px" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsDrike&theme=dark"></a>
- <a href="https://github.com/ItsDrike"><img height="181px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDrike&layout=compact&theme=darcula"></a>
-  
-</details>
 
 <details>
  <summary>:chart_with_upwards_trend: <b>Extensive wakatime details</b></summary>
