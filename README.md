@@ -29,8 +29,8 @@
 - :snake: I mostly code in python, because I love the beauty of it's simplicity and readability.
 - :tv: I enjoy watching TV shows, mostly Sci-Fi/Fantasy.
 
-<details open>
- <summary> <b>Detailed stats</b></summary>
+<details>
+ <summary> <b>📌 Detailed metrics</b></summary>
  
  <table>
   <tr>
