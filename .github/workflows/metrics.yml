@@ -30,6 +30,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/repositories.svg
           # Individual settings
+          # Plugin settings details: https://github.com/lowlighter/metrics/blob/master/source/plugins/traffic
           base: repositories
           plugin_traffic: yes
 
