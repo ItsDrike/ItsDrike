@@ -118,7 +118,7 @@ jobs:
           # Plugin settings details: https://github.com/lowlighter/metrics/blob/master/source/plugins/stars
           base: ""
           plugin_stars: yes
-          plugin_stars_limit: 4     # Limit to 4 entries
+          plugin_stars_limit: 3     # Limit to 3 entries
 
       - name: Wakatime Stats
         uses: lowlighter/metrics@latest
