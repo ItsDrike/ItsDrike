@@ -1,4 +1,4 @@
-# This workflow generates metrics data (as svg photos) about my profile 
+# This workflow generates metrics data (as svg photos) about my profile
 # these photos are then utilized on my profile README.
 
 name: Metrics
@@ -14,6 +14,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See lowlighter/metrics action.yml for all options
+
+      - name: Profile Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          filename: metrics/profile.svg
+          # Individual settings
+          base: repositories
+
       - name: Wakatime Stats
         uses: lowlighter/metrics@latest
         with:
@@ -21,10 +32,9 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           filename: metrics/wakatime.svg
-          # Individual plugin settings. Setting details: https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/metadata.yml
+          # Individual settings.
+          # Plugin settings details: https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/metadata.yml
           base: ""
           plugin_wakatime_limit: 4        # Show 4 entries per graph
           plugin_wakatime_days: 7         # Display last week stats
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os   # Show all sections
-          
-          
