@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="658" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="286" class="">
     <defs>
         <style/>
     </defs>
@@ -1407,44 +1407,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">ItsDrike/ItsDrike</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#401a3a9</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">
-                    6 Dec 2021, 01:11:06
-                  </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">ItsDrike/dotfiles</span>
+                      Pushed 1 commit in <span class="repo">ItsDrike/dotfiles</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">arch</span></div>
                                     <div class="commit">
-                                        <span class="sha">#e8fb4e3</span>
-                                        <span class="message">Move global functions to init.lua</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#11baef3</span>
-                                        <span class="message">Override colorscheme's cursor line number color</span>
+                                        <span class="sha">#b0b6a12</span>
+                                        <span class="message">Rewrite picom config</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">
-                    6 Dec 2021, 00:03:25
+                    6 Dec 2021, 14:38:57
                   </div>
                             </section>
                         </div>
@@ -1455,100 +1429,40 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 23 commits in <span class="repo">ItsDrike/RegexFactory</span>
+                      Pushed 1 commit in <span class="repo">ItsDrike/dotfiles</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">arch</span></div>
                                     <div class="commit">
-                                        <span class="sha">#b893673</span>
-                                        <span class="message">Merge pull request #8 from GrandMoff100/dev/setup-cfg
-
-Combined configuration into setup.cfg</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ebcaac6</span>
-                                        <span class="message">Combined configuration into setup.cfg</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#02916f6</span>
-                                        <span class="message">Removed another sneaky node file</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fb76335</span>
-                                        <span class="message">Removed node_modules from pyright attempt</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e3341dd</span>
-                                        <span class="message">Added type hints for __init__ functions</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#edb1c01</span>
-                                        <span class="message">Removed unexisting class "RegexChar"</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6f0b5da</span>
-                                        <span class="message">Added a missing line at the end of a file</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b212a39</span>
-                                        <span class="message">Merge type chekcing changes into the branch</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ba0171b</span>
-                                        <span class="message">Fixed another merge conflict</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#519a7c7</span>
-                                        <span class="message">Fixed merge conflicts with master (oops)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9822744</span>
-                                        <span class="message">Added type checking!</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a6e14d2</span>
-                                        <span class="message">Merge pull request #4 from ItsDrike/master
-
-Use proper typing</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d284131</span>
-                                        <span class="message">Merge pull request #6 from GrandMoff100/add-license-1
-
-Create LICENSE</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#730489b</span>
-                                        <span class="message">Create LICENSE</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7fc9703</span>
-                                        <span class="message">Added lookahead and negative lookahead patterns</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#94f3c90</span>
-                                        <span class="message">Fixed Whitespace class docs bug</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6472c4f</span>
-                                        <span class="message">Added non-greedy delimiters</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3367060</span>
-                                        <span class="message">Added non capturing groups</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4dbeb56</span>
-                                        <span class="message">Added Named Groups</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7912859</span>
-                                        <span class="message">Added api reference structure</span>
+                                        <span class="sha">#cd932f2</span>
+                                        <span class="message">Fix typo</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">
-                    4 Dec 2021, 23:30:28
+                    6 Dec 2021, 14:29:41
+                  </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">ItsDrike/dotfiles</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">arch</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#d9fdf91</span>
+                                        <span class="message">Update neovim config details and image</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">
+                    6 Dec 2021, 13:38:05
                   </div>
                             </section>
                         </div>
