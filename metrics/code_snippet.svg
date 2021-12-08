@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="239" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="333" class="">
     <defs>
         <style/>
     </defs>
@@ -1406,14 +1406,14 @@
             </div>
                         <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-              Convert fzf.vim to fzf.lua
+              Fix typo
             </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">9aeb7926</span>
-                            <span class="code">home/.config/nvim/lua/plugins.lua</span>
+                            <span class="code">cd932f20</span>
+                            <span class="code">README.md</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -1424,16 +1424,16 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -47,7 +47,7 @@</span>
-load_plugin_file("coc.vim")
-load_plugin_file("vimwiki.lua")
-load_plugin_file("nerdtree.lua")
-load_plugin_file("airline.lua")
-<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">load_plugin_file("fzf.vim")
-</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">load_plugin_file("fzf.lua")
-</span></span>
-<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">- End Plug.vim loading process
-</span></span>cmd[[call plug#end()]]</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -75,7 +75,7 @@</span>
+And extract from `.tar.gz` archive:
+
+The open-source community has an incredible amount of resources that people have offered to others free of charge and
+we all depend on many of these sources. This project is no different and there were many open-source projects that were
+<span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">utilized in some parts of this project. For that reason, I'd like tho thank all of these projects and their
+</span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">utilized in some parts of this project. For that reason, I'd like to thank all of these projects and their
+</span></span>contributors for keeping their content open and available to everyone. This is the list of projects that helped me
+build this repository to the stage it's in now. Many of the aliases, config files and other resources aren't my
+original creations, but rather just small improvements and adjustments to get everything set in the way I like. Below</code>
                         </div>
                     </section>
                 </div>
