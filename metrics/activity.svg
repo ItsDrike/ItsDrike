@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="676" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="286" class="">
     <defs>
         <style/>
     </defs>
@@ -1407,22 +1407,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 2 commits in <span class="repo">ItsDrike/dotfiles</span>
+                      Pushed 1 commit in <span class="repo">ItsDrike/neovim</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">arch</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#656f29b</span>
-                                        <span class="message">Add comment</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c899a05</span>
-                                        <span class="message">Remove unused function for debugging</span>
+                                        <span class="sha">#666b241</span>
+                                        <span class="message">Add attributions</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">
-                    9 Dec 2021, 16:39:11
+                    10 Dec 2021, 01:53:29
                   </div>
                             </section>
                         </div>
@@ -1433,22 +1429,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 2 commits in <span class="repo">ItsDrike/dotfiles</span>
+                      Pushed 1 commit in <span class="repo">ItsDrike/dotfiles</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">arch</span></div>
                                     <div class="commit">
-                                        <span class="sha">#2fc82d8</span>
-                                        <span class="message">Use '.' instead of '/' in require</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f0fbf26</span>
-                                        <span class="message">Manually implement auto mass-renaming using LSP</span>
+                                        <span class="sha">#95d5ade</span>
+                                        <span class="message">Remove attributions for neovim (now in it's own repo)</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">
-                    9 Dec 2021, 16:35:14
+                    10 Dec 2021, 01:51:11
                   </div>
                             </section>
                         </div>
@@ -1459,110 +1451,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 20 commits in <span class="repo">ItsDrike/dotfiles</span>
+                      Pushed 1 commit in <span class="repo">ItsDrike/neovim</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">arch</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#bd3ece5</span>
-                                        <span class="message">Document and cleanup plugins</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b504f10</span>
-                                        <span class="message">Ignore certain patterns in wildmenu</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#cff3a5e</span>
-                                        <span class="message">Improve docstring about foldlevel option</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d1ad56a</span>
-                                        <span class="message">Remove simpylfold for python folding (handled by LSP)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f751618</span>
-                                        <span class="message">Support auto-completion with LSP</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#50a139f</span>
-                                        <span class="message">Add some more mappings</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#46ca918</span>
-                                        <span class="message">Add suport for nvim's LSP</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4eee9b4</span>
-                                        <span class="message">Add firenvim (nvim in browser) plugin</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f6c0441</span>
-                                        <span class="message">Add cheat.sh-vim plugin</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#886b79e</span>
-                                        <span class="message">Add treesitter AST semantic highlighting</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1c3fc02</span>
-                                        <span class="message">Attribute CosmicVim</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b9afa56</span>
-                                        <span class="message">Remove default coc-pyright args for flake8
-- Default args cause problems when we have other custom flake8 rules
-  defined in files such as tox.ini since these project-specifc settings
-  were simply getting ignored in favor of the default args. We should
-  instead always rely on the project's settings</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5627b96</span>
-                                        <span class="message">Rename pluginconf/ to plugins/settings/</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8350dc7</span>
-                                        <span class="message">Rewrite entire plugin management system
-- This encapsulates all plugin related functionalities into the plugins/
-  folder (and pluginconfig/) instead of relying on utility file.
-- It also renames utility/plugins.lua to a more sensible
-  plugins/packer.lua as it actually only applies for packer plugin
-  manager.
-- The plugins.lua file is now split into 2 files, first holding the list
-  of all plugins plugins/plugin_list.lua and second one holding the
-  logic of bootstrapping and running startup on packer.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b2214eb</span>
-                                        <span class="message">Remove unused local</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7bfad9c</span>
-                                        <span class="message">Set the colorscheme to default in theme
-- We want to do this to activate the autocommands which modify certain
-  highlight styles. This colorscheme will be set to the proper one from
-  the plugin configuration anyway, which will override this, but in case
-  that plugin is no longer desired, we want to have some default there.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9c8191b</span>
-                                        <span class="message">Move non-plugin settings to core/</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#768764a</span>
-                                        <span class="message">Use utility module for keymap/abbrev functions</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#950d19e</span>
-                                        <span class="message">Rewrite plugin management configuration</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#61f6195</span>
-                                        <span class="message">Add buffer navigation mappings</span>
+                                        <span class="sha">#f600e03</span>
+                                        <span class="message">Create LICENSE</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">
-                    9 Dec 2021, 12:15:43
+                    10 Dec 2021, 01:46:09
                   </div>
                             </section>
                         </div>
