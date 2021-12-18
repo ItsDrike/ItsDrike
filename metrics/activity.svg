@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="304" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="303" class="">
     <defs>
         <style/>
     </defs>
@@ -1407,18 +1407,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">ItsDrike/dmenu</span>
+                      Pushed 1 commit in <span class="repo">ItsDrike/dotfiles</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">arch</span></div>
                                     <div class="commit">
-                                        <span class="sha">#696a347</span>
-                                        <span class="message">Change font to jetbrains mono</span>
+                                        <span class="sha">#93930bd</span>
+                                        <span class="message">Remove unneeded ipython binaries</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">
-                    18 Dec 2021, 00:02:00
+                    18 Dec 2021, 04:50:19
                   </div>
                             </section>
                         </div>
@@ -1435,12 +1435,12 @@
                                 <div class="details">
                                     <div>on branch <span class="code">arch</span></div>
                                     <div class="commit">
-                                        <span class="sha">#4dd86fe</span>
-                                        <span class="message">Move to jetbrains mono font for alacritty</span>
+                                        <span class="sha">#5432334</span>
+                                        <span class="message">Simplify python alias creation</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">
-                    17 Dec 2021, 23:17:17
+                    18 Dec 2021, 04:48:40
                   </div>
                             </section>
                         </div>
@@ -1451,22 +1451,38 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 2 commits in <span class="repo">ItsDrike/Stellar-Nvim</span>
+                      Pushed 1 commit in <span class="repo">ItsDrike/dotfiles</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">arch</span></div>
                                     <div class="commit">
-                                        <span class="sha">#73a283d</span>
-                                        <span class="message">Add rust lang server</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#85eeae8</span>
-                                        <span class="message">Ask for confirmation on replace all keybind</span>
+                                        <span class="sha">#02237fd</span>
+                                        <span class="message">Don't re-run work_directory function
+- Re-reunning work_directory every time we redraw the prompt isn't
+  necessary, since the function is here to generate the zsh supported
+  syntax for the prompt that will get expanded into a work directory
+  automatically.
+- The function is only here to determine whether we're in TTY and use
+  ASCII compatible symbols if we are, however it is enough to only check
+  this once initially, since we can't leave TTY in favor of a graphical
+  instance without reloading the rc file and neither can we leave.
+- However, this function also checks for `USE_SHORTENED_WORKDIR`
+  variable and decides which prompt to show based on it. This means that
+  it someone was setting this variable in their profile file it would
+  now no longer be respected, however this was never the intention of
+  that variable, if a change is desired, the variable should simply be
+  edited in the prompt file directly.
+- Removing continual calls to this function each time prompt is redrawn
+  is worth the very minor inconvenience of no longer supporting
+  shortened workdirs from externally set variable due to the speed
+  benefit it gives us, though not that noticeable, it is pretty
+  significant. Not to mention that this wasn't intended/recommended
+  usage anyway.</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">
-                    17 Dec 2021, 22:58:09
+                    18 Dec 2021, 03:53:57
                   </div>
                             </section>
                         </div>
