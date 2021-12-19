@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="357" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="375" class="">
     <defs>
         <style/>
     </defs>
@@ -1413,12 +1413,34 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#6526156</span>
-                                        <span class="message">Remove deprecated semshi</span>
+                                        <span class="sha">#e6d9621</span>
+                                        <span class="message">Require snip plugins for cmp instead of using after</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">
-                    18 Dec 2021, 22:34:49
+                    19 Dec 2021, 02:32:27
+                  </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">ItsDrike/Stellar-Nvim</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#c40e9ad</span>
+                                        <span class="message">Remove irrelevant after</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">
+                    19 Dec 2021, 02:25:42
                   </div>
                             </section>
                         </div>
@@ -1435,50 +1457,32 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#299efd0</span>
-                                        <span class="message">Make LuaSnip plugin nvim-cmp requirement</span>
+                                        <span class="sha">#2f7cb68</span>
+                                        <span class="message">Add print_table function for easy debugging</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#2448ecc</span>
-                                        <span class="message">Add support for jumping in snippets when possible</span>
+                                        <span class="sha">#8a3b719</span>
+                                        <span class="message">Fix typo</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#d7444f7</span>
-                                        <span class="message">Handle duplicate snippets</span>
+                                        <span class="sha">#6fb50d1</span>
+                                        <span class="message">Move luasnip before buffer suggestions</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#8fa84c9</span>
-                                        <span class="message">Add luasnip snippet engine for cmp</span>
+                                        <span class="sha">#78d99c4</span>
+                                        <span class="message">Use shorter cmp source name for snippets</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e526fe4</span>
-                                        <span class="message">Remove irrelevant requirement</span>
+                                        <span class="sha">#af2daf6</span>
+                                        <span class="message">Use double quotes</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#702d884</span>
-                                        <span class="message">Manually define kind icons, don't use lspkind</span>
+                                        <span class="sha">#6f0ab63</span>
+                                        <span class="message">Add friendly-snippets plugin with tons of snippets</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">
-                    18 Dec 2021, 22:34:39
-                  </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 0 commits in <span class="repo">ItsDrike/Stellar-Nvim</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                </div>
-                                <div class="timestamp">
-                    18 Dec 2021, 22:34:25
+                    19 Dec 2021, 02:22:29
                   </div>
                             </section>
                         </div>
