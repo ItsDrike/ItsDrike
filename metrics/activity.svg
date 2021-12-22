@@ -1407,18 +1407,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">ItsDrike/ItsDrike</span>
+                      Pushed 1 commit in <span class="repo">ItsDrike/Stellar-Nvim</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#a1d144f</span>
-                                        <span class="message">Updated with Dev Metrics</span>
+                                        <span class="sha">#f6a8dde</span>
+                                        <span class="message">Stop venv from being recognized when there's none</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">
-                    22 Dec 2021, 01:13:39
+                    22 Dec 2021, 13:31:26
                   </div>
                             </section>
                         </div>
@@ -1435,12 +1435,12 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#2838275</span>
-                                        <span class="message">Add bashls lang server</span>
+                                        <span class="sha">#378fafe</span>
+                                        <span class="message">Use parent finding when searching for virtual env directories</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">
-                    21 Dec 2021, 14:18:51
+                    22 Dec 2021, 11:27:08
                   </div>
                             </section>
                         </div>
@@ -1451,18 +1451,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">ItsDrike/ItsDrike</span>
+                      Pushed 1 commit in <span class="repo">ItsDrike/Stellar-Nvim</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#a6e07a0</span>
-                                        <span class="message">Updated with Dev Metrics</span>
+                                        <span class="sha">#94d8717</span>
+                                        <span class="message">Fix comment formatting</span>
                                     </div>
                                 </div>
                                 <div class="timestamp">
-                    21 Dec 2021, 01:14:22
+                    22 Dec 2021, 11:19:19
                   </div>
                             </section>
                         </div>
