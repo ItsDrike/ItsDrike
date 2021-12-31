@@ -1581,22 +1581,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Lua</span>
-                            <div class="bar" style="width: 50.821520442230856%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 50.80234404950983%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">64%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 27.01111050298287%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 27.02886247877759%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">34%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 2.0622844945542114%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.063639848841667%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">C</span>
-                            <div class="bar" style="width: 0.10508456023206174%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.10515362287091297%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
