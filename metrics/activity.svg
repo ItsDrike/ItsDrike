@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="391" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="375" class="">
     <defs>
         <style/>
     </defs>
@@ -1407,6 +1407,28 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">ItsDrike/ItsDrike</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#83b9e0a</span>
+                                        <span class="message">Updated with Dev Metrics</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">
+                    4 Jan 2022, 01:13:53
+                  </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 4 commits in <span class="repo">ItsDrike/dotfiles</span>
                     </div>
                                 </div>
@@ -1461,34 +1483,6 @@
                                 </div>
                                 <div class="timestamp">
                     3 Jan 2022, 23:42:44
-                  </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">ItsDrike/mcstatus</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">retry-decorator</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#52151d3</span>
-                                        <span class="message">Require Tuple type for possible exceptions
-- Requiring simple Iterable type to pass the exceptable exceptions for
-  the retry decorator wasn't viable since except can only take a type
-  which inherits from BaseException or a tuple of these exception types.
-- While this could also be done by converting the iterable into a tuple,
-  that just brings additional overhead when the types could simply be
-  passed in as a tuple to start with.</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">
-                    3 Jan 2022, 13:04:21
                   </div>
                             </section>
                         </div>
