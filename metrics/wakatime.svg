@@ -69,11 +69,6 @@
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
-                            <div class="entry">
-                                <span class="name">System-Settings</span>
-                                <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                <span class="value">0%</span>
-                            </div>
                         </div>
                     </section>
                     <section class="column chart">
@@ -88,11 +83,6 @@
                                 <span class="name">Markdown</span>
                                 <div class="bar" style="width: 1.24%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Haskell</span>
-                                <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
