@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="323" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="582" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid#777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid#777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.stackoverflow{margin-left:38px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,18 +19,18 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#3312 Opening installer on Linux results in a blank white window</span>
+                                        Opened
+                                        <span class="issue">#134 Document install instructions for non-standard window managers</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by kiosion in <span class="repo">ImpactDevelopment/ImpactIssues</span></div>
-                                    <div class="comment">I'm also having this issue</div>
+                                    <div>opened  in <span class="repo">ImpactDevelopment/Installer</span></div>
                                 </div>
-                                <div class="timestamp">27 Jan 2022, 00:53:33</div>
+                                <div class="timestamp">27 Jan 2022, 02:30:49</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -40,18 +40,28 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">ItsDrike/mcstatus</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">cleanup</span></div>
                                     <div class="commit">
-                                        <div class="sha">#89f4178</div>
-                                        <div class="message">Move type constant below imports</div>
+                                        <div class="sha">#85c4e79</div>
+                                        <div class="message">Type ignore tries argument
+- The retry decorator provides support to extract an additional keyword
+  argument "tries" which isn't then passed onto the actual function,
+  however because of the incompleteness of typing.ParamSpec this isn't
+  possible to properly type-hint, which means it needs to be type
+  ignored, at least until it's possible to add keyword argument
+  parameter like this.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32e0c8e</div>
+                                        <div class="message">Run black on the code</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">26 Jan 2022, 18:00:14</div>
+                                <div class="timestamp">27 Jan 2022, 01:47:58</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,30 +71,125 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 19 commits in
                                         <span class="repo">ItsDrike/mcstatus</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">cleanup</span></div>
                                     <div class="commit">
-                                        <div class="sha">#14679ae</div>
-                                        <div class="message">Merge pull request #1 from Dinnerbone/cleanup-suggestions
+                                        <div class="sha">#69cd8f0</div>
+                                        <div class="message">Precompile valid hostname regex pattern
+- There's no reason to compile the pattern each time the
+  ensure_valid_ip function is ran, it slows things down for no reason,
+  instead just compile it immediately and keep it as a constant</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#393f2c5</div>
+                                        <div class="message">Merge branch 'master' into cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a437042</div>
+                                        <div class="message">Merge pull request #190 from ItsDrike/catch-bad-ips
 
-Fix compatibility with python3.7 and a few linter things</div>
+Ensure the address is valid on server init</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2074009</div>
-                                        <div class="message">Use typing_extensions for SupportsIndex
+                                        <div class="sha">#35b9447</div>
+                                        <div class="message">Use proper RFC compliant regex
+
+Source: https://stackoverflow.com/a/106223/2607949
+
+Co-authored-by: Kevin Tindall &lt;kevinkjt2000@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0d4c48</div>
+                                        <div class="message">Fix maximum port number
+
+Co-authored-by: Kevin Tindall &lt;kevinkjt2000@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99cdb66</div>
+                                        <div class="message">Merge pull request #191 from ChrisTracy/master
+
+Adding a Bedrock Example</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c04e0b1</div>
+                                        <div class="message">Merge pull request #186 from ItsDrike/retry-decorator
+
+Merge retry logic into a single decorator</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bdab2be</div>
+                                        <div class="message">Handle missing port on lookup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e96266</div>
+                                        <div class="message">Also test the retry amount on retry failures</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf1ca20</div>
+                                        <div class="message">Adding suggestion for includes
+
+Including players_online and latency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42be153</div>
+                                        <div class="message">Update README.md with lookup
 
 Co-authored-by: ItsDrike &lt;itsdrike@protonmail.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6be73e9</div>
-                                        <div class="message">Fix compatibility with python3.7 and a few linter things</div>
+                                        <div class="sha">#f1a573b</div>
+                                        <div class="message">Adding a Bedrock Example
+
+Added a bedrock example to the README.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da4770a</div>
+                                        <div class="message">Ensure the IP is valid on server init</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#966c56c</div>
+                                        <div class="message">Accept BaseExceptions, not just Exceptions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#560d04e</div>
+                                        <div class="message">Fix ignored type comment</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f2fdf1</div>
+                                        <div class="message">Add tests for retry decorator</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a49bac2</div>
+                                        <div class="message">Don't retry unnecessary code
+- Retrying connection creation and establishment isn't what we want to
+  do in many cases.
+- This is the reason tests for the server were failing!
+- Even if it doesn't mean breakage, it's not worth to retry code that
+  can only run once, it introduces unnecessary delays
+- The downside to this is that the code looks a lot messier, but at
+  least with some methods, it's absolutely necessary, as for the others,
+  if this isn't desired it can be mentioned in the PR review.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#52151d3</div>
+                                        <div class="message">Require Tuple type for possible exceptions
+- Requiring simple Iterable type to pass the exceptable exceptions for
+  the retry decorator wasn't viable since except can only take a type
+  which inherits from BaseException or a tuple of these exception types.
+- While this could also be done by converting the iterable into a tuple,
+  that just brings additional overhead when the types could simply be
+  passed in as a tuple to start with.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9211d72</div>
+                                        <div class="message">Add retry decorator</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">26 Jan 2022, 17:58:49</div>
+                                <div class="timestamp">27 Jan 2022, 01:37:18</div>
                             </section>
                         </div>
                     </section>
