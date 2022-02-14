@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="299" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="283" class="">
     <defs>
         <style/>
     </defs>
@@ -27,13 +27,13 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">add-flake8</span></div>
+                                    <div>on branch <span class="code">add-tox-workflow</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fccb92a</div>
-                                        <div class="message">Remove quotes on exclude paths</div>
+                                        <div class="sha">#0720328</div>
+                                        <div class="message">pleeeease</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Feb 2022, 00:02:01</div>
+                                <div class="timestamp">14 Feb 2022, 02:23:11</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -48,13 +48,13 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">fix-validation</span></div>
+                                    <div>on branch <span class="code">add-tox-workflow</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0532eb6</div>
-                                        <div class="message">Test no dir</div>
+                                        <div class="sha">#2bbfc3a</div>
+                                        <div class="message">windows?</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Feb 2022, 23:59:33</div>
+                                <div class="timestamp">14 Feb 2022, 02:21:09</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -64,22 +64,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">ItsDrike/mcstatus</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">add-flake8</span></div>
+                                    <div>on branch <span class="code">add-tox-workflow</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e1e3357</div>
-                                        <div class="message">Add flake8 to the github validation workflow</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c447ec6</div>
-                                        <div class="message">Fix import order (changed after merge)</div>
+                                        <div class="sha">#4454225</div>
+                                        <div class="message">Readd windows</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Feb 2022, 23:35:29</div>
+                                <div class="timestamp">14 Feb 2022, 02:12:03</div>
                             </section>
                         </div>
                     </section>
