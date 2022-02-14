@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="330" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="299" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.people{padding:0 10px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,94 +19,21 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#211 To replace sync 'dns.resolver.resolve' with `dns.asyncresolver`</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">ItsDrike/mcstatus</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by ba1dr in <span class="repo">Dinnerbone/mcstatus</span></div>
-                                    <div class="comment">
-                                        DNS resolving is pretty fast and usually only happens once, on
-                                        <code>MinecraftServer.lookup</code>
-                                        (sync), this is an alternative constructor method and there is no async alternative because we generally don't expect people to make too many new instances like this, and so there was never a need to make this asynchronous, but we certainly could add an async lookup version there, which would make the SRV DNS lookup asynchronously and pass the values to
-                                        <code>__init__</code>
-                                        afterwards.
-The more complicated part to address is the
-                                        <code>query</code>
-                                        function, which currently performs the DNS resolving each time it's called. This is somewhat unnecessary and it may be a good idea to resolve this IP ahead of time. I was able to think of 4 basic ways in which we could address this:
-
-We could simply perform the lookup on
-                                        <code>__init__</code>
-                                        itself and store it into a variable which the
-                                        <code>query</code>
-                                        function uses, though it isn't great because
-                                        <code>__init__</code>
-                                        is synchronous and so it would block async workflow each time the class is initialized. However at least it would only happen once (on initialization)
-To avoid the above hassle with resolving always being synchronous, since
-                                        <code>__init__</code>
-                                        itself is synchronous, we could simply add this A record DNS resolving into the
-                                        <code>lookup</code>
-                                        functions (which would now have both sync and async versions) and simply pass the resolved IP over to
-                                        <code>__init__</code>
-                                        as a parameter. However this completely breaks backwards compatibility just to pass an IP address along with
-                                        <code>host</code>
-                                        and
-                                        <code>port</code>
-                                        , and this IP would only actually be used in
-                                        <code>query</code>
-                                        , which isn't that commonly used by most people anyway, making it probably not worth the compatibility breakage
-We could also do the simplest fix of just running this A record resolve function each time, but for the async version it would run asynchronously while on the sync version, it wouldn't be changed and it'd keep running synchronously.
-The above fix is very easy, however it also keepts things pretty slow for no reason, if we don't need to resolve the IP address with each call, we shouldn't, but since we also can't do it on
-                                        <code>__init__</code>
-                                        and just making it take this resolved IP as a parameter completely breaks backwards compatibility, I believe the best solution would be to indeed perform this resolving when query is called, however once it's performed once, (asynchronously for the async query call, and synchronously for the sync call)  we should simply cache that result (if we wanted to also preserve mutability possibilities, we could also construct a cache key, being a hash of host and port values, and make the call if this key changed).
-
-I don't think there are any other cases of us performing DNS lookups like these. Though I do have another solution for the problem of
-                                        <code>query</code>
-                                        , and that is that with the sync TCP versions, we can get away with passing
-                                        <code>host</code>
-                                        and
-                                        <code>port</code>
-                                        easily, because
-                                        <code>socket</code>
-                                        module implements
-                                        <code>socket.create_connection</code>
-                                        function, which performs the DNS resolving for us, and for the async TCP connections, there's
-                                        <code>asyncio.make_connection</code>
-                                        , which can also perform this resolving. However with the async UDP connections, we're using
-                                        <code>asyncio_dgram.connect</code>
-                                        and this does not run the DNS resolving, which is very weird since it makes our
-                                        <code>Connection</code>
-                                        classes inconsistent and annoying to deal with. Instead we should simply look into how
-                                        <code>asyncio.make_connection</code>
-                                        is handling DNS resolving and replicate that for the UDP async connections directly.
+                                    <div>on branch <span class="code">add-flake8</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fccb92a</div>
+                                        <div class="message">Remove quotes on exclude paths</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Feb 2022, 19:52:21</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#203 Separate DNS logic into their own staticmethods</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by ItsDrike in <span class="repo">Dinnerbone/mcstatus</span></div>
-                                    <div class="comment">
-                                        <i>You understood me wrong. Full sentence: ...</i>
-                                        @PerchunPak 
-I don't believe the point was necessarily about how you're using mcstatus, it was more about just saying that we shouldn't do things outside of the scope of just being a library to get status of minecraft servers. While this process may include DNS lookups, it doesn't mean we should be adding and exposing functions to make these lower level lookups available and easily usable for the library users, it simply isn't what this library is for and if someone does want to use it like that, that's on them and we're not responsible for maintaining backwards compatibility on these nor for some exceptions you may encounter while using them.
-                                    </div>
-                                </div>
-                                <div class="timestamp">13 Feb 2022, 19:09:00</div>
+                                <div class="timestamp">14 Feb 2022, 00:02:01</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -116,18 +43,43 @@ I don't believe the point was necessarily about how you're using mcstatus, it wa
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">ItsDrike/mcstatus</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">cleanup-dns-logic</span></div>
+                                    <div>on branch <span class="code">fix-validation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8127439</div>
-                                        <div class="message">Merge branch 'master' into cleanup-dns-logic</div>
+                                        <div class="sha">#0532eb6</div>
+                                        <div class="message">Test no dir</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Feb 2022, 19:03:31</div>
+                                <div class="timestamp">13 Feb 2022, 23:59:33</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">ItsDrike/mcstatus</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">add-flake8</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e1e3357</div>
+                                        <div class="message">Add flake8 to the github validation workflow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c447ec6</div>
+                                        <div class="message">Fix import order (changed after merge)</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">13 Feb 2022, 23:35:29</div>
                             </section>
                         </div>
                     </section>
