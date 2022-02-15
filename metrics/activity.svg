@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="532" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="433" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,27 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a14fb91</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">15 Feb 2022, 01:21:10</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -108,61 +129,6 @@ Co-authored-by: ItsDrike &lt;itsdrike@protonmail.com&gt;</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">14 Feb 2022, 17:58:50</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">ItsDrike/mcstatus</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">add-tox-workflow</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#26f3fb8</div>
-                                        <div class="message">Define paths env vars in env with / separators
-- Turns out windows is fine with using / for separators, which makes the
-  previous way of doing this incredibely convoluted for no reason</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6cdcb9f</div>
-                                        <div class="message">We don't actually need tox-gh-actions in poetry</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a818d24</div>
-                                        <div class="message">Add tox-test github workflow
-- I totally didn't spend 35 commits debugging this until it worked</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5154b88</div>
-                                        <div class="message">Remove mock dependency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35c43e5</div>
-                                        <div class="message">use unittest.mock in favor of mock</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43a56b9</div>
-                                        <div class="message">Add typing-extensions to dev dependencies
-
-The lock file was also refreshed.
-
-Co-authored-by: ItsDrike &lt;itsdrike@protonmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a8dfd9</div>
-                                        <div class="message">Improve library typehints
-
-* Remove unnecessary typing_extensions dependency
-* Postpone annotation evaluation</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">14 Feb 2022, 17:53:33</div>
                             </section>
                         </div>
                     </section>
