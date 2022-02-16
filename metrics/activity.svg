@@ -23,17 +23,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">ItsDrike/Stellar-Nvim</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">rewrite</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9bd9332</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#de82655</div>
+                                        <div class="message">Add write_file utility function</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">16 Feb 2022, 01:19:18</div>
+                                <div class="timestamp">16 Feb 2022, 10:15:44</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -44,17 +44,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">ItsDrike/Stellar-Nvim</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">rewrite</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a14fb91</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#3d17243</div>
+                                        <div class="message">Don't use parentheses for function calls with string literals</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">15 Feb 2022, 01:21:10</div>
+                                <div class="timestamp">16 Feb 2022, 10:08:40</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -65,17 +65,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/dotfiles</span>
+                                        <span class="repo">ItsDrike/Stellar-Nvim</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">arch</span></div>
+                                    <div>on branch <span class="code">rewrite</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0993fae</div>
-                                        <div class="message">Add script for getting github notifications on desktop</div>
+                                        <div class="sha">#7851fd9</div>
+                                        <div class="message">Add mapping and autocmd helper functions</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 Feb 2022, 22:15:54</div>
+                                <div class="timestamp">16 Feb 2022, 10:07:30</div>
                             </section>
                         </div>
                     </section>
