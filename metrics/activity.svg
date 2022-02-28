@@ -29,62 +29,31 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#54c2291</div>
-                                        <div class="message">Merge pull request #241 from py-mine/dependabot/pip/pytest-asyncio-0.18.1
+                                        <div class="sha">#0549950</div>
+                                        <div class="message">Merge pull request #245 from py-mine/dependabot/pip/pytest-7.0.1
 
-Bump pytest-asyncio from 0.16.0 to 0.18.1</div>
+Bump pytest from 6.2.5 to 7.0.1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a083e65</div>
-                                        <div class="message">Bump pytest-asyncio from 0.16.0 to 0.18.1
+                                        <div class="sha">#cc6976d</div>
+                                        <div class="message">Bump pytest from 6.2.5 to 7.0.1
 
-Bumps [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) from 0.16.0 to 0.18.1.
-- [Release notes](https://github.com/pytest-dev/pytest-asyncio/releases)
-- [Commits](https://github.com/pytest-dev/pytest-asyncio/compare/v0.16.0...v0.18.1)
+Bumps [pytest](https://github.com/pytest-dev/pytest) from 6.2.5 to 7.0.1.
+- [Release notes](https://github.com/pytest-dev/pytest/releases)
+- [Changelog](https://github.com/pytest-dev/pytest/blob/main/CHANGELOG.rst)
+- [Commits](https://github.com/pytest-dev/pytest/compare/6.2.5...7.0.1)
 
 ---
 updated-dependencies:
-- dependency-name: pytest-asyncio
+- dependency-name: pytest
   dependency-type: direct:development
-  update-type: version-update:semver-minor
+  update-type: version-update:semver-major
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Feb 2022, 11:28:44</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">ItsDrike/PyMine-Net</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">add-pyright</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ff49d3c</div>
-                                        <div class="message">Fix return type for __getitem__
-Originally, this return type was "Packet, which I've then change to a
-Union of 2 subtypes of Packet, however this type was actually supposed
-to be a Type[Packet], so this changes the return type to the type
-(class) of the union of these 2 subtypes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#586841f</div>
-                                        <div class="message">Fix from_list fucntion
-In 7dcbfa9, I wrongly assumed that the function was taking instances,
-when in fact it was taking classes, this reverts that part of the
-commit.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">28 Feb 2022, 11:24:27</div>
+                                <div class="timestamp">28 Feb 2022, 19:52:00</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -101,28 +70,72 @@ commit.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#09650c0</div>
-                                        <div class="message">Merge pull request #240 from py-mine/dependabot/pip/dnspython-2.2.0
+                                        <div class="sha">#e1096b7</div>
+                                        <div class="message">Merge pull request #246 from py-mine/dependabot/pip/twine-3.8.0
 
-Bump dnspython from 2.1.0 to 2.2.0</div>
+Bump twine from 3.7.1 to 3.8.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5b8654c</div>
-                                        <div class="message">Bump dnspython from 2.1.0 to 2.2.0
+                                        <div class="sha">#549311c</div>
+                                        <div class="message">Bump twine from 3.7.1 to 3.8.0
 
-Bumps [dnspython]() from 2.1.0 to 2.2.0.
+Bumps [twine](https://github.com/pypa/twine) from 3.7.1 to 3.8.0.
+- [Release notes](https://github.com/pypa/twine/releases)
+- [Changelog](https://github.com/pypa/twine/blob/main/docs/changelog.rst)
+- [Commits](https://github.com/pypa/twine/compare/3.7.1...3.8.0)
 
 ---
 updated-dependencies:
-- dependency-name: dnspython
-  dependency-type: direct:production
+- dependency-name: twine
+  dependency-type: direct:development
   update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Feb 2022, 11:06:56</div>
+                                <div class="timestamp">28 Feb 2022, 19:33:10</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">py-mine/mcstatus</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#381d48e</div>
+                                        <div class="message">Merge pull request #244 from py-mine/dependabot/pip/pyright-1.1.225
+
+Bump pyright from 1.1.224.post0 to 1.1.225</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6b68c4</div>
+                                        <div class="message">Bump pyright from 1.1.224.post0 to 1.1.225
+
+Bumps [pyright](https://github.com/RobertCraigie/pyright-python) from 1.1.224.post0 to 1.1.225.
+- [Release notes](https://github.com/RobertCraigie/pyright-python/releases)
+- [Changelog](https://github.com/RobertCraigie/pyright-python/blob/main/release.py)
+- [Commits](https://github.com/RobertCraigie/pyright-python/compare/v1.1.224.post0...v1.1.225)
+
+---
+updated-dependencies:
+- dependency-name: pyright
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">28 Feb 2022, 19:18:32</div>
                             </section>
                         </div>
                     </section>
