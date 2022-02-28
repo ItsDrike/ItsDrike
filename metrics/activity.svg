@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="316" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="333" class="">
     <defs>
         <style/>
     </defs>
@@ -29,31 +29,30 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1a01489</div>
-                                        <div class="message">Merge pull request #237 from py-mine/dependabot/pip/click-8.0.4
+                                        <div class="sha">#54c2291</div>
+                                        <div class="message">Merge pull request #241 from py-mine/dependabot/pip/pytest-asyncio-0.18.1
 
-Bump click from 8.0.3 to 8.0.4</div>
+Bump pytest-asyncio from 0.16.0 to 0.18.1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0c84c6a</div>
-                                        <div class="message">Bump click from 8.0.3 to 8.0.4
+                                        <div class="sha">#a083e65</div>
+                                        <div class="message">Bump pytest-asyncio from 0.16.0 to 0.18.1
 
-Bumps [click](https://github.com/pallets/click) from 8.0.3 to 8.0.4.
-- [Release notes](https://github.com/pallets/click/releases)
-- [Changelog](https://github.com/pallets/click/blob/main/CHANGES.rst)
-- [Commits](https://github.com/pallets/click/compare/8.0.3...8.0.4)
+Bumps [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) from 0.16.0 to 0.18.1.
+- [Release notes](https://github.com/pytest-dev/pytest-asyncio/releases)
+- [Commits](https://github.com/pytest-dev/pytest-asyncio/compare/v0.16.0...v0.18.1)
 
 ---
 updated-dependencies:
-- dependency-name: click
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
+- dependency-name: pytest-asyncio
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Feb 2022, 06:23:30</div>
+                                <div class="timestamp">28 Feb 2022, 11:28:44</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -63,18 +62,29 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">ItsDrike/PyMine-Net</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">add-pyright</span></div>
                                     <div class="commit">
-                                        <div class="sha">#96aba95</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#ff49d3c</div>
+                                        <div class="message">Fix return type for __getitem__
+Originally, this return type was "Packet, which I've then change to a
+Union of 2 subtypes of Packet, however this type was actually supposed
+to be a Type[Packet], so this changes the return type to the type
+(class) of the union of these 2 subtypes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#586841f</div>
+                                        <div class="message">Fix from_list fucntion
+In 7dcbfa9, I wrongly assumed that the function was taking instances,
+when in fact it was taking classes, this reverts that part of the
+commit.</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Feb 2022, 01:19:34</div>
+                                <div class="timestamp">28 Feb 2022, 11:24:27</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -91,17 +101,28 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b9cfc36</div>
-                                        <div class="message">Merge pull request #236 from py-mine/change-repo-url
+                                        <div class="sha">#09650c0</div>
+                                        <div class="message">Merge pull request #240 from py-mine/dependabot/pip/dnspython-2.2.0
 
-Change repo URL</div>
+Bump dnspython from 2.1.0 to 2.2.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#08064ba</div>
-                                        <div class="message">Change repo URL</div>
+                                        <div class="sha">#5b8654c</div>
+                                        <div class="message">Bump dnspython from 2.1.0 to 2.2.0
+
+Bumps [dnspython]() from 2.1.0 to 2.2.0.
+
+---
+updated-dependencies:
+- dependency-name: dnspython
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">27 Feb 2022, 21:44:35</div>
+                                <div class="timestamp">28 Feb 2022, 11:06:56</div>
                             </section>
                         </div>
                     </section>
