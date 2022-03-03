@@ -194,12 +194,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 73.82218760431735%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 73.84922173599955%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">92%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 6.177812395682652%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 6.150778264000443%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">8%</span>
                         </div>
                     </div>
