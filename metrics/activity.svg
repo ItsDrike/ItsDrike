@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="649" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="582" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,160 +22,142 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">ItsDrike/PyMine-Net</span>
+                                        Pushed 52 commits in
+                                        <span class="repo">py-mine/mcstatus</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">add-pyright</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7138cc4</div>
-                                        <div class="message">Don't use len() on int variable</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4fa6de4</div>
-                                        <div class="message">Type-ignore vars with async init set to None in constructor</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Mar 2022, 11:03:02</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">ItsDrike/PyMine-Net</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">add-pyright</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c159328</div>
-                                        <div class="message">Use correct type (ServerBoundPacket, not ClientBoundPacket)</div>
+                                        <div class="sha">#562ed55</div>
+                                        <div class="message">Specify __all__ for address file</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8bbbdab</div>
-                                        <div class="message">Actually pass kwargs to fucntion that takes kwargs</div>
+                                        <div class="sha">#ac381e3</div>
+                                        <div class="message">Adhere to strictParameterNoneValue being true
+Pyright 1.1.224 has changed it's default behavior, which previously had
+strictParameterNonevalue set to false, which meant if a default value
+was None, and the type-hint of that parameter wasn't optional, it was
+inferred. This change requires Optional to be stated explicitly.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9b3d0b3</div>
-                                        <div class="message">Actually initialize buffer before calling instance methods</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Mar 2022, 09:42:19</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 61 commits in
-                                        <span class="repo">ItsDrike/PyMine-Net</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">add-pyright</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1a9dc71</div>
-                                        <div class="message">apply black &amp; isort</div>
+                                        <div class="sha">#7e32a94</div>
+                                        <div class="message">Merge branch 'master' into address-class</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8601ccd</div>
-                                        <div class="message">improve docstrings, comments, typehints, other minor fixes</div>
+                                        <div class="sha">#fe854d8</div>
+                                        <div class="message">Merge branch 'master' into address-class</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1df8d18</div>
-                                        <div class="message">Improve write_byte function's docstring</div>
+                                        <div class="sha">#cc13a30</div>
+                                        <div class="message">Make AddressBase class private</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#33f6e5d</div>
-                                        <div class="message">Use a dict switch instead of if-elif-elif mess</div>
+                                        <div class="sha">#41fc8ea</div>
+                                        <div class="message">Remove host and port as params from docstrings</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b054d53</div>
-                                        <div class="message">Enum comparison should be is, not __eq__</div>
+                                        <div class="sha">#33b19d8</div>
+                                        <div class="message">Remove parse_address fucntion (now in Address class)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#cd12ff9</div>
-                                        <div class="message">Improve from_list logic
-For some reason, the from_list method was originally making the instance
-in which it then (optionally) checked for duplicate packets based on ID.
-However during the original parsing, packets were stored as dicts with
-IDs as keys, this means even if there were some duplicates, they'd just
-get overridden and we'd only pass the last packet in the list with that
-ID. This meant the duplicate check would never actually catch any
-duplicate packets.
+                                        <div class="sha">#4f3e3fe</div>
+                                        <div class="message">Fix SRV test cases</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0294d85</div>
+                                        <div class="message">Use address for lookups</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72fa2d0</div>
+                                        <div class="message">Show repr of port values on errors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa3a9b4</div>
+                                        <div class="message">Store address instead of host and port</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70da03e</div>
+                                        <div class="message">Remove positional-only requirement (not yet in 3.7)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3ee09a</div>
+                                        <div class="message">Use pre 3.10 compliant type-hints</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d96fa6c</div>
+                                        <div class="message">Ensure address validity on creation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ecdc37</div>
+                                        <div class="message">Add SRV lookup functions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f754e65</div>
+                                        <div class="message">Split getting valid urlparse into private fucntion</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35960a7</div>
+                                        <div class="message">Format with black and follow flake8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b80d65</div>
+                                        <div class="message">Remove debug prints</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0369053</div>
+                                        <div class="message">Add some alternative constructors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a4ca67</div>
+                                        <div class="message">Add basic Address class with resolve methods
+This adds a new Address NamedTuple class, which we can later use in
+multiple places, even pass it to functions which take a pure tuple of
+(host, port), since it is a subclass of tuple.
 
-This logic was also not ideal because it went through the list of
-packets server times for no reason, when it could all be done in a
-single loop. This is way more efficient which would become noticable if
-the list of packets was long enough.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71db844</div>
-                                        <div class="message">Add some TODOs to fix weird things</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ac2eb3</div>
-                                        <div class="message">Make a more specific type for json-like values</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3edcce8</div>
-                                        <div class="message">Merge branch 'main' of https://github.com/py-mine/PyMine-Net into 3-packets</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0c7404</div>
-                                        <div class="message">Use Optional for params defaulting to None</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7fd9a5e</div>
-                                        <div class="message">Merge branch '3-packets' of https://github.com/py-mine/PyMine-Net into 3-packets</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52eff68</div>
-                                        <div class="message">fix invalid packet id + other minor fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#75564ae</div>
-                                        <div class="message">apply black &amp; isort</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4186eb0</div>
-                                        <div class="message">finish player + plugin packets + add some enums +Vector3 + Rotation type</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6e382a</div>
-                                        <div class="message">apply black &amp; isort</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33efc12</div>
-                                        <div class="message">0x0A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67e1fbb</div>
-                                        <div class="message">0x18</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39c0f44</div>
-                                        <div class="message">apply black &amp; isort</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b23cdf0</div>
-                                        <div class="message">Merge branch 'main' into 3-packets</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a702e4d</div>
-                                        <div class="message">move load_packet_map code to packet_map.py</div>
+This new class also includes both synchronous and asynchronous methods
+for performing A record DNS lookups to get the actual IP from a host.
+This can sometimes be useful, for example to know what ip type the
+address has (IPv4/IPv6) which is important for making sockets.</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 Mar 2022, 09:26:42</div>
+                                <div class="timestamp">21 Mar 2022, 18:54:13</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#227 Address class</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">py-mine/mcstatus</span></div>
+                                    <div>11 files changed <span class="code">++597 --144</span></div>
+                                </div>
+                                <div class="timestamp">21 Mar 2022, 18:54:09</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#211 Use`dns.asyncresolver` for asynchronous lookups instead of blocking 'dns.resolver.resolve'</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by py-mine-bot in <span class="repo">py-mine/mcstatus</span></div>
+                                </div>
+                                <div class="timestamp">21 Mar 2022, 18:54:09</div>
                             </section>
                         </div>
                     </section>
