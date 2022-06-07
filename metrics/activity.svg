@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="349" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="299" class="">
     <defs>
         <style/>
     </defs>
@@ -29,48 +29,15 @@
                                 <div class="details">
                                     <div>on branch <span class="code">chore/refactor</span></div>
                                     <div class="commit">
-                                        <div class="sha">#98c8c95</div>
-                                        <div class="message">Use new protocol connection</div>
+                                        <div class="sha">#caa0c38</div>
+                                        <div class="message">Add flake8-future-annotations</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bd12c71</div>
-                                        <div class="message">Use absolute imports</div>
+                                        <div class="sha">#f4d7f78</div>
+                                        <div class="message">Add missing future annotations import</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">6 Jun 2022, 19:46:07</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">janaSunrise/ZeroCOM</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">chore/refactor</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ca662f9</div>
-                                        <div class="message">Create connection class</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c91648</div>
-                                        <div class="message">Create buffer class for testing and intermediaries</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5523482</div>
-                                        <div class="message">Add abstract classes for reader/writer interfaces</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#478387d</div>
-                                        <div class="message">Support setting config file with env var</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">6 Jun 2022, 19:33:52</div>
+                                <div class="timestamp">6 Jun 2022, 22:55:06</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -87,11 +54,36 @@
                                 <div class="details">
                                     <div>on branch <span class="code">chore/refactor</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3d72e0b</div>
-                                        <div class="message">Switch to GPL</div>
+                                        <div class="sha">#740dc71</div>
+                                        <div class="message">Handle adding python executables to windows path
+Python's handling for windows site packages paths is literally the worst
+system I've ever seen. I can't even describe how annoyed am I with this
+implementation, but it's the best I was able to put together considering
+how this path is generated.</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">6 Jun 2022, 19:15:25</div>
+                                <div class="timestamp">6 Jun 2022, 22:34:32</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">janaSunrise/ZeroCOM</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">chore/refactor</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7827922</div>
+                                        <div class="message">Put everything together</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">6 Jun 2022, 22:30:11</div>
                             </section>
                         </div>
                     </section>
