@@ -20,7 +20,7 @@
 <!-- Load profile visitor count, but don't display it, keep it as a private stat, no need to show off (888)-->
 [](https://visitor-badge.glitch.me/badge?page_id=ItsDrike.ItsDrike)
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there 👋
 
 - :neutral_face: I usually work on back-end related development and algorithm design.
 - :man: I'm addicted to automating everything and a huge advocate of CI workflows, unit testing, and other DevOps related technologies.
