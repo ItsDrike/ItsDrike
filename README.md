@@ -15,7 +15,7 @@
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
 ![bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=bash&color=111&logoColor=AAA&style=flat-square)
-![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=111&logoColor=AAA&style=flat-square)
+![go](https://img.shields.io/static/v1?logo=rust&label=&message=rust&color=111&logoColor=AAA&style=flat-square)
 
 <!-- Load profile visitor count, but don't display it, keep it as a private stat, no need to show off (888)-->
 [](https://visitor-badge.glitch.me/badge?page_id=ItsDrike.ItsDrike)
