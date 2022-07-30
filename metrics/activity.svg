@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="316" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="599" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,6 +23,276 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">ItsDrike/dmenu</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#100e4bd</div>
+                                        <div class="message">Add patches/</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">30 Jul 2022, 08:37:03</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 25 commits in
+                                        <span class="repo">ItsDrike/dmenu</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e4827b0</div>
+                                        <div class="message">drw_text: don't segfault when called with 0 width
+
+this patch just rejects *any* 0 width draws, which is surely an error by
+the caller.
+
+this also guards against cases where the width is too small for the
+ellipsis to fit, so ellipsis_w will remain 0.
+reported by Bakkeby &lt;bakkeby@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e73651f</div>
+                                        <div class="message">fix UB with the function iscntrl()
+
+From commit 6818e07291f3b2913e687c8ec3d3fe4711724050 by NRK, thanks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31fa07b</div>
+                                        <div class="message">Revert "avoid redraw when there's no change"
+
+This reverts commit 6818e07291f3b2913e687c8ec3d3fe4711724050.
+
+This broke keys such as ^W to delete-backward-word</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6818e07</div>
+                                        <div class="message">avoid redraw when there's no change
+
+while i was timing the performance issue, i noticed that there was lots
+of random redrawing going on.
+
+turns out there were coming from here; if someone presses CTRL/ALT etc
+without pressing anything else, nothing will be inserted, so nothing
+will change. but the code will `break`, go down and do a needless redraw.
+
+this patch changes it to simply return if the keypress iscntrl()
+
+also avoid potential UB by casting *buf into an unsigned char.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b43ec05</div>
+                                        <div class="message">free all allocated items, use %zu for size_t
+
+`items` itself is not checked for NULL as calling free on NULL is defined to be
+a no-op.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22511c4</div>
+                                        <div class="message">drw_text: improve performance when there's no match
+
+this was the last piece of the puzzle, the case where we can't find any
+font to draw the codepoint.
+
+in such cases, we use XftFontMatch() which is INSANELY slow. but that's
+not the real problem. the real problem was we were continuously trying
+to match the same thing over and over again.
+
+this patch introduces a small cache, which keeps track a couple
+codepoints for which we know we won't find any matches.
+
+with this, i can dump lots of emojies into dmenu where some of them
+don't have any matching font, and still not have dmenu lag insanely or
+FREEZE completely when scrolling up and down.
+
+this also improves startup time, which will of course depend on the
+system and all installed fonts; but on my system and test case i see the
+following startup time drop:
+
+before -&gt; after
+60ms   -&gt; 34ms</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77526f7</div>
+                                        <div class="message">inputw: improve correctness and startup performance
+
+a massive amount of time inside readstdin() is spent trying to get the
+max input width and then put it into inputw, only for it to get clamped
+down to mw/3 inside setup().
+
+it makes more sense to calculate inputw inside setup() once we have mw
+available. similar to the last patch, i see noticeable startup
+performance improvement:
+
+before -&gt; after
+160ms  -&gt; 60ms
+
+additionally this will take fallback fonts into account compared to the
+previous version, so it's not only more performant but also more correct.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7269c53</div>
+                                        <div class="message">significantly improve performance on large strings
+
+this replaces inefficient pattern of `MIN(TEXTW(..), n)` with
+drw_fontset_getwidth_clamp() instead, which is far more efficient when
+we only want up to a certain width.
+
+dumping a decently sized (unicode) emoji file into dmenu, I see the
+startup time drop significantly with this patch.
+
+before -&gt; after
+360ms  -&gt; 160ms
+
+this should also noticeably improve input latency (responsiveness) given
+that calcoffsets() and drawmenu() are pretty hot functions.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6be057f</div>
+                                        <div class="message">introduce drw_fontset_getwidth_clamp()
+
+getting the width of a string is an O(n) operation, and in many cases
+users only care about getting the width upto a certain number.
+
+instead of calling drw_fontset_getwidth() and *then* clamping the
+result, this patch introduces drw_fontset_getwidth_clamp() function,
+similar to strnlen(), which will stop once we reach n.
+
+the `invert` parameter was overloaded internally to preserve the API,
+however library users should be calling drw_fontset_getwidth_clamp() and
+not depend upon internal behavior of drw_text().</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41fdabb</div>
+                                        <div class="message">drw_text: improve both performance and correctness
+
+this patch makes some non-trivial changes, which significantly improves
+the performance of drawing large strings as well as fixes any issues
+regarding the printing of the ellipsis when string gets truncated.
+
+* performance:
+
+before there were two O(n) loops, one which finds how long we can go
+without changing font, and the second loop would (incorrectly) truncate
+the string if it's too big.
+
+this patch merges the overflow calculation into the first loop and exits
+out when overflow is detected. when dumping lots of emojies into dmenu,
+i see some noticeable startup time improvement:
+
+before -&gt; after
+460ms  -&gt; 360ms
+
+input latency when scrolling up/down is also noticeably better and can
+be tested with the following:
+
+	for _ in $(seq 20); do
+		cat /dev/urandom | base64 | tr -d '\n' | head -c 1000000
+	echo
+	done | ./dmenu -l 10
+
+* correctness:
+
+the previous version would incorrectly assumed single byte chars and
+would overwrite them with '.' , this caused a whole bunch of obvious
+problems, including the ellipsis not getting rendered if then font
+changed.
+
+in addition to exiting out when we detect overflow, this patch also
+keeps track of the last x-position where the ellipsis would fit. if we
+detect overflow, we simply make a recursing call to drw_text() at the
+ellipsis_x position and overwrite what was there.
+
+so now the ellipsis will always be printed properly, regardless of
+weather the font changes or if the string is single byte char or not.
+
+the idea of rendering the ellipsis on top incase of overflow was
+from Bakkeby &lt;bakkeby@gmail.com&gt;, thanks! however the original patch had
+some issues incorrectly truncating the prompt (-p flag) and cutting off
+emojies. those have been fixed in here.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a505ce</div>
+                                        <div class="message">remove false-positive warning for int comparison as bool
+
+Reported by Prathu Baronia &lt;prathu.baronia@praton.me&gt;, patch slightly changed.
+
+Thanks!</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#308fe78</div>
+                                        <div class="message">bump version to 5.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4b656e</div>
+                                        <div class="message">code-style: rm newline (oops)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e39c52</div>
+                                        <div class="message">revert using strcasestr and use a more optimized portable version
+
+... compared to the old cistrstr().
+
+Thanks for the feedback!</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9a3836</div>
+                                        <div class="message">follow-up fix: add -D_GNU_SOURCE for strcasestr for some systems</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb96af2</div>
+                                        <div class="message">improve performance of case-insensitive matching</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d78ff08</div>
+                                        <div class="message">Revert "Improve speed of drw_text when provided with large strings"
+
+This reverts commit c585e8e498ec6f9c423ab8ea07cf853ee5b05fbe.
+
+It causes issues with truncation of characters when the text does not fit and
+so on.  The patch should be reworked and properly tested.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd2133a</div>
+                                        <div class="message">add support for more keypad keys
+
+The keypad Enter key was already supported. On some keyboard layouts like my
+laptop the page-up and page-down key is more comfortable to use.
+This adds a few lines but no complexity.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c585e8e</div>
+                                        <div class="message">Improve speed of drw_text when provided with large strings
+
+Calculates len &amp; ew in drw_font_getexts loop by incrementing instead of
+decrementing; as such avoids proportional increase in time spent in loop
+based on provided strings size.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#523aa08</div>
+                                        <div class="message">remove always true condition in if statement</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">30 Jul 2022, 08:36:29</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">ItsDrike/ItsDrike</span>
                                     </div>
                                 </div>
@@ -34,56 +304,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">30 Jul 2022, 02:13:08</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">arch</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#895837e</div>
-                                        <div class="message">Add pcmanfm settings</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">29 Jul 2022, 23:34:12</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">ItsDrike/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">arch</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fac83b6</div>
-                                        <div class="message">Update alacritty config</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d447827</div>
-                                        <div class="message">Update paccache timer service</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c227e1</div>
-                                        <div class="message">Update usage comments in paccache.timer</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">29 Jul 2022, 21:53:28</div>
                             </section>
                         </div>
                     </section>
