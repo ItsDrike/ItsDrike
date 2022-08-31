@@ -88,7 +88,7 @@
  <summary>:chart_with_upwards_trend: <b>Extensive wakatime details</b></summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C450%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C450%20hrs%2016%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -144,7 +144,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2022 02:41:24 UTC
+ Last Updated on 31/08/2022 02:49:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
