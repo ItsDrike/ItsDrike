@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="599" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="915" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,173 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 60 commits in
+                                        <span class="repo">bytelink/bytelink</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">rename</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#595f33e</div>
+                                        <div class="message">Store a pretocol version config var</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7002d9a</div>
+                                        <div class="message">Make server able to receive and respond to ping</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#847e3f3</div>
+                                        <div class="message">Add basic client implementation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc3e978</div>
+                                        <div class="message">Remove ReadWriteCapable form packet class</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d8c9fd</div>
+                                        <div class="message">Add basic server implementation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b550bef</div>
+                                        <div class="message">Use read/write bytearrays instead of doing it manually</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62dd4d4</div>
+                                        <div class="message">Move the entire zerocom infrastructure to async</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#74ac49f</div>
+                                        <div class="message">Mark serialize as abstractmethod</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51dfd25</div>
+                                        <div class="message">Add ping packets</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb3d181</div>
+                                        <div class="message">Completely rework how packets will work</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e8d23e</div>
+                                        <div class="message">Add remaining property to buffer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e14786</div>
+                                        <div class="message">Add a message packet</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32d46f6</div>
+                                        <div class="message">Add MalformedPacketError</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0ab5e0</div>
+                                        <div class="message">Block initialization, not subclassing on missing PACKET_ID
+
+The Packet class was originally using __init_subclass__, which is called
+each time a child class is created. In there, we were performing a check
+that ensures that this child class does define PACKET_ID class variable.
+
+This does works, however it is against the nature of ABCs, since it
+doesn't allow the class to be extendable through another abstract class,
+it forces all subclasses to already have PACKET_ID, which is needed for
+concrete subclasses, but not necessarily for abstract subclasses, hence
+preventing more abstract subclasses to be made from this class.
+
+Instead of that, this commit replaces __init_subclass__ with simple
+check in __init__, as every subclass is expected to call the __init__ of
+it's super class, triggering this PACKET_ID check with it. Since
+__init__ only runs on initialization (making of an instance), not on
+making of another class itself, it behaves much more like python's ABCs
+are expected to, and allows extendability by other abstract classes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e36204</div>
+                                        <div class="message">Allow passing `bytes` type into `write_bytearray`
+
+While it may be slightly odd to use `bytes` instead of `bytearray` to be
+passed into a function for writing bytearrays, however it actually makes
+a lot of sense.
+
+Type-wise, `bytearray` is actually a subtype of bytes, so bytearrays can
+still be passed with the annotation being `bytes` type.
+
+The reason using `bytes` makes more sense is because this type also
+supports `__len__`, and can be sent over as an array of individual
+bytes. There is therefore no reason to disallow this type, and it does
+allow us to avoid needlessly casting/converting bytes to bytearrays.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#52c7e5e</div>
+                                        <div class="message">Add packet interractions functions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f85640</div>
+                                        <div class="message">Add base packet class</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e43652d</div>
+                                        <div class="message">Add base classes for read/write capable classes
+
+These classes define a standardized interface across all classes which
+should support being read (deserialized) or written (serialized) with
+any BaseWriter/BaseReader.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b7fae7</div>
+                                        <div class="message">Remove repetition in base_io by using an Enum
+
+The writer/reader classes were introducing a lot of repetition, which
+was very likely to grow as more types would get added (read/write byte,
+read/write short, read/write int, read/write long, ... and all that with
+both signed and unsigned versions). These functions were explicitly
+defined only because it was slightly more convenient and explicit
+type-wise, but this wasn't a good solution for long-term.
+
+Instead, this replaces explicit functions with a single function taking
+in an enum value defining what struct type should be read/written. To
+still provide type-checking, this new function includes overloads with
+Unions of literal enum values common for ints/floats/etc. allowing easy
+typing without too much repetition.
+
+Because struct is doing most of our serailization/deserialization, it
+has it's own error handling, which we catch and raise a ValueError with
+the same message for consistency. This allows us to avoid things like
+checking, meaning the whole enforce_decorator was removed.
+
+This also changes varnums and renames write/read_varnum to
+write/read_varuint, along with changing max size to use bits, which is
+more explicit, and makes things slightly easier for us. The regular
+write/read_varint is now also not using a static 32-bit (8-byte) size as
+regular ints, but rather an arbitrarily sized number depending on passed
+max_bits. Since this is a signed function which doesn't use a fixed
+amount of bits, this also adds to_twos_complement and
+from_twos_complement helper functions.
+
+This is essentially almost a full rewrite of the base_io file, and
+while this is a little less convenient solution (instead of
+`writer.read_byte()` we now need `writer.read_value(StructFormat.BYTE)`,
+I think it's worth it for how much repetition it avoids.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1dea73a</div>
+                                        <div class="message">Rename protocol.abc to protocol.base_io
+
+This rename is necessary as it prepares the file to be used for other
+things than just abstract classes. These other uses should be present in
+the same file, and will include major changes to the file, this commit
+just prepares for that.</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">4 Sept 2022, 19:49:08</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -198,27 +365,6 @@ just prepares for that.</div>
                                     <div>32 files changed <span class="code">++1610 --1140</span></div>
                                 </div>
                                 <div class="timestamp">4 Sept 2022, 08:28:39</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#df6f3ef</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">4 Sept 2022, 02:29:55</div>
                             </section>
                         </div>
                     </section>
