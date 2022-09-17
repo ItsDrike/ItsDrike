@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="599" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="283" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,27 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#65b3305</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Sept 2022, 02:31:17</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -55,103 +76,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">15 Sept 2022, 02:45:54</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 38 commits in
-                                        <span class="repo">ItsDrike/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">bspwm</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7c5b871</div>
-                                        <div class="message">Add a quick script which starts lemonbar on all monitors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d7a671</div>
-                                        <div class="message">Sort workspaces in lemonbar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a292d3e</div>
-                                        <div class="message">Add a script for swapping desktops across monitors on BSPWM</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e80decb</div>
-                                        <div class="message">Remove debug print</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#823a8ad</div>
-                                        <div class="message">Make workspaces clickable</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52a00e9</div>
-                                        <div class="message">Allow specifying further arguments in actions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#219f8eb</div>
-                                        <div class="message">Allow specifying maximum amount of clickable areas</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f65b8d</div>
-                                        <div class="message">Add trayer applet to lemonbar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e412aba</div>
-                                        <div class="message">Add support for running dman outside of terminal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e24ad10</div>
-                                        <div class="message">Add script to open man page with dmenu</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b2f557</div>
-                                        <div class="message">Specify default mimeapps</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#104bcb8</div>
-                                        <div class="message">Mention an alternative to trayer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#445e3b6</div>
-                                        <div class="message">Add script for quick dmenu confirm prompt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca0c26b</div>
-                                        <div class="message">Add script to quickly run arbitrary python code with dmenu</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#977eb98</div>
-                                        <div class="message">Use full if for more involved logic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e111fd</div>
-                                        <div class="message">Move scripts that require gui to gui/</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ef59a7</div>
-                                        <div class="message">Add lemonbar implementation for bspwm</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a916b15</div>
-                                        <div class="message">Symlink for python_history for clean ~</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11e757c</div>
-                                        <div class="message">Exclude polybar and lemonbar from rounded corners</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dad13d0</div>
-                                        <div class="message">Automatically clear pacman cache using systemd</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">14 Sept 2022, 10:20:51</div>
                             </section>
                         </div>
                     </section>
