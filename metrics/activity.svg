@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="449" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="299" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.people{padding:0 10px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,27 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#58b9e66</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Sept 2022, 02:32:53</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -74,133 +95,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">21 Sept 2022, 17:41:50</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">py-mine/mcstatus</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">use-poetry-groups</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ea684dc</div>
-                                        <div class="message">Add poetry-dynamic-versioning as a release dependency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e523cf</div>
-                                        <div class="message">Move release dependencies into a group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58a0add</div>
-                                        <div class="message">Move to using poetry dependency groups
-
-This moves the current monolithic dependency structure which only
-distinguishes between dev dependencies and main project dependencies to
-a more modular structure where the dev dependencies aren't all clumped
-together.
-
-By default, these dependency groups will always get installed with
-`poetry install` unless it's an optional dependency group, in which case
-it needs to be included manually using `poetry install --with
-my-optional-group`. Similarly, we can also exclude a dependency group
-using `poetry install --without my-group` if we don't need it. For
-example we don't need to install the dependencies for linting in our
-testing workflow, so we can simply use `poetry install --without lint`
-to exclude this group.
-
-Note that these groups are internal to poetry only, and unlike extras,
-they won't affect releases, which will still only include the
-dependencies from main group. This change therefore shouldn't have any
-effect on the end-users.
-
-Because we can have these optional groups, which aren't installed by
-default, it finally allows us to specify a locked version of some
-dependencies we need in workflows (instead of just running `pip install`
-in the workflow) and have poetry manage it, without just adding it to
-the dev dependencies and have it needlessly install for everyone (like
-with `tox-gh-actions`). Other than just with workflows, it also allows
-us to separate release dev dependencies (like `twine`) as most people
-working on the library won't actually be making releases.
-
-Dependency groups are a relatively new feature in poetry, and were
-introduced as a part of the 1.2 release. For more info about them, see
-the documentation:
-- https://python-poetry.org/docs/managing-dependencies/#dependency-groups
-- https://python-poetry.org/docs/pyproject/#dependencies-and-dependency-groups
-- https://python-poetry.org/docs/cli/#install</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c55270f</div>
-                                        <div class="message">Merge pull request #400 from py-mine/poetry-1.2-fix
-
-Fix poetry 1.2 support</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef93dda</div>
-                                        <div class="message">Fix poetry 1.2 support
-
-Release of poetry 1.2, introduced a regression which broke pip --user
-installs. These types of installs were the main way we performed
-instalations in the CI workflows, as they made it more convenient to
-control the location, availability and caching of packages.
-
-Poetry's team does not recognize this as a supported use case, so major
-changes were required to get everything working again. Most of the
-changes were consolidated into HassanAbouelela/setup-python which we now
-use to set up python and poetry for us.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#225b1bf</div>
-                                        <div class="message">Merge pull request #399 from py-mine/dependabot/pip/pyright-1.1.271
-
-Bump pyright from 1.1.270 to 1.1.271</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac072aa</div>
-                                        <div class="message">Bump pyright from 1.1.270 to 1.1.271
-
-Bumps [pyright](https://github.com/RobertCraigie/pyright-python) from 1.1.270 to 1.1.271.
-- [Release notes](https://github.com/RobertCraigie/pyright-python/releases)
-- [Commits](https://github.com/RobertCraigie/pyright-python/compare/v1.1.270...v1.1.271)
-
----
-updated-dependencies:
-- dependency-name: pyright
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0594ca</div>
-                                        <div class="message">Merge pull request #394 from PerchunPak/remove-flake8-isort
-
-Remove `flake8-isort`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73d45c3</div>
-                                        <div class="message">Remove `flake8-isort`
-
-Because `isort` is also installed. I also removed some
-outdated settings from `.flake8`, which left from
-`flake8-import-order` configuration.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e82f8fb</div>
-                                        <div class="message">Merge pull request #398 from py-mine/dependabot/pip/flake8-bugbear-22.9.11
-
-Bump flake8-bugbear from 22.8.23 to 22.9.11</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Sept 2022, 17:30:36</div>
                             </section>
                         </div>
                     </section>
