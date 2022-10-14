@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="616" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="273" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,295 +19,52 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 25 commits in
-                                        <span class="repo">py-mine/mcstatus</span>
+                                        Reviewed
+                                        <span class="issue">#408 Use `time.perf_counter` for latency</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">use-poetry-groups</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0b81752</div>
-                                        <div class="message">Merge pull request #413 from py-mine/dependabot/pip/black-22.10.0
-
-Bump black from 22.8.0 to 22.10.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3cb41ef</div>
-                                        <div class="message">Bump black from 22.8.0 to 22.10.0
-
-Bumps [black](https://github.com/psf/black) from 22.8.0 to 22.10.0.
-- [Release notes](https://github.com/psf/black/releases)
-- [Changelog](https://github.com/psf/black/blob/main/CHANGES.md)
-- [Commits](https://github.com/psf/black/compare/22.8.0...22.10.0)
-
----
-updated-dependencies:
-- dependency-name: black
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e896f2</div>
-                                        <div class="message">Merge pull request #409 from py-mine/dependabot/pip/flake8-future-annotations-1.0.0
-
-Bump flake8-future-annotations from 0.0.5 to 1.0.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6026f9</div>
-                                        <div class="message">Bump flake8-future-annotations from 0.0.5 to 1.0.0
-
-Bumps [flake8-future-annotations](https://github.com/tyleryep/flake8-future-annotations) from 0.0.5 to 1.0.0.
-- [Release notes](https://github.com/tyleryep/flake8-future-annotations/releases)
-- [Commits](https://github.com/tyleryep/flake8-future-annotations/compare/v0.0.5...v1.0.0)
-
----
-updated-dependencies:
-- dependency-name: flake8-future-annotations
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fd1f3d</div>
-                                        <div class="message">Merge pull request #412 from py-mine/dependabot/pip/typing-extensions-4.4.0
-
-Bump typing-extensions from 4.3.0 to 4.4.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2b0377</div>
-                                        <div class="message">Bump typing-extensions from 4.3.0 to 4.4.0
-
-Bumps [typing-extensions](https://github.com/python/typing_extensions) from 4.3.0 to 4.4.0.
-- [Release notes](https://github.com/python/typing_extensions/releases)
-- [Changelog](https://github.com/python/typing_extensions/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/python/typing_extensions/compare/4.3.0...4.4.0)
-
----
-updated-dependencies:
-- dependency-name: typing-extensions
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28e6206</div>
-                                        <div class="message">Merge pull request #411 from py-mine/dependabot/pip/pyright-1.1.274
-
-Bump pyright from 1.1.273 to 1.1.274</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c8c948</div>
-                                        <div class="message">Bump pyright from 1.1.273 to 1.1.274
-
-Bumps [pyright](https://github.com/RobertCraigie/pyright-python) from 1.1.273 to 1.1.274.
-- [Release notes](https://github.com/RobertCraigie/pyright-python/releases)
-- [Commits](https://github.com/RobertCraigie/pyright-python/compare/v1.1.273...v1.1.274)
-
----
-updated-dependencies:
-- dependency-name: pyright
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#981c806</div>
-                                        <div class="message">Merge pull request #393 from PerchunPak/add-translation-field-to-raw-response-description-when-dict
-
-Add `translation` field to `RawResponseDescriptionWhenDict`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b35f8f</div>
-                                        <div class="message">Merge pull request #386 from PerchunPak/pep-604
-
-Use `|` instead of `typing.Union`, `typing.Optional` (PEP 604)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51e3108</div>
-                                        <div class="message">Use `|` instead of `typing.Union`, `typing.Optional` (PEP 604)
-
-Why am I using `flake8-new-union-types`, and not `flake8-pep604`? Second
-one is checking only imports and only `typing.Union`, `typing.Optional`
-was ignored.
-
-(Inspired by #375)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#549dae9</div>
-                                        <div class="message">Add `translation` field to `RawResponseDescriptionWhenDict`
-
-I forgot to add it, sorry. Found this while fixed merge conflict inside
-#335.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13f6319</div>
-                                        <div class="message">Merge pull request #404 from py-mine/dependabot/pip/pyright-1.1.273
-
-Bump pyright from 1.1.272 to 1.1.273</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93c2407</div>
-                                        <div class="message">Bump pyright from 1.1.272 to 1.1.273
-
-Bumps [pyright](https://github.com/RobertCraigie/pyright-python) from 1.1.272 to 1.1.273.
-- [Release notes](https://github.com/RobertCraigie/pyright-python/releases)
-- [Commits](https://github.com/RobertCraigie/pyright-python/compare/v1.1.272...v1.1.273)
-
----
-updated-dependencies:
-- dependency-name: pyright
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#326660a</div>
-                                        <div class="message">Merge pull request #405 from py-mine/dependabot/pip/pytest-cov-4.0.0
-
-Bump pytest-cov from 3.0.0 to 4.0.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d56ee7a</div>
-                                        <div class="message">Bump pytest-cov from 3.0.0 to 4.0.0
-
-Bumps [pytest-cov](https://github.com/pytest-dev/pytest-cov) from 3.0.0 to 4.0.0.
-- [Release notes](https://github.com/pytest-dev/pytest-cov/releases)
-- [Changelog](https://github.com/pytest-dev/pytest-cov/blob/master/CHANGELOG.rst)
-- [Commits](https://github.com/pytest-dev/pytest-cov/compare/v3.0.0...v4.0.0)
-
----
-updated-dependencies:
-- dependency-name: pytest-cov
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33ec39c</div>
-                                        <div class="message">Merge pull request #406 from py-mine/dependabot/pip/coverage-6.5.0
-
-Bump coverage from 6.4.4 to 6.5.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7fc660</div>
-                                        <div class="message">Bump coverage from 6.4.4 to 6.5.0
-
-Bumps [coverage](https://github.com/nedbat/coveragepy) from 6.4.4 to 6.5.0.
-- [Release notes](https://github.com/nedbat/coveragepy/releases)
-- [Changelog](https://github.com/nedbat/coveragepy/blob/master/CHANGES.rst)
-- [Commits](https://github.com/nedbat/coveragepy/compare/6.4.4...6.5.0)
-
----
-updated-dependencies:
-- dependency-name: coverage
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79d333f</div>
-                                        <div class="message">Merge pull request #403 from py-mine/dependabot/pip/flake8-bugbear-22.9.23
-
-Bump flake8-bugbear from 22.9.11 to 22.9.23</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12c6881</div>
-                                        <div class="message">Bump flake8-bugbear from 22.9.11 to 22.9.23
-
-Bumps [flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) from 22.9.11 to 22.9.23.
-- [Release notes](https://github.com/PyCQA/flake8-bugbear/releases)
-- [Commits](https://github.com/PyCQA/flake8-bugbear/compare/22.9.11...22.9.23)
-
----
-updated-dependencies:
-- dependency-name: flake8-bugbear
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
+                                    <div>opened by PerchunPak in <span class="repo">py-mine/mcstatus</span></div>
                                 </div>
-                                <div class="timestamp">13 Oct 2022, 18:27:12</div>
+                                <div class="timestamp">13 Oct 2022, 23:14:44</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        Commented on
+                                        <span class="issue">#335 Rework `motd` field, and upgrade parser</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7877733</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
+                                    <div>opened by PerchunPak in <span class="repo">py-mine/mcstatus</span></div>
+                                    <div class="comment">What do you mean ID of the string? ID, generally stands for "Identification", how is this an ID of the string?</div>
                                 </div>
-                                <div class="timestamp">13 Oct 2022, 02:35:56</div>
+                                <div class="timestamp">13 Oct 2022, 22:23:26</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">py-mine/mcstatus</span>
+                                        Reviewed
+                                        <span class="issue">#335 Rework `motd` field, and upgrade parser</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7e896f2</div>
-                                        <div class="message">Merge pull request #409 from py-mine/dependabot/pip/flake8-future-annotations-1.0.0
-
-Bump flake8-future-annotations from 0.0.5 to 1.0.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6026f9</div>
-                                        <div class="message">Bump flake8-future-annotations from 0.0.5 to 1.0.0
-
-Bumps [flake8-future-annotations](https://github.com/tyleryep/flake8-future-annotations) from 0.0.5 to 1.0.0.
-- [Release notes](https://github.com/tyleryep/flake8-future-annotations/releases)
-- [Commits](https://github.com/tyleryep/flake8-future-annotations/compare/v0.0.5...v1.0.0)
-
----
-updated-dependencies:
-- dependency-name: flake8-future-annotations
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
+                                    <div>opened by PerchunPak in <span class="repo">py-mine/mcstatus</span></div>
                                 </div>
-                                <div class="timestamp">12 Oct 2022, 14:55:43</div>
+                                <div class="timestamp">13 Oct 2022, 22:23:26</div>
                             </section>
                         </div>
                     </section>
