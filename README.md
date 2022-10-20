@@ -4,8 +4,7 @@
 [![discord](https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=111&logoColor=AAA&style=flat-square)](https://discord.gg/B8rf3xxgbJ)
 <br>
 ![editors](https://img.shields.io/static/v1?label=&message=editors:&color=555&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
-![vscode](https://img.shields.io/static/v1?logo=visual-studio-code&label=&message=vscode&color=111&logoColor=AAA&style=flat-square)
+![nvim](https://img.shields.io/static/v1?logo=neovim&label=&message=NeoVim&color=111&logoColor=AAA&style=flat-square)
 <br>
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 ![github-actions](https://img.shields.io/static/v1?logo=github-actions&label=&message=github%20actions&color=111&logoColor=AAA&style=flat-square)
