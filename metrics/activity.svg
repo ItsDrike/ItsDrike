@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="516" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="349" class="">
     <defs>
         <style/>
     </defs>
@@ -22,54 +22,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">ItsDrike/temp-dotfiles</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">ItsDrike/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">arch</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2bc55f4</div>
-                                        <div class="message">Update pcmanfm window size</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce38dde</div>
-                                        <div class="message">Update sudo askpass to menupass</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39306e4</div>
-                                        <div class="message">Update aliases</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e44a7e</div>
-                                        <div class="message">Disable TMOUT</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f3ad4a</div>
-                                        <div class="message">Remove deprecated tmp folder definition from npmrc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f17d7e5</div>
-                                        <div class="message">Several hyprland config changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f6c926</div>
-                                        <div class="message">Move npm settings to proper location</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2125dee</div>
-                                        <div class="message">Don't ignore scripts in comparison</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4fea53</div>
-                                        <div class="message">Handle sys file being a directory while dotfile is file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20a545b</div>
-                                        <div class="message">Initial commit</div>
+                                        <div class="sha">#eadb379</div>
+                                        <div class="message">Add notice about temporary dotfiles repo for wayland</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">29 Oct 2022, 18:45:17</div>
+                                <div class="timestamp">29 Oct 2022, 22:28:42</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -80,29 +44,29 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 4 commits in
-                                        <span class="repo">ItsDrike/temp-dotfiles</span>
+                                        <span class="repo">ItsDrike/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">bspwm</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c0501e0</div>
-                                        <div class="message">Update aliases</div>
+                                        <div class="sha">#900af32</div>
+                                        <div class="message">Add notice about temporary dotfiles repo for wayland</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#942b406</div>
-                                        <div class="message">Disable TMOUT</div>
+                                        <div class="sha">#70409c7</div>
+                                        <div class="message">Fix path to lockscreen sript in xprofile</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ca9fd0e</div>
-                                        <div class="message">Remove deprecated tmp folder definition from npmrc</div>
+                                        <div class="sha">#56a92f4</div>
+                                        <div class="message">Create empty folder for npm in xdg data home</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9c743f2</div>
-                                        <div class="message">Several hyprland config changes</div>
+                                        <div class="sha">#e16a08b</div>
+                                        <div class="message">Set NUGET_PACKAGES, removing default ~/.nuget</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">29 Oct 2022, 18:40:44</div>
+                                <div class="timestamp">29 Oct 2022, 22:27:32</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -112,26 +76,22 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">ItsDrike/temp-dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#25948a3</div>
-                                        <div class="message">Move npm settings to proper location</div>
+                                        <div class="sha">#a67935f</div>
+                                        <div class="message">Remove unused exclude rules</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#abe692e</div>
-                                        <div class="message">Don't ignore scripts in comparison</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea209a3</div>
-                                        <div class="message">Handle sys file being a directory while dotfile is file</div>
+                                        <div class="sha">#e4826a3</div>
+                                        <div class="message">Also allow passwordless backlight on amd gpu screens</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">29 Oct 2022, 18:37:06</div>
+                                <div class="timestamp">29 Oct 2022, 21:57:08</div>
                             </section>
                         </div>
                     </section>
