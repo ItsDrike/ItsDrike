@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="299" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="333" class="">
     <defs>
         <style/>
     </defs>
@@ -22,45 +22,32 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 4 commits in
                                         <span class="repo">py-mine/mcproto</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b07903f</div>
-                                        <div class="message">Use a more readable placeholder for OS version</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Dec 2022, 02:58:07</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">py-mine/mcproto</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2a08ecc</div>
-                                        <div class="message">Merge pull request #5 from py-mine/add-issue-templates
+                                        <div class="sha">#801eef8</div>
+                                        <div class="message">Merge pull request #1 from py-mine/add-connection-close-tests
 
-Add issue templates</div>
+Add connection close tests</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#89d588b</div>
-                                        <div class="message">Add issue templates</div>
+                                        <div class="sha">#83f34a1</div>
+                                        <div class="message">Add some comments for IOErrors in read</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6ade0f</div>
+                                        <div class="message">Don't initialize NotImplementedError(s)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e390ca2</div>
+                                        <div class="message">Add tests for closing connection</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Dec 2022, 02:54:56</div>
+                                <div class="timestamp">18 Dec 2022, 01:41:35</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -71,14 +58,35 @@ Add issue templates</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#5 Add issue templates</span>
+                                        <span class="issue">#1 Add connection close tests</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">py-mine/mcproto</span></div>
-                                    <div>4 files changed <span class="code">++127 --0</span></div>
+                                    <div>2 files changed <span class="code">++83 --12</span></div>
                                 </div>
-                                <div class="timestamp">17 Dec 2022, 02:54:51</div>
+                                <div class="timestamp">18 Dec 2022, 01:41:35</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c7f07b6</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">18 Dec 2022, 01:35:19</div>
                             </section>
                         </div>
                     </section>
