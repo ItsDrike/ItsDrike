@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">v1.0.0</span>
+                                        <span class="bold">v1.0.2</span>
                                         of
                                         <span class="repo">ItsDrike/setup-poetry</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">31 Dec 2022, 01:11:40</div>
+                                <div class="timestamp">31 Dec 2022, 05:13:48</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -45,11 +45,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a0710a4</div>
-                                        <div class="message">Update action.yml</div>
+                                        <div class="sha">#25eb239</div>
+                                        <div class="message">Fix typo in input, resulting in cache key not checking pyproject</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">31 Dec 2022, 01:09:45</div>
+                                <div class="timestamp">31 Dec 2022, 05:11:57</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -60,17 +60,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/setup-poetry</span>
+                                        <span class="repo">py-mine/mcproto</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">drop-hassanabouelela-setup-python</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f228e1b</div>
-                                        <div class="message">Update action.yml</div>
+                                        <div class="sha">#88bfa72</div>
+                                        <div class="message">Switch to ItsDrike/setup-poetry</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">31 Dec 2022, 01:09:18</div>
+                                <div class="timestamp">31 Dec 2022, 04:52:28</div>
                             </section>
                         </div>
                     </section>
