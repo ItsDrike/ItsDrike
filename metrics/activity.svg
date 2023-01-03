@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="499" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="283" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,27 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">py-mine/mcproto</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4c571c3</div>
+                                        <div class="message">Add codeclimate config file</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">3 Jan 2023, 15:16:44</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -55,81 +76,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">2 Jan 2023, 04:14:45</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">py-mine/mcproto</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#24a55f2</div>
-                                        <div class="message">Merge pull request #12 from py-mine/drop-hassanabouelela-setup-python
-
-Replace HassanAbouelela/setup-python with ItsDrike/setup-poetry</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f344555</div>
-                                        <div class="message">Cache pytest cache</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14eede3</div>
-                                        <div class="message">Use absolute path (tilde home expansion doesn't work in env variables)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46bef9e</div>
-                                        <div class="message">Cache pre-commit environments in validation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65f9c66</div>
-                                        <div class="message">Update changelog fragment</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d20c82a</div>
-                                        <div class="message">Switch to ItsDrike/setup-poetry</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49e38ca</div>
-                                        <div class="message">Merge branch 'main' into drop-hassanabouelela-setup-python</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4d08119</div>
-                                        <div class="message">Add changelog fragment for #12</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9c8f63</div>
-                                        <div class="message">Fix typo in cache key</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5dad54</div>
-                                        <div class="message">Fix poetry install skip condition (for cache)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f777ce</div>
-                                        <div class="message">Replace HassanAbouelela's setup-action with custom implementation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1429bc4</div>
-                                        <div class="message">Use a more sensible name for setup-python action</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72b1a43</div>
-                                        <div class="message">Support cross-platform running in changelog-fragment workflow</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db9b6eb</div>
-                                        <div class="message">Add caching to changelog-fragment workflow</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">2 Jan 2023, 04:03:15</div>
                             </section>
                         </div>
                     </section>
