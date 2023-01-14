@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="373" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="293" class="">
     <defs>
         <style/>
     </defs>
@@ -38,22 +38,22 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Add git total-files and tracked-files
+                            Make total-lines recurse over the whole tree, not work dir
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">8fa29912</span>
+                            <span class="code">b017d2b6</span>
                             <span class="code">home/.config/git/config</span>
-                            <span class="code"><span class="snippet additions">++3</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -63,8 +63,10 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   find-merge = "!sh -c 'commit=$0 &amp;&amp; branch=${1:-HEAD} &amp;&amp; (git rev-list $commit..$branch --ancestry-path | cat -n; git rev-list $commit..$branch --first-parent | cat -n) | sort -k2 -s | uniq -f1 -d | sort -n | tail -1 | cut -f2'"<br /></span><span class="token prefix unchanged">·</span><span class="token line">   show-merge = "!sh -c 'merge=$(git find-merge $0 $1) &amp;&amp; [ -n \"$merge\" ] &amp;&amp; git show $merge'"<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">   tracked-files = "ls-tree --full-tree --name-only -r HEAD"<br /></span><span class="token prefix inserted">+</span><span class="token line">   total-lines = "!git tracked-files | xargs cat | wc -l"<br /></span><span class="token prefix inserted">+</span><span class="token line">   total-files = "!git tracked-files | wc -l"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">comitter-lines = "!git log --author=\"$1\" --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2 } END { printf \"added lines: %s, removed lines: %s, total lines: %s\\n\", add, subs, loc }' #"<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">   total-lines = "!git ls-tree --full-tree --name-only -r HEAD | xargs cat | wc -l"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">[credential]<br /></span><span class="token prefix unchanged">·</span><span class="token line">   helper = store --file ~/.config/git/git-credentials<br /></span><span class="token prefix unchanged">·</span><span class="token line">[core]</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -64,7 +64,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> show-merge = "!sh -c 'merge=$(git find-merge $0 $1) &amp;&amp; [ -n \"$merge\" ] &amp;&amp; git show $merge'"<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">comitter-lines = "!git log --author=\"$1\" --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2 } END { printf \"added lines: %s, removed lines: %s, total lines: %s\\n\", add, subs, loc }' #"<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"> total-lines = "!git ls-files | xargs cat | wc -l"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"> total-lines = "!git ls-tree --full-tree --name-only -r HEAD | xargs cat | wc -l"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">[credential]<br /></span><span class="token prefix unchanged">·</span><span class="token line"> helper = store --file ~/.config/git/git-credentials<br /></span><span class="token prefix unchanged">·</span><span class="token line">[core]</span></span></code>
                         </div>
                     </section>
                 </div>
