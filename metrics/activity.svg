@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="622" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="433" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.people{padding:0 10px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,90 +22,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 19 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">ItsDrike/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">wayland</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2f68ed8</div>
-                                        <div class="message">Increase shadow range</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14f652a</div>
-                                        <div class="message">Add script to change window color on fake fullscreen</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#edece87</div>
-                                        <div class="message">Add shortcut for fakefullscreen</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4b7eac</div>
-                                        <div class="message">Add some delay before starting eww bar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1c1d43</div>
-                                        <div class="message">Add keybind to open discord</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#456833f</div>
-                                        <div class="message">Add some more keybinds for resize group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17c29fc</div>
-                                        <div class="message">Remove useless blank line</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4dabd5</div>
-                                        <div class="message">Remove conflict on spotify keybind and toggle split</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf23640</div>
-                                        <div class="message">Move special workspace section above</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b99fe27</div>
-                                        <div class="message">Add keybinds for moving windows around</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5432fa</div>
-                                        <div class="message">Switch to pcmanfm-qt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d8590b</div>
-                                        <div class="message">Add quit menu instead of yes/no prompt on hyprland exit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a81a38</div>
-                                        <div class="message">Add rules to auto-float some pcmanfm-qt windows</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16d845f</div>
-                                        <div class="message">Don't start discord minimized</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43fc732</div>
-                                        <div class="message">Automatically start polkit agent</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d1a47a</div>
-                                        <div class="message">Remove portal restart script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5487ad</div>
-                                        <div class="message">Add config file for random mac addresses on network manager</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d015c59</div>
-                                        <div class="message">Add /etc/hosts file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1e149f</div>
-                                        <div class="message">Run chromium on wayland</div>
+                                        <div class="sha">#b17982a</div>
+                                        <div class="message">Require some other services on wm-ready</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">25 Jan 2023, 00:45:42</div>
+                                <div class="timestamp">25 Jan 2023, 02:02:30</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -115,56 +43,75 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">py-mine/mcstatus</span>
+                                        Pushed 10 commits in
+                                        <span class="repo">ItsDrike/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">wayland</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2545ae4</div>
-                                        <div class="message">Merge pull request #474 from py-mine/dependabot/pip/flake8-future-annotations-1.1.0
-
-Bump flake8-future-annotations from 1.0.0 to 1.1.0</div>
+                                        <div class="sha">#c3b4d53</div>
+                                        <div class="message">Run eww as systemd user service on wm-ready</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8862310</div>
-                                        <div class="message">Bump flake8-future-annotations from 1.0.0 to 1.1.0
-
-Bumps [flake8-future-annotations](https://github.com/tyleryep/flake8-future-annotations) from 1.0.0 to 1.1.0.
-- [Release notes](https://github.com/tyleryep/flake8-future-annotations/releases)
-- [Commits](https://github.com/tyleryep/flake8-future-annotations/commits)
-
----
-updated-dependencies:
-- dependency-name: flake8-future-annotations
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#9e042a7</div>
+                                        <div class="message">Run dunst and swayidle as systemd user services on wm-ready</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ae0ced</div>
+                                        <div class="message">Add custom wm-ready systemd target, and run wl-gammarelay on it</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#109d0d6</div>
+                                        <div class="message">Fix stremio winow name remap rule</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eda84b5</div>
+                                        <div class="message">Show all hyprland IPC events in temp test script</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1de14e</div>
+                                        <div class="message">Also show tray icons with inactive statsu</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10f0e3e</div>
+                                        <div class="message">Add commented quick controls to test/show battety status</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#56140d6</div>
+                                        <div class="message">Fix memory module using MB, instead of GB</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05dcf54</div>
+                                        <div class="message">Add logout option to menuquit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17af415</div>
+                                        <div class="message">Add systemd user service to autostart wl-gammarelay</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Jan 2023, 22:26:12</div>
+                                <div class="timestamp">25 Jan 2023, 01:53:12</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#335 Rewrite MOTD parser</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">ItsDrike/ItsDrike</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by PerchunPak in <span class="repo">py-mine/mcstatus</span></div>
-                                    <div class="comment">Yeah, the simplification logic could probably be a lot better, I'm not sure what's the best way to handle this rn. 
-However I'd heavily suggest not changing the simplifies in this PR anymore, I'd like to see this merged at least somewhat soon, and this could then be something for another PR to address, for now it works well enough and it fixes some pretty major bugs with current parsing. Also, several people have asked for this recently on discord, so it'd be quite nice to have this merged, instead of having them install from a fork.</div>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e6085af</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
                                 </div>
-                                <div class="timestamp">24 Jan 2023, 21:41:46</div>
+                                <div class="timestamp">25 Jan 2023, 01:37:57</div>
                             </section>
                         </div>
                     </section>
