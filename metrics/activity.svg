@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="616" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="333" class="">
     <defs>
         <style/>
     </defs>
@@ -22,140 +22,72 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">wayland</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#88072ca</div>
-                                        <div class="message">Fix time variable in eww</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">2 Feb 2023, 22:57:45</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 42 commits in
-                                        <span class="repo">ItsDrike/dotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">wayland</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#52d9765</div>
-                                        <div class="message">Fall back to Jost font</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#390cecf</div>
-                                        <div class="message">Disable 'quiet' option in grub</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15bc7ea</div>
-                                        <div class="message">Allow discards on crypttab</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e6eeed</div>
-                                        <div class="message">Add reflector settings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0272a69</div>
-                                        <div class="message">Make paccache timer depend on network</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2028a65</div>
-                                        <div class="message">Add udev rules for disabling nvidia</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ce57ec</div>
-                                        <div class="message">Fix type noveau-&gt;nouveau</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4dad7b</div>
-                                        <div class="message">Auto-start bluetooth service on toggle if not running</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f76f7c6</div>
-                                        <div class="message">Call get_report before while loop in loop()</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8430aa</div>
-                                        <div class="message">Add radio/connections menu window</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d918406</div>
-                                        <div class="message">Handle hyprctl returning invalid json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#745e683</div>
-                                        <div class="message">Explicitly specfiy direction to pack icons in system tray</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0734993</div>
-                                        <div class="message">Move all variable definitions under a single file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d583587</div>
-                                        <div class="message">Use icons from Material font in workspaces</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5e1737</div>
-                                        <div class="message">Remove dead code for margin setting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a174988</div>
-                                        <div class="message">Add Material Symbols font as fallback font for icons</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa6af14</div>
-                                        <div class="message">Only use font awesome for icons</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#186d00c</div>
-                                        <div class="message">Add sans-serif as fallback font for eww</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#adb438f</div>
-                                        <div class="message">Use battery icons from Material Symbols font</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2a4dbd9</div>
-                                        <div class="message">Make system tray a module and add some margin</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">2 Feb 2023, 22:42:03</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">ItsDrike/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">temp-improvements</span></div>
+                                    <div>on branch <span class="code">wayland</span></div>
                                     <div class="commit">
-                                        <div class="sha">#947b3a8</div>
-                                        <div class="message">Add aliases for rm -r and rm -rf</div>
+                                        <div class="sha">#112368f</div>
+                                        <div class="message">Use --no-persist option for clipman, to avoid it overriding mime types</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#12b77df</div>
-                                        <div class="message">Don't use trash-put by default for rm</div>
+                                        <div class="sha">#e7aa2bb</div>
+                                        <div class="message">Add quick-record script for easy screen capture recordings</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 Feb 2023, 22:26:56</div>
+                                <div class="timestamp">3 Feb 2023, 04:47:07</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">ItsDrike/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">wayland</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#238da9c</div>
+                                        <div class="message">Add support for notifications and extension changing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3144417</div>
+                                        <div class="message">Use --no-persist option for clipman, to avoid it overriding mime types</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2ed283</div>
+                                        <div class="message">Add quick-record script for easy screen capture recordings</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">3 Feb 2023, 04:44:16</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#99f7ca9</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">3 Feb 2023, 01:44:54</div>
                             </section>
                         </div>
                     </section>
