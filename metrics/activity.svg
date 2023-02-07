@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="283" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="865" class="">
     <defs>
         <style/>
     </defs>
@@ -22,7 +22,7 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 24 commits in
                                         <span class="repo">py-mine/mcproto</span>
                                     </div>
                                 </div>
@@ -32,8 +32,317 @@
                                         <div class="sha">#db45786</div>
                                         <div class="message">Add readthedocs config for building</div>
                                     </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a7f490</div>
+                                        <div class="message">Use spaces, not tabs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2824665</div>
+                                        <div class="message">Merge branch 'main' into add-docs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c277ff</div>
+                                        <div class="message">Don't make changelog-fragment workflow callable on dispatch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc46562</div>
+                                        <div class="message">Merge pull request #25 from py-mine/dependabot/pip/isort-5.12.0
+
+Bump isort from 5.11.4 to 5.12.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6173793</div>
+                                        <div class="message">Bump isort from 5.11.4 to 5.12.0
+
+Bumps [isort](https://github.com/pycqa/isort) from 5.11.4 to 5.12.0.
+- [Release notes](https://github.com/pycqa/isort/releases)
+- [Changelog](https://github.com/PyCQA/isort/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/pycqa/isort/compare/5.11.4...5.12.0)
+
+---
+updated-dependencies:
+- dependency-name: isort
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0bc625e</div>
+                                        <div class="message">Merge pull request #24 from py-mine/dependabot/pip/pyright-1.1.291
+
+Bump pyright from 1.1.286 to 1.1.291</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d537f5</div>
+                                        <div class="message">Bump pyright from 1.1.286 to 1.1.291
+
+Bumps [pyright](https://github.com/RobertCraigie/pyright-python) from 1.1.286 to 1.1.291.
+- [Release notes](https://github.com/RobertCraigie/pyright-python/releases)
+- [Commits](https://github.com/RobertCraigie/pyright-python/compare/v1.1.286...v1.1.291)
+
+---
+updated-dependencies:
+- dependency-name: pyright
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b85ea10</div>
+                                        <div class="message">Merge pull request #20 from py-mine/dependabot/pip/slotscheck-0.16.4
+
+Bump slotscheck from 0.16.2 to 0.16.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab41a54</div>
+                                        <div class="message">Merge pull request #23 from py-mine/dependabot/pip/gitpython-3.1.30
+
+Bump gitpython from 3.1.29 to 3.1.30</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#748af1a</div>
+                                        <div class="message">Bump slotscheck from 0.16.2 to 0.16.4
+
+Bumps [slotscheck](https://github.com/ariebovenberg/slotscheck) from 0.16.2 to 0.16.4.
+- [Release notes](https://github.com/ariebovenberg/slotscheck/releases)
+- [Changelog](https://github.com/ariebovenberg/slotscheck/blob/main/CHANGELOG.rst)
+- [Commits](https://github.com/ariebovenberg/slotscheck/compare/v0.16.2...v0.16.4)
+
+---
+updated-dependencies:
+- dependency-name: slotscheck
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87ae08e</div>
+                                        <div class="message">Bump gitpython from 3.1.29 to 3.1.30
+
+Bumps [gitpython](https://github.com/gitpython-developers/GitPython) from 3.1.29 to 3.1.30.
+- [Release notes](https://github.com/gitpython-developers/GitPython/releases)
+- [Changelog](https://github.com/gitpython-developers/GitPython/blob/main/CHANGES)
+- [Commits](https://github.com/gitpython-developers/GitPython/compare/3.1.29...3.1.30)
+
+---
+updated-dependencies:
+- dependency-name: gitpython
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ade8893</div>
+                                        <div class="message">Don't treat codeclimate's test reporter ID as secret</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa0dffb</div>
+                                        <div class="message">Update environment of upload-coverage job in unit-tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8470ad</div>
+                                        <div class="message">Merge pull request #22 from py-mine/dependabot/pip/pytest-7.2.1
+
+Bump pytest from 7.2.0 to 7.2.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fab124c</div>
+                                        <div class="message">Bump pytest from 7.2.0 to 7.2.1
+
+Bumps [pytest](https://github.com/pytest-dev/pytest) from 7.2.0 to 7.2.1.
+- [Release notes](https://github.com/pytest-dev/pytest/releases)
+- [Changelog](https://github.com/pytest-dev/pytest/blob/main/CHANGELOG.rst)
+- [Commits](https://github.com/pytest-dev/pytest/compare/7.2.0...7.2.1)
+
+---
+updated-dependencies:
+- dependency-name: pytest
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d939c26</div>
+                                        <div class="message">Update dependabot labels</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3348dcf</div>
+                                        <div class="message">Merge pull request #18 from py-mine/sphinx-format-docstrings
+
+Use sphinx rst format in all docstrings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e2be0d</div>
+                                        <div class="message">Use sphinx rst format in all docstrings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db8ddca</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
                                 </div>
-                                <div class="timestamp">7 Feb 2023, 09:52:42</div>
+                                <div class="timestamp">7 Feb 2023, 11:35:18</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 17 commits in
+                                        <span class="repo">py-mine/mcproto</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">add-docs</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f0e142f</div>
+                                        <div class="message">Remove html_static_path option</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2bd3ccd</div>
+                                        <div class="message">Don't use mdinclude for code-of-conduct and contributing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ddac818</div>
+                                        <div class="message">Override the build process with custom commands</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8d0195</div>
+                                        <div class="message">Update docs template</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c0715fa</div>
+                                        <div class="message">Add readthedocs config for building</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf7975a</div>
+                                        <div class="message">Use spaces, not tabs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e272e49</div>
+                                        <div class="message">Don't make changelog-fragment workflow callable on dispatch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64d6385</div>
+                                        <div class="message">Bump isort from 5.11.4 to 5.12.0
+
+Bumps [isort](https://github.com/pycqa/isort) from 5.11.4 to 5.12.0.
+- [Release notes](https://github.com/pycqa/isort/releases)
+- [Changelog](https://github.com/PyCQA/isort/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/pycqa/isort/compare/5.11.4...5.12.0)
+
+---
+updated-dependencies:
+- dependency-name: isort
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8d50fc</div>
+                                        <div class="message">Bump pyright from 1.1.286 to 1.1.291
+
+Bumps [pyright](https://github.com/RobertCraigie/pyright-python) from 1.1.286 to 1.1.291.
+- [Release notes](https://github.com/RobertCraigie/pyright-python/releases)
+- [Commits](https://github.com/RobertCraigie/pyright-python/compare/v1.1.286...v1.1.291)
+
+---
+updated-dependencies:
+- dependency-name: pyright
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b8df6b1</div>
+                                        <div class="message">Bump slotscheck from 0.16.2 to 0.16.4
+
+Bumps [slotscheck](https://github.com/ariebovenberg/slotscheck) from 0.16.2 to 0.16.4.
+- [Release notes](https://github.com/ariebovenberg/slotscheck/releases)
+- [Changelog](https://github.com/ariebovenberg/slotscheck/blob/main/CHANGELOG.rst)
+- [Commits](https://github.com/ariebovenberg/slotscheck/compare/v0.16.2...v0.16.4)
+
+---
+updated-dependencies:
+- dependency-name: slotscheck
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e595afc</div>
+                                        <div class="message">Bump gitpython from 3.1.29 to 3.1.30
+
+Bumps [gitpython](https://github.com/gitpython-developers/GitPython) from 3.1.29 to 3.1.30.
+- [Release notes](https://github.com/gitpython-developers/GitPython/releases)
+- [Changelog](https://github.com/gitpython-developers/GitPython/blob/main/CHANGES)
+- [Commits](https://github.com/gitpython-developers/GitPython/compare/3.1.29...3.1.30)
+
+---
+updated-dependencies:
+- dependency-name: gitpython
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1071f04</div>
+                                        <div class="message">Don't treat codeclimate's test reporter ID as secret</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8f2397</div>
+                                        <div class="message">Update environment of upload-coverage job in unit-tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6dbadfb</div>
+                                        <div class="message">Bump pytest from 7.2.0 to 7.2.1
+
+Bumps [pytest](https://github.com/pytest-dev/pytest) from 7.2.0 to 7.2.1.
+- [Release notes](https://github.com/pytest-dev/pytest/releases)
+- [Changelog](https://github.com/pytest-dev/pytest/blob/main/CHANGELOG.rst)
+- [Commits](https://github.com/pytest-dev/pytest/compare/7.2.0...7.2.1)
+
+---
+updated-dependencies:
+- dependency-name: pytest
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c2f36a</div>
+                                        <div class="message">Update dependabot labels</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a98d5fd</div>
+                                        <div class="message">Use sphinx rst format in all docstrings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ab63e5</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">7 Feb 2023, 11:33:59</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,32 +359,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">add-docs</span></div>
                                     <div class="commit">
-                                        <div class="sha">#627cac2</div>
-                                        <div class="message">Add readthedocs config for building</div>
+                                        <div class="sha">#9e7e7d6</div>
+                                        <div class="message">Don't use mdinclude for code-of-conduct and contributing</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 Feb 2023, 09:46:28</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">py-mine/mcproto</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">add-docs</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#db8663e</div>
-                                        <div class="message">Add readthedocs config for building</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Feb 2023, 09:40:45</div>
+                                <div class="timestamp">7 Feb 2023, 11:26:46</div>
                             </section>
                         </div>
                     </section>
