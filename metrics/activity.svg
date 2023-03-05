@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="283" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="366" class="">
     <defs>
         <style/>
     </defs>
@@ -22,18 +22,30 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">ItsDrike/Stellar-Nvim</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">rewrite</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8438ec9</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#bee656a</div>
+                                        <div class="message">Add wakatime plugin in extra spec</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28a5c8c</div>
+                                        <div class="message">Allow passing multiple plugin specs to lazy setup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#701a4c5</div>
+                                        <div class="message">Store lazy-lock in config dir</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed59108</div>
+                                        <div class="message">Fix lazy install github url for bootstrapping</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">5 Mar 2023, 01:56:37</div>
+                                <div class="timestamp">5 Mar 2023, 14:24:12</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -43,18 +55,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">ItsDrike/Stellar-Nvim</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">rewrite</span></div>
                                     <div class="commit">
-                                        <div class="sha">#73f9e23</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#7ab1682</div>
+                                        <div class="message">Update neo-tree and add window picker dependency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39677d3</div>
+                                        <div class="message">Only open lazy when cleaning/installing something</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#748b2a7</div>
+                                        <div class="message">Use a lighter circle icon</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">4 Mar 2023, 01:41:25</div>
+                                <div class="timestamp">5 Mar 2023, 13:30:13</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -64,18 +84,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">ItsDrike/Stellar-Nvim</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">rewrite</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b9834f9</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#2d0efae</div>
+                                        <div class="message">Merge branch 'main' into rewrite</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 Mar 2023, 03:29:57</div>
+                                <div class="timestamp">5 Mar 2023, 12:45:23</div>
                             </section>
                         </div>
                     </section>
