@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="306" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="329" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.category{display:flex;flex-direction:column;align-items:center;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}.people{padding:0 10px}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,6 +19,63 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#490 Automatically publish to PyPi on tag triggers</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by kevinkjt2000 in <span class="repo">py-mine/mcstatus</span></div>
+                                    <div class="comment">
+                                        <i>Multiple PRs come in simultaneously; this is the same as having multiple versions. I guarantee from my experience that editing the same file will inevitably have repeatedly annoying conflicts. While these conflicts are often easy to resolve, they grate on nerves slowly over time like sand in shoes after walking alongside a beach.</i>
+                                        This actually isn't that big of an issue with tools like towncrier, as you don't actually have the users modify the actual
+                                        <code>CHANGELOG.md</code>
+                                        , causing conflicts, instead, you have them create changelog fragments, which are standalone files, which then get put together into a changelog automatically, by running a towncrier command.
+So this means that the contributors would just be required to add a new file named something like
+                                        <code>53.feature</code>
+                                        , or
+                                        <code>53.breaking</code>
+                                        (or both), which signifies that PR 53 added a feature/breaking change, or whatever other category we choose to define. It's actually a pretty clever approach to do it.
+                                        <i>Once version information is dynamically pulled from source control in a project, there is no amount of convincing that will sway me to undo that. Mcstatus is already dynamic with poetry-dynamic-versioning, so I will not let us add changelog.md into code and regress to a previous state where I was bumping versions in text files.</i>
+                                        Actually, I use poetry dynamic versioning in mcproto, and it uses towncrier changelogs. The way this works is pretty simple, you just go to workflows, and run that workflow, giving it a version in a prompt that appears from github as you click the run workflow button.
+
+However I'm sure we could use poetry dynamic versioning or git describe to get the current version, and figure out what the next version should be from the fragment types that are present, based on that naming scheme.
+The only disadvantage I see with this approach is the burden on contributors, having to add those changelogs, and the big amount of commits like "Add changelog for PR X", since many people won't force-push, and you often can't know the PR number ahead of the time, as someone might create another PR taking it up, and since PR number is a part of the changelog file, that's something that can be a bit annoying when going through the git log. But it's nothing that terrible.
+I wouldn't mind using towncrier here, I'd probably be able to set it up pretty quickly if desired, I'm just not sure if we want to have this additional burden added to contributors, it would be pretty neat if maintainers were able to do this instead. But I also don't see such a huge issue with conflicts and the annoyance you described with this specific approach.
+                                    </div>
+                                </div>
+                                <div class="timestamp">14 Apr 2023, 18:54:27</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#511 IndexError: bytearray index out of range</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by DAMcraft in <span class="repo">py-mine/mcstatus</span></div>
+                                    <div class="comment">
+                                        <i>Running debug now, wondering why JSR.favicon got removed in the new version though</i>
+                                        That was done as a part of #306, this rename along with a lot of other changes are not yet released, but that's what the next version of mcstatus will use (there's a pre-release already though)
+
+However there really should've been a deprecated fallback, you shouldn't be seeing a hard exception there, just a warning; CC @PerchunPak
+                                    </div>
+                                </div>
+                                <div class="timestamp">14 Apr 2023, 17:55:12</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -31,65 +88,6 @@
                                     <div>2 files changed <span class="code">++8 --12</span></div>
                                 </div>
                                 <div class="timestamp">14 Apr 2023, 13:36:03</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bb34506</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">14 Apr 2023, 01:30:01</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#490 Automatically publish to PyPi on tag triggers</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by kevinkjt2000 in <span class="repo">py-mine/mcstatus</span></div>
-                                    <div class="comment">
-                                        I'm not sure there's a way to enforce squash merge message to follow a regex in github. We could probably make a git hook to handle it if merging would be done via git, but I doubt github has such functionality. We could do merging with git manually, but this gets annoying with forks, so I'm not a huge fan of having to do that.
-Without any enforcement of some pattern in the squash message, I wouldn't really trust myself to not make any accidental mistakes when merging PRs like this. Since this goes directly to master, force pushing to fix isn't really an option, and I'm not sure if an automated workflow here would then allow us to fix such issues easily.
-Also, as we've seen recently, some PRs can be pretty big, and squashing might not always be what we want to do, as it can sometimes be handy to retain the git history of that branch, as it was developed. More commits, if they're well structured, can provide benefits like when doing a
-                                        <code>git bisect</code>
-                                        to find issues. Preserving the commit history is also nice for
-                                        <code>git blame</code>
-                                        , and other utilities.
-
-We could go with the blank commit route, and require all contributors to leave "enable changes from maintainers" on in the PRs, so we would be able to push new commits to their code, once we'll be merging. This solves the issue of potentially wanting to preserve commit history, but again, it can be pretty annoying to have to do for each PR as maintainers.
-What could be a cool solution is considering using github PR labels for
-                                        <code>breaking</code>
-                                        ,
-                                        <code>minor</code>
-                                        ,
-                                        <code>patch</code>
-                                        ,
-                                        <code>internal</code>
-                                        or similar and then somehow collecting the PRs involved in a release, and figuring out what version needs to be bumped based on these. I'm just not sure how possible it would be to get all of the PRs since the last release, but it should probably be doable, afterall github does this internally already.
-We could then simply use the PR name, which is editable by maintainers, or/and the PR  description in the final changelog. Avoiding the need to pushing weird blank commits into the history just for the sake of CI picking them up, or squashing every PR and following a very specific pattern for it's commit message.
-                                    </div>
-                                </div>
-                                <div class="timestamp">13 Apr 2023, 21:11:49</div>
                             </section>
                         </div>
                     </section>
