@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="283" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="366" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,47 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">ItsDrike/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4127f1a</div>
+                                        <div class="message">Add sysctl.d folder (kernel settings)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f5fef5</div>
+                                        <div class="message">Add tmux configuration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eaf2c5c</div>
+                                        <div class="message">Remove z.lua git module (installed via zgenom)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3036fae</div>
+                                        <div class="message">Prefer nvim as MANPAGER, if available</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8db46cd</div>
+                                        <div class="message">Use ffmpegthumbnailer as video thumbnailer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6113661</div>
+                                        <div class="message">Use relative path in latest link</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">28 Apr 2023, 12:44:36</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -83,41 +124,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">26 Apr 2023, 10:39:27</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">py-mine/mcproto</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3a3483c</div>
-                                        <div class="message">Bump pytest from 7.2.2 to 7.3.1
-
-Bumps [pytest](https://github.com/pytest-dev/pytest) from 7.2.2 to 7.3.1.
-- [Release notes](https://github.com/pytest-dev/pytest/releases)
-- [Changelog](https://github.com/pytest-dev/pytest/blob/main/CHANGELOG.rst)
-- [Commits](https://github.com/pytest-dev/pytest/compare/7.2.2...7.3.1)
-
----
-updated-dependencies:
-- dependency-name: pytest
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Apr 2023, 10:36:03</div>
                             </section>
                         </div>
                     </section>
