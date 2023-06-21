@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="283" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="632" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.constant{color:#b44418}.token.string{color:#2777aa}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,17 +23,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">py-mine/mcproto</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">auth</span></div>
                                     <div class="commit">
-                                        <div class="sha">#db35bd7</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#4f60d03</div>
+                                        <div class="message">Replace 3.11+ `StrEnum` with `str, Enum` inheritence</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 Jun 2023, 01:44:46</div>
+                                <div class="timestamp">21 Jun 2023, 09:45:01</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -43,18 +43,328 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        Pushed 21 commits in
+                                        <span class="repo">py-mine/mcproto</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">auth</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a584dcf</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#7518444</div>
+                                        <div class="message">Add change fragment for PR 129</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad65d8e</div>
+                                        <div class="message">Add OAuth2 Microsoft authentication support</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bd30db</div>
+                                        <div class="message">Add Yggdrasil authentication
+
+This adds an implementation of the "Yggdrasil" system for
+authentication, whcih uses plaintext username/email and password to
+obtain the access token (Bearer), which can then be used to interract
+with the mojang API.
+
+The Yggdrasil system only supports unmigrated (non-Microsoft) accounts.
+Migrated accounts will not be able to login with it.
+
+WARNING: This system is entirely based on the wiki.vg documentation, and
+it has NOT actually been tested. This is because I don't have access to
+any non-migrated minecraft accounts, and so I don't have any viable
+accounts to test this implementation with. However the wiki.vg
+documentation is quite good and covers how the system work in great
+detail, so this *should* work fine.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b5ccb2</div>
+                                        <div class="message">Add base minecraft authentication system
+
+This adds support for minecraft authentication utilizing the Mojang
+authserver (API). This system does not yet include any way to actually
+authenticate, only to manage the already authenticated account.
+
+This system is technically a part of the "Yggdrasil" system, however the
+regular Yggdrasil authentication (using plaintext username and password)
+is not currently a part of this.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96fa47e</div>
+                                        <div class="message">Rename shared_key field to shared_secret in LoginEncryptionPacket</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9eee846</div>
+                                        <div class="message">Add server_id as a full field of LoginEncryptionRequest packet</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57a1049</div>
+                                        <div class="message">Add missing UUID field to LoginStart
+
+The LoginStart packet should contain a UUID, and while in some (rare)
+cases, this field can be None (it is optional), in most cases it will
+actually be present, and we should support it.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ec5db9</div>
+                                        <div class="message">Bump flake8-comprehensions from 3.12.0 to 3.13.0
+
+Bumps [flake8-comprehensions](https://github.com/adamchainz/flake8-comprehensions) from 3.12.0 to 3.13.0.
+- [Changelog](https://github.com/adamchainz/flake8-comprehensions/blob/main/CHANGELOG.rst)
+- [Commits](https://github.com/adamchainz/flake8-comprehensions/compare/3.12.0...3.13.0)
+
+---
+updated-dependencies:
+- dependency-name: flake8-comprehensions
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd8ad1c</div>
+                                        <div class="message">Bump sphinx-autodoc-typehints from 1.23.0 to 1.23.2
+
+Bumps [sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints) from 1.23.0 to 1.23.2.
+- [Release notes](https://github.com/tox-dev/sphinx-autodoc-typehints/releases)
+- [Changelog](https://github.com/tox-dev/sphinx-autodoc-typehints/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/tox-dev/sphinx-autodoc-typehints/compare/1.23.0...1.23.2)
+
+---
+updated-dependencies:
+- dependency-name: sphinx-autodoc-typehints
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe1e5ab</div>
+                                        <div class="message">Add changelog fragment for PR 133</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17724ee</div>
+                                        <div class="message">Make pyright report incompatible mehtod overrides (LSP breaking)
+
+In OOP programming, we should generally try to follow "LSP": Liskov
+Substitution Principle, which basically states that any class A,
+inheriting from another class B should be able to be treated as that
+class B, without issues.
+
+So as an example, if our parent class (B) has a method `foo`, which
+doesn't take any arguments, in the new class (A), we can override this
+method, but we can't now make `foo` take an additional argument, as that
+would mean this new class A can't be assumed to act like B, just with
+extra features. Hence this would be violating LSP.
+
+In the existing code-base, there were 4 violations like this found, 2 of
+which were resolved, and 2 ignored:
+
+- First 2 violations were found in the
+  `tests/mcproto/protocol/helpers.py` file, the violation was about
+  overriding Mock's `__call__`, which we don't care about, as in this
+  case we break LSP intentionally, to make this class behave like the
+  object we intent to mock.
+- Second 2 violations were found in
+  `tests/mcproto/protocol/test_base_io.py` file, which were about our
+  "concrete" writer classes, that directly inherit from the base writer
+  classes, and override the abstract `write` function to make these
+  classes initializable and testable. However this override actually
+  mistakenly assumed that the `write` function was taking in a
+  `bytearray`, when in fact the base class specifies that it takes
+  `bytes`. This violation was fixed.
+
+Additionally, during fixing of the second 2 violations, I have noticed
+that in the `tests/mcproto/protocol/helpers.py` file (where the first
+2 violations were), in the `WriteFunctionMock` class, the same mistake
+was made (having the write function take `bytearray` instead of
+`bytes`), which I fixed here as well.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b577a44</div>
+                                        <div class="message">Configure pyright to catch any unnecessary type ignores</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b8fb50</div>
+                                        <div class="message">Enable pyright reporting unnecessary isinstance/cast/...
+
+This makes pyright treat any unnecessary comparisons or similar checks,
+where the result is always known due to static analysis as errors.
+
+This is good, because it saves us some computation time, and it can
+sometimes catch actual mistakes is the code-base (which it actually did,
+see below).
+
+In our codebase, there were 2 instances where we did perform an
+unnecessary comparison:
+- In `mcproto/packets/handshaking/handshake.py`, there was an
+  `isinstance` check in `__init__` of the `Handshake` packet class,
+  where we check that the `next_state` argument, annotated to be a union
+  of `NextState` (`IntEnum`) and `int`. This was a check of whether the
+  `next_state` argument is a subclass of `int`, and if it is, it
+  converted this integer to the appropriate state in the `NextState`
+  enum. However since this enum is an `IntEnum`, it was itself actually
+  a subclass of `int`, making it's instances always pass this check,
+  leading to the logic of converting simple ints to enums also run when
+  an actual enum was passed in. I have fixed this by moving to a
+  isinstance check for the `NextState` enum, and running the logic if
+  that's not the case.
+- In `mcproto/types/chat.py`, in the `as_dict` method, there is a
+  sequence of `isinstance` checks, each of which narrows the type
+  further and further, leaving the last check to always result in the
+  same (`dict`) type, making this last isinstance unnecessary, as it
+  couldd simply be an `else`. However in this case, there is actually an
+  `else` below even this last check, which should statically never run,
+  where an exception about invalid type gets raised. In this case, I do
+  find this useful, as if the protocol changes for whatever reason, and
+  the returned JSON would return something unexpected, we can
+  immediately see an exception telling us exactly what's going on.
+  Because of this, I have ignored this violation for this specific case.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4a7b06</div>
+                                        <div class="message">Make pyright report some more optional diagnostics.
+
+This enables various optional toggles, making pyright report some more
+errors that it would by default.
+
+Specifically, these additional diagnostics were enabled:
+- `reportUntypedFunctionDecorator`: Report function decorators that have
+  no type annotations, obscuring the function return type and input
+  parameters.
+- ` reportUntypedClassDecorator`: Similar to ` reportUntypedFunctionDecorator`, but for classes
+- `reportUntypedNamedTuple`: Report the use of `collections.namedtuple`
+  instead of the typed alternative: `typing.NamedTuple`, which supports
+  specifying the types of the values it holds.
+- `reportTypeCommentUsage`: Prior to Python 3.5, the parser did not
+  support type annotations, so comments prefixed with "type" were used.
+  While not yet deprecated, this feature is very old and there is no
+  reason to use it instead of using regular type annotations.
+- `reportConstantRedefinition`: Attempts to redefine variables whose
+  names are in all-caps will produce an error.
+- `reportDeprecated`: Any use of functions decorated with
+  `typing_extensions.deprecated` (following draft PEP 702).
+- `reportOverlappingOverload`: Overloads that overlap in signature and
+  obscure each other or have incompatible return types will produce
+  errors.
+- `reportShadowedImports`: Presence of files that are overriding a
+  module in stdlib (have the same name) will be marked as errors.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2e44f3</div>
+                                        <div class="message">Configue pyright to assume python version 3.8
+
+As we didn't previously specify which python version should pyright use,
+it automatically defaulted to the latest one. This adds a setting to
+make pyright assume we're usng python 3.8 (lowest supported python
+version), allowing it to easily catch some mistakes, such as using a
+fucntion that's not yet available in older python versions when
+developing with a newer python version installed.
+
+Doing this actually uncovered some mistakes, namely:
+- `docs/conf.py` used `str.removesuffix` function was used, which is
+  however a 3.9+ function.
+- `docs/conf.py` was missing a `__future__.annotations` import, causing
+  annotations like `list[str]` to fail on 3.8 (3.9+)
+- `mcproto/types/chat.py` was importing `TypeAlias` from `typing`,
+  however `TypeAlias` was only introduced into `typing` in 3.9, so to
+  support 3.8, we should be importing from `typing_extensions`.
+- `mcproto/types/chat.py` was using `list[RawChatMessageDict]` in a
+  type-alias constant definition, which however wouldn't work on 3.8
+  (list was made generic in 3.9). This was solved by making this
+  annotation a string instead.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef1a423</div>
+                                        <div class="message">Bump poetry-dynamic-versioning from 0.22.0 to 0.23.0
+
+Bumps [poetry-dynamic-versioning](https://github.com/mtkennerly/poetry-dynamic-versioning) from 0.22.0 to 0.23.0.
+- [Release notes](https://github.com/mtkennerly/poetry-dynamic-versioning/releases)
+- [Changelog](https://github.com/mtkennerly/poetry-dynamic-versioning/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/mtkennerly/poetry-dynamic-versioning/compare/v0.22.0...v0.23.0)
+
+---
+updated-dependencies:
+- dependency-name: poetry-dynamic-versioning
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e2e87c</div>
+                                        <div class="message">Bump pyright from 1.1.313 to 1.1.314
+
+Bumps [pyright](https://github.com/RobertCraigie/pyright-python) from 1.1.313 to 1.1.314.
+- [Release notes](https://github.com/RobertCraigie/pyright-python/releases)
+- [Commits](https://github.com/RobertCraigie/pyright-python/compare/v1.1.313...v1.1.314)
+
+---
+updated-dependencies:
+- dependency-name: pyright
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17afe65</div>
+                                        <div class="message">Bump pytest from 7.3.1 to 7.3.2
+
+Bumps [pytest](https://github.com/pytest-dev/pytest) from 7.3.1 to 7.3.2.
+- [Release notes](https://github.com/pytest-dev/pytest/releases)
+- [Changelog](https://github.com/pytest-dev/pytest/blob/main/CHANGELOG.rst)
+- [Commits](https://github.com/pytest-dev/pytest/compare/7.3.1...7.3.2)
+
+---
+updated-dependencies:
+- dependency-name: pytest
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc023eb</div>
+                                        <div class="message">Bump pre-commit from 3.3.2 to 3.3.3
+
+Bumps [pre-commit](https://github.com/pre-commit/pre-commit) from 3.3.2 to 3.3.3.
+- [Release notes](https://github.com/pre-commit/pre-commit/releases)
+- [Changelog](https://github.com/pre-commit/pre-commit/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/pre-commit/pre-commit/compare/v3.3.2...v3.3.3)
+
+---
+updated-dependencies:
+- dependency-name: pre-commit
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79152db</div>
+                                        <div class="message">Bump flake8-tidy-imports from 4.8.0 to 4.9.0
+
+Bumps [flake8-tidy-imports](https://github.com/adamchainz/flake8-tidy-imports) from 4.8.0 to 4.9.0.
+- [Changelog](https://github.com/adamchainz/flake8-tidy-imports/blob/main/CHANGELOG.rst)
+- [Commits](https://github.com/adamchainz/flake8-tidy-imports/compare/4.8.0...4.9.0)
+
+---
+updated-dependencies:
+- dependency-name: flake8-tidy-imports
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">20 Jun 2023, 01:44:38</div>
+                                <div class="timestamp">21 Jun 2023, 09:36:08</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -64,18 +374,30 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">py-mine/mcproto</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a98f213</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#bb62f51</div>
+                                        <div class="message">Rename shared_key field to shared_secret in LoginEncryptionPacket</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9eee846</div>
+                                        <div class="message">Add server_id as a full field of LoginEncryptionRequest packet</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57a1049</div>
+                                        <div class="message">Add missing UUID field to LoginStart
+
+The LoginStart packet should contain a UUID, and while in some (rare)
+cases, this field can be None (it is optional), in most cases it will
+actually be present, and we should support it.</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">19 Jun 2023, 01:49:40</div>
+                                <div class="timestamp">21 Jun 2023, 09:33:35</div>
                             </section>
                         </div>
                     </section>
