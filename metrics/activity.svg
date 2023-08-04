@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="249" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="732" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.category{display:flex;flex-direction:column;align-items:center;flex:1 1 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.people{padding:0 10px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.constant{color:#b44418}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,16 +19,94 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pre-released
-                                        <span class="bold">v0.0.1-alpha</span>
-                                        of
-                                        <span class="repo">ItsDrike/hyprland-autocompile</span>
+                                        Pushed 9 commits in
+                                        <span class="repo">py-mine/mcproto</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">4 Aug 2023, 13:41:33</div>
+                                <div class="details">
+                                    <div>on branch <span class="code">auth</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#11d03c3</div>
+                                        <div class="message">Fix ruff issues</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e5a4f2</div>
+                                        <div class="message">Explain lack of sync alternatives in FAQ
+
+Following issue #128, this explains the lack of synchronous alternatives
+to the new API calls.
+
+This issue established, that while the low level interactions will
+provide support for both sync and async, any non-related functionalities
+that potentially could use an async version will only have an async
+version, lowering the burden of maintaining these.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#551a19a</div>
+                                        <div class="message">Replace 3.11+ `StrEnum` with `str, Enum` inheritence</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42189b4</div>
+                                        <div class="message">Restructure authentication code
+
+The original structure used an `Account` class that contained
+interactions for both the yggdrasil system and the new xbox live
+(microsoft) system.
+
+This change isolates these into their own files, with each system having
+their own Account class, being a subclass of a new base `Account` class.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9523ad5</div>
+                                        <div class="message">Add change fragment for PR 129</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b8b088</div>
+                                        <div class="message">Add OAuth2 Microsoft authentication support</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5dd570c</div>
+                                        <div class="message">Add Yggdrasil authentication
+
+This adds an implementation of the "Yggdrasil" system for
+authentication, whcih uses plaintext username/email and password to
+obtain the access token (Bearer), which can then be used to interract
+with the mojang API.
+
+The Yggdrasil system only supports unmigrated (non-Microsoft) accounts.
+Migrated accounts will not be able to login with it.
+
+WARNING: This system is entirely based on the wiki.vg documentation, and
+it has NOT actually been tested. This is because I don't have access to
+any non-migrated minecraft accounts, and so I don't have any viable
+accounts to test this implementation with. However the wiki.vg
+documentation is quite good and covers how the system work in great
+detail, so this *should* work fine.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4606c9</div>
+                                        <div class="message">Add base minecraft authentication system
+
+This adds support for minecraft authentication utilizing the Mojang
+authserver (API). This system does not yet include any way to actually
+authenticate, only to manage the already authenticated account.
+
+This system is technically a part of the "Yggdrasil" system, however the
+regular Yggdrasil authentication (using plaintext username and password)
+is not currently a part of this.
+
+This commit also adds httpx as a dependency, as it's used to make the
+necessary HTTP requests.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45bb750</div>
+                                        <div class="message">Define pylint limits</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">4 Aug 2023, 19:34:28</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -39,17 +117,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/hyprland-autocompile</span>
+                                        <span class="repo">py-mine/mcproto</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1bffc2d</div>
-                                        <div class="message">Add release workflow</div>
+                                        <div class="sha">#45bb750</div>
+                                        <div class="message">Define pylint limits</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">4 Aug 2023, 13:38:23</div>
+                                <div class="timestamp">4 Aug 2023, 19:34:10</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -59,18 +137,171 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        Pushed 37 commits in
+                                        <span class="repo">py-mine/mcproto</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">auth</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8da8e2a</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#83f3516</div>
+                                        <div class="message">Enable INT linter rules
+
+This enables all ruff's flake8-gettext (INT) rules.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e054ed9</div>
+                                        <div class="message">Add todo to unignore PT011</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6068925</div>
+                                        <div class="message">Enable PGH linter rules
+
+This enables all ruff's pygrep-hooks (PGH) rules.
+
+However PGH003 (using specific rule codes in type ignores) is ignored,
+as we're using pyright rather than mypy, and while there are some
+rulecodes for pyright and we could be more specific, most of the
+violations just fall under the same (general typing issues) category,
+which isn't very helpful for categorizing the issue. Because of that,
+this would just be annoying to do without any huge benefit for it.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b20e868</div>
+                                        <div class="message">Enable PL linter rules
+
+This enables all ruff's pylint (PL) rules.
+
+However PLR2004 (using unnamed numerical constants) is ignored, as these
+kinds of constants are used all over the codebase, in comparisons, etc.
+As mcproto is a fairly low level library, this is not surprising, and in
+most cases, it's easy to understand what the numerical constant is in
+the context of that comparison.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49db7d1</div>
+                                        <div class="message">Enable UP linter rules
+
+This enables all ruff's pyupgrade (UP) rules.
+
+However UP024 (using errors that alias OSError) is ignored, as that
+prohibits use of exceptions like `IOError`, which is utilized pretty
+extensively in mcproto.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7433ed1</div>
+                                        <div class="message">Enable RET linter rules
+
+This enables all ruff's flake8-return (RET) rules.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c94c6b7</div>
+                                        <div class="message">Enable Q linter rules
+
+This enables all ruff's flake8-quotes (Q) rules.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ec568c</div>
+                                        <div class="message">Enable ASYNC linter rules
+
+This enables all ruff's flake8-async (ASYNC) rules.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c97fdb</div>
+                                        <div class="message">Enable PTH linter rule
+
+This enables all ruff's flake8-use-pathlib (PTH) extension rules.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b15bfbf</div>
+                                        <div class="message">Enforce RUF lint rules
+
+Ruff has it's own custom set of linter rules, this enables all of them.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a5236d</div>
+                                        <div class="message">Replace flake8 with ruff
+
+Ruff is a linter written in rust, and runs significantly faster than
+flake8 (&gt;10x). It actually has native support for a vast majority of the
+flake8 extensions we're using.
+
+Ruff also supports configuration in pyproject.toml, as most other python
+tools, whcih means we could finally get rid of the `.flake8` config
+file.
+
+That said, ruff does not support the `flake8-functions` extension
+(everything else has an alternative though!), and there are some
+alternatives in Pylint ruff extension, which should be mostly
+sufficient.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abf2842</div>
+                                        <div class="message">Add internal attributetable extension (from discord.py)
+
+This extension was originally implemented by discord.py project for
+their documentation. This just reuses their source-code with
+modifications to fit our code base and our documentation design (furo
+theme).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#949fa06</div>
+                                        <div class="message">Update docs.py
+
+This removes some unused sphinx extensions, adds some new extensions and
+config for them and improves the overall formatting of this config file.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54a8d09</div>
+                                        <div class="message">Bump pyright from 1.1.314 to 1.1.315
+
+Bumps [pyright](https://github.com/RobertCraigie/pyright-python) from 1.1.314 to 1.1.315.
+- [Release notes](https://github.com/RobertCraigie/pyright-python/releases)
+- [Commits](https://github.com/RobertCraigie/pyright-python/compare/v1.1.314...v1.1.315)
+
+---
+updated-dependencies:
+- dependency-name: pyright
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e57787</div>
+                                        <div class="message">Add changelog fragment</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#435f7c7</div>
+                                        <div class="message">Wrap text at 119 chars</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#189a3b4</div>
+                                        <div class="message">Fix typo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83dd400</div>
+                                        <div class="message">Add attention box about breaking changes pre v1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab5f285</div>
+                                        <div class="message">Remove left over debug file creation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#796cca7</div>
+                                        <div class="message">Move the Installation page from README to docs installation page
+
+Note that this also removes the git module installation option
+instructions, as this option is not somemthing most people will utilize.
+Git modules don't make much sense with python packages, which have their
+own dependency management tool (pip). The only advantage with git
+modules is that it's easier to understand where the source code is, and
+to see it, however this isn't really too important for us, and it's
+quite unnecessary.</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">4 Aug 2023, 01:31:28</div>
+                                <div class="timestamp">4 Aug 2023, 19:17:45</div>
                             </section>
                         </div>
                     </section>
