@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="330" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="353" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.punctuation{color:#8a93a8}.token.string{color:#2777aa}.token.operator{color:#106cbc}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity .field,.organization.name{white-space:nowrap}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.people{padding:0 10px}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.punctuation{color:#8a93a8}.token.number,.token.string{color:#2777aa}.token.operator{color:#106cbc}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,72 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#629 TimeoutError: timed out</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by LLIaMMaH in <span class="repo">py-mine/mcstatus</span></div>
+                                    <div class="comment">
+                                        <i>Maybe it's worth making additional methods for getting players, mods and plugins?</i>
+                                        Mcstatus obtains the data you see here through various interactions with the minecraft protocol. We can't just invent a new way to obtain the players, and make it easier to get them reliably, because servers simply don't give us this information.
+Java minecraft servers primarily expose their information through status. This is used by the minecraft launcher to show you some details about the server in the multiplayer screen. This is why we can get something like the MOTD, amount of slots and online players.
+The player sample in status is actually something that you can see in the launcher when you hover over the slot count. This is why many servers put advertisements there, instead of actually giving you the list of players. It's also why this list of players is limited to only a few players, instead of giving you all of them. If a server has 1000 online players, the launcher wouldn't be able to create a window big enough to show you all of those anyway. So to save some bandwidth, only a small sample of the connected players is actually sent by the server.
+Mcstatus then gives you a method to perform this status request, receiving a status response from the server. This response contains various things, which mcstatus parses and exposes to you in a nice way, one of the things that this response contains is indeed the player sample.
+On the other hand, query is something that servers can optionally enable, and is used precisely for the purpose of being able to get some reliable information from the server, which can be used by various external tools. It's disabled by default though, since it can expose this information to everyone, and many server owners don't necessarily want to do that. (Query doesn't really contain anything that sensitive to the point where it would be a security risk to enable it, it just has info on the minecraft version and server implementation you're using, motd and the player list. It's more about just preventing some scripts from constantly checking who is online - privacy reasons).
+This is why you should prefer query if you can, it's just that you usually can't. In this case, you own the server, so you should be able to enable query and use it. If it doesn't work, it's almost certainly due to a misconfigured network that doesn't let UDP traffic through. The query function should work reliably for pretty much all server implementations, unless you're using something really esoteric.
+
+As for the other suggestions, of adding methods to get mods and plugins:
+
+It's not really possible to obtain plugins from a server, they simply aren't exposed by neither query nor status  (and for a good reason, you wouldn't want people to know which anti-cheat you're using for example). 
+With mods, there is already a PR that adds support for getting data from forge servers (#578).
+
+Getting plugins might be possible by going through a full login sequence, and actually having a user join the server for a while. this bot user could then execute a command to get plugins and we could read the chat response back. However this command is often only available for op users, so it generally wouldn't work anyway.
+Also, for online servers (that is, non-warez servers, that only allows people with purchased minecraft accounts to join), it can be really annoying to configure everything up, as there's a lot of things you need to do for it. For that reason, mcstatus will almost certainly never implement logic to do something like this.
+There is another library called mcproto under the py-mine github organization (disclaimer: I maintain this library). With it, you can actually make it past login, and do some more interesting things, but it's not trivial, even with the library, and mcproto is still WIP. You can read a bit about how to set up authentication with mcproto if you're really interested, but it is annoying (and there's not much mcproto can even do about this, as is explained): in the mcproto docs. Here's some example code that performs login with a server using mcproto: paste.gg
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Sept 2023, 12:29:11</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#629 TimeoutError: timed out</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by LLIaMMaH in <span class="repo">py-mine/mcstatus</span></div>
+                                    <div class="comment">
+                                        The players you're seeing are almost certainly coming from status, not from query, query is a better choice, because status is not that precise, it only gives you a small number of players (like say 10 players, even if the server has 100 players online). This is why it's called a "sample" (
+                                        <code>status.players.sample</code>
+                                        ).
+Status can also be modified by plugins to put advertisements in there, or to just make it empty regardless of who's online. Since you're the server owner, you can of course just avoid installing these plugins, so this isn't necessarily an issue for you, but it's yet another reason to generally prefer query if you want reliable information about players. (Most servers don't have query enabled though).
+The reason for the delay is then because you're first making a query, and since mcstatus can't seem to be able to access query, it waits until a 3 second timeout, and then it tries again, up to 3 times. With status, you can reduce the retry count by passing
+                                        <code>server.status(tries=1)</code>
+                                        , this doesn't currently work with query though, that's a bug, it will be fixed in a future version.
+If you really don't want query, you can tremendously reduce the time it takes to get the data by always preferring status, getting status should work every time, for every supported minecraft server implementation:
+                                        <code class="language-multiline language-py" xml:space="preserve">server <span class="token operator">=</span> JavaServer<span class="token punctuation">.</span>lookup<span class="token punctuation">(</span><span class="token string">"..."</span><span class="token punctuation">)</span>
+status <span class="token operator">=</span> server<span class="token punctuation">.</span>status<span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token trimmed">(1 more line was trimmed)</span></code>
+                                        But again, ideally you'd really want to use query here instead of status.
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Sept 2023, 11:00:24</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -53,50 +119,6 @@ If this is the case, and you don't want to set the port to the same one as the T
                                     </div>
                                 </div>
                                 <div class="timestamp">10 Sept 2023, 09:42:59</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#629 TimeoutError: timed out</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by LLIaMMaH in <span class="repo">py-mine/mcstatus</span></div>
-                                    <div class="comment">
-                                        This can happen when query isn't enabled on the server. Servers can only return query if they have it enabled in
-                                        <code>server.properties</code>
-                                        (the server owner must do this).
-That said, considering the example in the docs is supposed to provide a "fallback" to query, that uses status, I agree that it should probably be updated.
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Sept 2023, 08:50:33</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#612da0f</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Sept 2023, 01:25:19</div>
                             </section>
                         </div>
                     </section>
