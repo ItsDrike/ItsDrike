@@ -28,16 +28,27 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by chiefdinkan in <span class="repo">ItsDrike/hyprland-dwindle-autogroup</span></div>
-                                    <div class="comment">
-                                        Thanks for reporting this, sorry I took longer to notice this, I've been pretty busy lately with uni.
-So far, I was able to pinpoint an issue that occurs after
-                                        <code>b4f123d1</code>
-                                        commit, after which the plugin does still compile, but doesn't seem to work.
-I wouldn't be surprised if there were other issues in between as well though, as hyprland made a LOT of changes between 0.29.0 and 0.30.0. I will try to fix them all and get the plugin up-to-date with v0.30 though depending on how complex this fix will be, it might be a while until I push a fix for everything. 
-I'll try keep you up to date though with any progress on this, if it's a simple fix, I might even be able to get it all done today. But otherwise, it might take me a bit longer. In which case, I'd recommend sticking with v0.29.0 until it's fixed.
+                                    <div class="comment">Btw, if you have some time, I'd love someone to take a look at #8, not necessarily for a code-review, but at least to "play-test" that it works better, and potentially comment on any bugs you encounter, or any changes you'd like made, to improve the experience.</div>
+                                </div>
+                                <div class="timestamp">29 Sept 2023, 18:30:54</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#8 Improve ungroupping behavior</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">29 Sept 2023, 11:44:19</div>
+                                <div class="details">
+                                    <div> in <span class="repo">ItsDrike/hyprland-dwindle-autogroup</span></div>
+                                    <div>1 file changed <span class="code">++59 --2</span></div>
+                                </div>
+                                <div class="timestamp">29 Sept 2023, 18:29:22</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -48,38 +59,17 @@ I'll try keep you up to date though with any progress on this, if it's a simple 
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">ItsDrike/hyprland-dwindle-autogroup</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">better-ungroup</span></div>
                                     <div class="commit">
-                                        <div class="sha">#778b726</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#03eac7e</div>
+                                        <div class="message">Improve ungroupping behavior</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">29 Sept 2023, 01:22:36</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c1dc171</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">28 Sept 2023, 01:22:41</div>
+                                <div class="timestamp">29 Sept 2023, 18:04:04</div>
                             </section>
                         </div>
                     </section>
