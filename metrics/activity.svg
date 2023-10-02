@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="289" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="313" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,21 +19,29 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        Commented on
+                                        <span class="issue">#578 Implement Forge Data Decoder</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#94f50b0</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                    <div>opened by CoolCat467 in <span class="repo">py-mine/mcstatus</span></div>
+                                    <div class="comment">
+                                        I think that would be a better idea than having it all written out like this, it might even get rid of some of the repetition, and it will certainly be cleaner to understand. Thia reader class probably shouldn't inherit from Connection though, since the reading here is so different, and reading single byte isn't something it supports, since a lot of the connection functions rely on that working. It might be a good idea to move it into
+                                        <code>protocol/</code>
+                                        though, rather than leaving it here.
+Perhaps the
+                                        <code>read</code>
+                                        function could just be returning an
+                                        <code>int</code>
+                                        rather than a
+                                        <code>bytearray``/</code>
+                                        bytes` in this case, since it's 15 bits, we'd need 2 bytes anyway, unless ints wouldn't make sense later on when working with the output.
                                     </div>
                                 </div>
-                                <div class="timestamp">2 Oct 2023, 01:22:08</div>
+                                <div class="timestamp">2 Oct 2023, 12:43:05</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,7 +58,7 @@
                                 <div class="details">
                                     <div>opened by CoolCat467 in <span class="repo">py-mine/mcstatus</span></div>
                                 </div>
-                                <div class="timestamp">1 Oct 2023, 21:27:48</div>
+                                <div class="timestamp">2 Oct 2023, 12:43:06</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -61,25 +69,20 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#578 Implement Forge Data Decoder</span>
+                                        <span class="issue">#536 Rewrite Query response class to #306's style</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by CoolCat467 in <span class="repo">py-mine/mcstatus</span></div>
+                                    <div>opened by PerchunPak in <span class="repo">py-mine/mcstatus</span></div>
                                     <div class="comment">
-                                        Oh, I see, I figured it was pretty much the same code as for varints, just differently modeled.
-                                        <i>This implementation reads chunks of 16 bits (2 bytes, short) but ignores the sign bit and ends up only using 15 bits. I tried doing a thing where it reads just one byte at a time, but with the ignore sign bit stuff it would have ended up more complicated than the implementation given</i>
-                                        Huh, that's a weird way to handle this, why would you ignore every 16th bit? Isn't that literally just throwing away data that could be useful? I wonder what the implementors had in mind with that. Did you find some docs or explanations, or at least references to code that explains some of how this is supposed to work exactly, and why it uses this kind of model? Especially considering it's so different to one that minecraft was already using.
-                                        <i>There also isn't any mechanism for segmenting the data up, the remainder data is kept in the buffer and added on to the next bytes read.</i>
-                                        Could you expand on what you mean by this? What kind of reminder? From what I understood from your explanation above, you're supposed to be reading 2 bytes at once for every read, and then work with those 15 bits of data (dropping that 1 bit as mentioned). The rest of the data will obviously remain in a buffer, until read from again. What's the problem with segmenting the data? Is the issue just that the segments would need to be 15 bits rather than a byte? What is the "remainder" you're talking about?
-
-Unless impossible, could we then create another connection-like class from zero, with the read function returning those 2 bytes, and other functions working with that? This would at least make it much easier to read through the implementations of this code, as the individual parts will be abstracted away. As an example, if the part I was talking about isn't reading varints but X, let's make
-                                        <code>read_X</code>
-                                        . Same for pretty much all of the operations here.
-Or is there some reason this wouldn't be feasable? I'm still not entirely sure what you meant by it being unfeasable to segment the data up.
+                                        We could use
+                                        <code>utils.deprecated</code>
+                                        like this instead of manually calling
+                                        <code>warnings.warn</code>
+                                        <code class="language-suggestion">deprecated("mcstatus.status_response", replacement="mcstatus.responses", date="2023-12", msg="module was renamed")()</code>
                                     </div>
                                 </div>
-                                <div class="timestamp">1 Oct 2023, 21:27:46</div>
+                                <div class="timestamp">2 Oct 2023, 12:15:53</div>
                             </section>
                         </div>
                     </section>
