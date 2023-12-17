@@ -23,6 +23,27 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#705 Use official pre-commit hooks instead of poetry executables for pre-commit hooks</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by CoolCat467 in <span class="repo">py-mine/mcstatus</span></div>
+                                    <div class="comment">
+                                        <i>You can add a skip=[,] in in the ci section if required</i>
+                                        Can we just skip all of the local hooks then? This would probably solve the issue of it failing entirely no?
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Dec 2023, 21:10:36</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#704 Automatically approve dependabot PRs</span>
                                     </div>
                                 </div>
@@ -62,24 +83,6 @@ What I do wonder about here is whether using the official hook would also instal
                                     </div>
                                 </div>
                                 <div class="timestamp">16 Dec 2023, 18:33:54</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#704 Automatically approve dependabot PRs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by ItsDrike in <span class="repo">py-mine/mcstatus</span></div>
-                                    <div class="comment">If we only run once a month, once that time hits, we'd see potentially a dozen new PRs come up all at once, which I'd say is equally as annoying (especially since dependabot will do a rebase after every merge that also modifies pyproject.toml/poetry.lock). Having a bot that auto-approves would be a better choice IMO, but yeah, as a temporary solution we can bump up the time period.</div>
-                                </div>
-                                <div class="timestamp">16 Dec 2023, 18:28:45</div>
                             </section>
                         </div>
                     </section>
