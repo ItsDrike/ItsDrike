@@ -23,17 +23,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">ItsDrike/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0d7d85d</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#9538d5c</div>
+                                        <div class="message">Upate gui install scripts</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">29 Dec 2023, 01:14:42</div>
+                                <div class="timestamp">29 Dec 2023, 14:12:00</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -44,17 +44,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">ItsDrike/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#98339fc</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#f16a5c9</div>
+                                        <div class="message">Update installation scripts and guide</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Dec 2023, 01:23:07</div>
+                                <div class="timestamp">29 Dec 2023, 14:08:00</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -65,17 +65,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">ItsDrike/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b27b692</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#2fec62f</div>
+                                        <div class="message">Update install_user script</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">27 Dec 2023, 01:24:44</div>
+                                <div class="timestamp">29 Dec 2023, 12:55:10</div>
                             </section>
                         </div>
                     </section>
