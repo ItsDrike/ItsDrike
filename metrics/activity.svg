@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="283" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="333" class="">
     <defs>
         <style/>
     </defs>
@@ -23,17 +23,50 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">ItsDrike/nixdots</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6db7f56</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#d8e718c</div>
+                                        <div class="message">Add misc.zsh</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">25 Mar 2024, 01:20:04</div>
+                                <div class="timestamp">25 Mar 2024, 23:38:23</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">ItsDrike/nixdots</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b7460f3</div>
+                                        <div class="message">Source some of the longer included rc zsh files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5327c11</div>
+                                        <div class="message">Set AUTO_PARAM_SLASH</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df20ad2</div>
+                                        <div class="message">Don't use vi-mode plugin</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c142161</div>
+                                        <div class="message">Don't set local var (remains set)</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">25 Mar 2024, 22:47:10</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,32 +83,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b4acb6e</div>
-                                        <div class="message">Restructure home-manager config</div>
+                                        <div class="sha">#d62ad73</div>
+                                        <div class="message">Fall back to xterm-256color instead</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Mar 2024, 12:22:51</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/nixdots</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#74dab54</div>
-                                        <div class="message">Restructure home-manager config</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">24 Mar 2024, 12:20:51</div>
+                                <div class="timestamp">25 Mar 2024, 22:37:38</div>
                             </section>
                         </div>
                     </section>
