@@ -29,11 +29,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6852c7d</div>
-                                        <div class="message">Add eza</div>
+                                        <div class="sha">#c2f84f5</div>
+                                        <div class="message">Remove unnecessary pkgs (declared as programs)</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">4 Apr 2024, 20:16:03</div>
+                                <div class="timestamp">5 Apr 2024, 00:35:28</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,11 +50,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3c1b536</div>
-                                        <div class="message">Add eza</div>
+                                        <div class="sha">#46d505c</div>
+                                        <div class="message">Place notashelf/nyx first in sources</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">4 Apr 2024, 20:14:37</div>
+                                <div class="timestamp">5 Apr 2024, 00:13:21</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -71,11 +71,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e7c53db</div>
-                                        <div class="message">Add gpg</div>
+                                        <div class="sha">#b58cf46</div>
+                                        <div class="message">Make git username&amp;email custom options</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">4 Apr 2024, 20:09:58</div>
+                                <div class="timestamp">5 Apr 2024, 00:03:24</div>
                             </section>
                         </div>
                     </section>
