@@ -23,17 +23,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">ItsDrike/nixdots</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2881f4d</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#4c55fb1</div>
+                                        <div class="message">Add basic installation guide</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">6 Apr 2024, 01:18:40</div>
+                                <div class="timestamp">7 Apr 2024, 00:48:18</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,11 +50,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f2c5574</div>
-                                        <div class="message">Enable hyprland</div>
+                                        <div class="sha">#1cbe110</div>
+                                        <div class="message">Add basic installation guide</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">5 Apr 2024, 18:06:34</div>
+                                <div class="timestamp">7 Apr 2024, 00:47:37</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -65,17 +65,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">ItsDrike/nixdots</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2c753d9</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#beae529</div>
+                                        <div class="message">Add basic installation guide</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">5 Apr 2024, 01:19:32</div>
+                                <div class="timestamp">7 Apr 2024, 00:47:13</div>
                             </section>
                         </div>
                     </section>
