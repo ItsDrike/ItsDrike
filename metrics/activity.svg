@@ -29,11 +29,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a6cf555</div>
-                                        <div class="message">Add a todo for semi-persistent/expiring roots</div>
+                                        <div class="sha">#fa6f2b4</div>
+                                        <div class="message">Update flake.lock</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 Apr 2024, 23:53:56</div>
+                                <div class="timestamp">8 Apr 2024, 02:39:35</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,11 +50,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#294789d</div>
-                                        <div class="message">Explain why we use recursive deletion</div>
+                                        <div class="sha">#9d867d5</div>
+                                        <div class="message">Rewrite installation guide</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 Apr 2024, 23:45:34</div>
+                                <div class="timestamp">8 Apr 2024, 02:35:25</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -71,11 +71,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3b75c09</div>
-                                        <div class="message">Rework (and fix) impermanence</div>
+                                        <div class="sha">#d3cfdc9</div>
+                                        <div class="message">Rewrite installation guide</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 Apr 2024, 23:16:43</div>
+                                <div class="timestamp">8 Apr 2024, 02:30:28</div>
                             </section>
                         </div>
                     </section>
