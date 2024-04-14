@@ -29,11 +29,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dd00ed5</div>
-                                        <div class="message">Actually enforce the roles</div>
+                                        <div class="sha">#0a97424</div>
+                                        <div class="message">Fix power-profile auto-switch</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Apr 2024, 19:15:28</div>
+                                <div class="timestamp">13 Apr 2024, 23:12:52</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,11 +50,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#01e3567</div>
-                                        <div class="message">Add laptop settings</div>
+                                        <div class="sha">#a0bba2e</div>
+                                        <div class="message">Rework laptop battery/power optimization settings</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Apr 2024, 19:08:16</div>
+                                <div class="timestamp">13 Apr 2024, 20:22:20</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -71,11 +71,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f76630b</div>
-                                        <div class="message">Add laptop settings</div>
+                                        <div class="sha">#3faa42b</div>
+                                        <div class="message">Rework laptop battery/power optimization settings</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Apr 2024, 19:07:28</div>
+                                <div class="timestamp">13 Apr 2024, 20:18:24</div>
                             </section>
                         </div>
                     </section>
