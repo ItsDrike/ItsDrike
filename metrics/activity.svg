@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="283" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="616" class="">
     <defs>
         <style/>
     </defs>
@@ -22,18 +22,133 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
+                                        Pushed 717 commits in
                                         <span class="repo">py-mine/mcproto</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/pip/typing-extensions-4.11.0</span></div>
+                                    <div>on branch <span class="code">update-ruff</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3bcbc26</div>
-                                        <div class="message">Merge branch 'main' into dependabot/pip/typing-extensions-4.11.0</div>
+                                        <div class="sha">#1d74d53</div>
+                                        <div class="message">Support buffer flushing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a16d3bc</div>
+                                        <div class="message">Allow clearing only already read data</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c48f6a9</div>
+                                        <div class="message">Add docstring to read</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4fec8b1</div>
+                                        <div class="message">Raise IOError when reading more data than available</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53c029e</div>
+                                        <div class="message">Add pytest</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4394429</div>
+                                        <div class="message">Add basic Buffer class</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6c57fe</div>
+                                        <div class="message">Add BaseReader class</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42d1981</div>
+                                        <div class="message">Add BaseWriter class</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e2ab79</div>
+                                        <div class="message">Add mcproto/ directory for project's source</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e733564</div>
+                                        <div class="message">Add attribution file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dcbb7f3</div>
+                                        <div class="message">Add gitignore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d9e765</div>
+                                        <div class="message">Add poetry lock file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a55d9af</div>
+                                        <div class="message">Add Validation workflow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a9a00e</div>
+                                        <div class="message">Add pre-commit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57b8dd8</div>
+                                        <div class="message">Add pyright</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3286ba9</div>
+                                        <div class="message">Add isort</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85262ad</div>
+                                        <div class="message">Add black</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#503ddaa</div>
+                                        <div class="message">Add flake8 settings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff84dcd</div>
+                                        <div class="message">Add flake8 dependencies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4bfac5</div>
+                                        <div class="message">Initial commit</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">29 Apr 2024, 14:56:52</div>
+                                <div class="timestamp">29 Apr 2024, 20:13:52</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">py-mine/mcproto</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#659c318</div>
+                                        <div class="message">Apply black formatting after update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbdb0e3</div>
+                                        <div class="message">Bump black from 23.9.1 to 24.4.2
+
+Bumps [black](https://github.com/psf/black) from 23.9.1 to 24.4.2.
+- [Release notes](https://github.com/psf/black/releases)
+- [Changelog](https://github.com/psf/black/blob/main/CHANGES.md)
+- [Commits](https://github.com/psf/black/compare/23.9.1...24.4.2)
+
+---
+updated-dependencies:
+- dependency-name: black
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">29 Apr 2024, 20:06:46</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -44,38 +159,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">py-mine/mcproto</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">dependabot/pip/black-24.4.2</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9b2876e</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#8137b36</div>
+                                        <div class="message">Apply black formatting after update</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">29 Apr 2024, 01:24:07</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dae5586</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">28 Apr 2024, 01:26:30</div>
+                                <div class="timestamp">29 Apr 2024, 19:57:43</div>
                             </section>
                         </div>
                     </section>
