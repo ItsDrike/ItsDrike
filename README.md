@@ -13,8 +13,11 @@
 <br>
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
+![rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&color=111&logoColor=AAA&style=flat-square)
 ![bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=bash&color=111&logoColor=AAA&style=flat-square)
-![go](https://img.shields.io/static/v1?logo=rust&label=&message=rust&color=111&logoColor=AAA&style=flat-square)
+<br>
+![pgp](https://img.shields.io/static/v1?label=&message=pgp:&color=555&style=flat-square)
+[![itsdrike-key](https://img.shields.io/static/v1?logo=gnuprivacyguard&label=&message=0xFA2745890B7048C0&color=111&logoColor=AAA&style=flat-square)](https://github.com/ItsDrike.gpg)
 
 <!-- Load profile visitor count, but don't display it, keep it as a private stat, no need to show off (888)-->
 [](https://visitor-badge.glitch.me/badge?page_id=ItsDrike.ItsDrike)
@@ -24,8 +27,8 @@
 - :neutral_face: I usually work on back-end related development and algorithm design.
 - :man: I'm addicted to automating everything and a huge advocate of CI workflows, unit testing, and other DevOps related technologies.
 - :seedling: Currently, I'm learning about system administration and security.
+- :gear: I like exploring low-level languages, such as Assembly, Rust and C.
 - :speech_balloon: Ask me about anything, I am happy to help.
-- :snake: I mostly code in python, because I love the beauty of it's simplicity and readability.
 - :tv: I enjoy watching TV shows, mostly Sci-Fi/Fantasy.
 
 <details>
