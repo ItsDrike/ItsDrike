@@ -1,7 +1,7 @@
 ![workspace](https://img.shields.io/static/v1?label=&message=workspace:&color=555&style=flat-square)
 [![arch-linux](https://img.shields.io/static/v1?logo=arch-linux&label=&message=Arch%20Linux&color=111&logoColor=AAA&style=flat-square)](https://archlinux.org)
 [![firefox](https://img.shields.io/static/v1?logo=firefox-browser&label=&message=Firefox&color=111&logoColor=AAA&style=flat-square)](https://mozilla.org/en-US/firefox/)
-[![discord](https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=111&logoColor=AAA&style=flat-square)](https://discord.gg/B8rf3xxgbJ)
+[![discord](https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=111&logoColor=AAA&style=flat-square)](https://discord.gg/zmQ3NcSY)
 <br>
 ![editors](https://img.shields.io/static/v1?label=&message=editors:&color=555&style=flat-square)
 ![nvim](https://img.shields.io/static/v1?logo=neovim&label=&message=NeoVim&color=111&logoColor=AAA&style=flat-square)
@@ -30,6 +30,7 @@
 - :gear: I like exploring low-level languages, such as Assembly, Rust and C.
 - :speech_balloon: Ask me about anything, I am happy to help.
 - :tv: I enjoy watching TV shows, mostly Sci-Fi/Fantasy.
+- :mailbox: Reach out at [me@itsdrike.com](mailto:me@itsdrike.com) or through Discord, by sending a friend request to [@itsdrike](https://discord.gg/zmQ3NcSY)
 
 <details>
  <summary> <b>📌 Detailed metrics</b></summary>
