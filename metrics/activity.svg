@@ -23,22 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#13 Hyprland 0.4 support</span>
+                                        <span class="issue">#285 Use Serializable for NBTags</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by seratg in <span class="repo">ItsDrike/hyprland-dwindle-autogroup</span></div>
-                                    <div class="comment">
-                                        Hey, after some work, I managed to push f526bed, which at least gets the plugin to build with 0.40.0.
-However it's far from usable. The grouping behavior sometimes just doesn't work. This is consistent for each window where it didn't work. Based on the logs, it seems to be because that window has a
-                                        <code>deny</code>
-                                        flag set for groupping. However, this flag shouldn't be set for it, and when the plugin is unloaded, groupping works, even though this deny flag check is actually only present in Hyprland's original
-                                        <code>createGroup</code>
-                                        function, which this plugin just calls, so I'm very confused with what's going on with that.
-Additionally, while ungroupping with just a single window  does seem to work, if you try and ungroup multiple windows, Hyprland will crash completely. Based on logs, this crash seems to be occuring somewhere in the logic for collecting dwindle nodes, which however doesn't make sense to me, as this logic shouldn't be any different from what it originally was.
-                                    </div>
+                                    <div>opened by LiteApplication in <span class="repo">py-mine/mcproto</span></div>
+                                    <div class="comment">Now that NBTag support was merged, this can become a part of #273, or alternatively, this can replace #273.</div>
                                 </div>
-                                <div class="timestamp">14 May 2024, 12:29:31</div>
+                                <div class="timestamp">14 May 2024, 19:54:56</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -49,17 +41,17 @@ Additionally, while ungroupping with just a single window  does seem to work, if
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/hyprland-dwindle-autogroup</span>
+                                        <span class="repo">py-mine/mcproto</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f526bed</div>
-                                        <div class="message">Part 1 of 0.40 migration</div>
+                                        <div class="sha">#3eeeb8e</div>
+                                        <div class="message">More ruff rules!</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 May 2024, 12:22:14</div>
+                                <div class="timestamp">14 May 2024, 19:46:54</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -70,17 +62,17 @@ Additionally, while ungroupping with just a single window  does seem to work, if
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">py-mine/mcproto</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d4da197</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#e05fd2d</div>
+                                        <div class="message">minor improvements to #257</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">14 May 2024, 01:25:17</div>
+                                <div class="timestamp">14 May 2024, 18:48:52</div>
                             </section>
                         </div>
                     </section>
