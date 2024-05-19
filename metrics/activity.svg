@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="319" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="313" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.people{padding:0 10px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,58 +19,106 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#285 New Serializables (v3)</span>
+                                        <span class="issue">#45 Decide on final versioning structure</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by LiteApplication in <span class="repo">py-mine/mcproto</span></div>
+                                    <div>opened by ItsDrike in <span class="repo">py-mine/mcproto</span></div>
+                                    <div class="comment">I'm dropping the priority of this issue from critical to high, since this was a resolved issue and it's no longer blocking pretty much all development. If option 2 is chosen, it will still mean significant changes, but probably not a complete restructuring. The critical aspect of this issue was already addressed and some of the more relevant points previously considered are now out of question entirely.</div>
+                                </div>
+                                <div class="timestamp">19 May 2024, 00:55:25</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 1.5a6.491 6.491 0 00-5.285 2.715l1.358 1.358A.25.25 0 013.896 6H.25A.25.25 0 010 5.75V2.104a.25.25 0 01.427-.177l1.216 1.216a8 8 0 0114.315 4.03.748.748 0 01-.668.83.75.75 0 01-.824-.676A6.501 6.501 0 008 1.5zM.712 8.004a.75.75 0 01.822.67 6.501 6.501 0 0011.751 3.111l-1.358-1.358a.25.25 0 01.177-.427h3.646a.25.25 0 01.25.25v3.646a.25.25 0 01-.427.177l-1.216-1.216A8 8 0 01.042 8.827a.75.75 0 01.67-.823zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reopened
+                                        <span class="issue">#45 Decide on final versioning structure</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">py-mine/mcproto</span></div>
+                                </div>
+                                <div class="timestamp">19 May 2024, 00:39:49</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#45 Decide on final versioning structure</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ItsDrike in <span class="repo">py-mine/mcproto</span></div>
                                     <div class="comment">
-                                        I wonder if it'd be better to go over each kwarg individually instead for better error messages. Also, it'd help in case some class overrides
-                                        <code>__eq__</code>
-                                        and drops some check, because of some custom behavior with types of that kind, which however doesn't apply to these deserialization tests.
+                                        A suggestion was made by @LiteApplication (on discord) to create a class decorator that could limit a type/packet to only a certain range of protocol versions. This idea still needs some more bikeshedding, as it's not at all fully thought out, but I do like the sound of it.
+Generally, there's 2 options that I see for that kind of approach:
+
+
+
+Purely informative approach, with the decorator simply setting something like
+                                        <code>__mcproto_protocol_version_span__</code>
+                                        dunder on the class, users can check it and make sure it matches the version they wish to be using.
+Perhaps mcproto could even contain some logic for this checking in places where the protocol version is known, such as in the client/server classes (once merged) and raising an exception in case of a mismatch.
+This will mean mcproto will still only focus on supporting the latest protocol version, however, it will be very clear which packets can be re-used for older versions, making it potentially easier for people to know what packets they might need to implement themselves if they need support for older stuff and just generally easier for maintainers to know and keep track of which versions our types support.
+
+
+
+
+Active approach, that somehow lets us maintain multiple versions of types/packets, marked for use on given protocol versions though this decorator.
+The previous suggested approach for this scenario (having the library support multiple protocol versions at once from a single mcproto release) was essentially just considering making directories for each protocol version, with full copies of the classes in each. This approach allows us to avoid a bunch of code repetition that would otherwise be necessary for the originally suggested approach and that's without the considered method of using base classes that include some currently shared logic which still wouldn't be guaranteed not to change though.
+Sufficed to say, I like this. It seems approachable and maintainable, but there are still things to resolve here:
+
+
+
+Typing issues: Like with the other approaches that I've mentioned, the issue with type-checkers appears here too. That's simply because we will still need to somehow maintain multiple versions of the same type/packet class, so if we have a method that expects a certain packet type, we'd need to check for all of these classes. This is actually not only a type issue, but even a packet reading/receiving issue, since
+                                        <code>isinstance</code>
+                                        checks are the general way that we sort out the packets that were received, but which class do we check for now?
+
+
+
+
+Naming/File location issues: Currently, the packet/type classes have a simple naming scheme, that just reflects the name of that packet/type, as shown in wiki.vg. If we'll have multiple classes that handle the same packet, we will need to choose a different naming scheme to avoid running into conflicts. Will the protocol version simply be a part of that name? But it's a range of versions and it's likely to change (as new protocol versions come out, but don't change the existing packets/types, the supported range changes, does the name of these types change with that too? That'd make for a really bad UX). Should it just be the start protocol version of the range maybe, or simply something like
+                                        <code>v1</code>
+                                        ,
+                                        <code>v2</code>
+                                        , depending on how many classes we have, regardless of the actual protocol versions? 
+Additionally, where will these classes be defined? In the same files right next to the existing ones? But we often use files that contain a bunch of such classes, say 10, will they now need to also hold all versioned variants? Won't that quickly get out of hand? Should we instead make files for each type, or go even crazier, and make files for each version of each type? If these classes do exist in different files, it at least somewhat mitigates the naming issue, as they could now have the same name, but it's probably still not a good idea, as it'd be very annoying if someone needed to import both versions from the same place for whatever reason.
+
+
+
+
+User experience: We need to consider how this will affect the library users too, with multiple versions in place, the users will need to pick the proper class to send. Depending on how the naming is handled, this may not be that bad, but it's still far less convenient than the simple imports for these classes that we have now.
+
+
+
+
+Version picking implementation: I actually think that this is almost a resolved issue. Mcproto actually contains the logic to dynamically construct packet tables already, all we'd need is to make sure we collect all of the classes (so all versions). Then, while reading the packets (only reading, not writing, since with writing, the user actually initializes the class itself), we would need to also know the protocol version (another argument to the reading function) and then when picking the appropriate packet from the table to be returned, we just pick the type where the protocol version lies within the supported range.
+
+
+
+
+
+
+
+I'd say even if we just did this with the 1st option, and kept it purely informative, it is better than nothing and it will lie within the decision I made to have mcproto only support the latest protocol version.
+The thing is, while the 2nd option is certainly much more viable than the previously suggested options, it's still not great and clearly has its issues, not entirely unlike those I mentioned before with other approaches. Unless there's something I haven't thought of, this approach would inevitably worsen the experience of others using this library, so the question is, whether it's worth it. The mc protocol does change a fair bit with each new release and projects relying on mcproto might need that older version support, so maybe it is worth it, but it just comes with a lot of hassles for maintaining.
                                     </div>
                                 </div>
-                                <div class="timestamp">18 May 2024, 17:15:59</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#285 New Serializables (v3)</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by LiteApplication in <span class="repo">py-mine/mcproto</span></div>
-                                    <div class="comment">Same remark with the custom pattern.</div>
-                                </div>
-                                <div class="timestamp">18 May 2024, 17:17:01</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#285 New Serializables (v3)</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by LiteApplication in <span class="repo">py-mine/mcproto</span></div>
-                                    <div class="comment">codeblock</div>
-                                </div>
-                                <div class="timestamp">18 May 2024, 17:45:52</div>
+                                <div class="timestamp">19 May 2024, 00:39:50</div>
                             </section>
                         </div>
                     </section>
