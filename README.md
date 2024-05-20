@@ -30,7 +30,7 @@
 - :gear: I like exploring low-level languages, such as Assembly, Rust and C.
 - :speech_balloon: Ask me about anything, I am happy to help.
 - :tv: I enjoy watching TV shows, mostly Sci-Fi/Fantasy.
-- :mailbox: Reach out at [me@itsdrike.com](mailto:me@itsdrike.com) or through Discord, by sending a friend request to [@itsdrike](https://discord.gg/zmQ3NcSY)
+- :mailbox: Reach out at [me@itsdrike.com](mailto:me@itsdrike.com) or through Discord, by sending a friend request to [@itsdrike](https://s.itsdrike.com/discord)
 
 <details>
  <summary> <b>📌 Detailed metrics</b></summary>
