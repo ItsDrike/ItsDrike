@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="433" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="299" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,31 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">ItsDrike/nixdots</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3c22f03</div>
+                                        <div class="message">Fix fullscreen keybind</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1fc8542</div>
+                                        <div class="message">Add spotify+spicetify</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Jun 2024, 19:58:29</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -55,63 +80,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">10 Jun 2024, 18:12:28</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">ItsDrike/nixdots</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f5ffba4</div>
-                                        <div class="message">Add walker keybind</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#739d501</div>
-                                        <div class="message">Add options for enabling launcher programs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#705ef34</div>
-                                        <div class="message">Add walker launcher</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63113f0</div>
-                                        <div class="message">Rename deprecated libinput options</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa6784b</div>
-                                        <div class="message">Update flake</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a85f6b</div>
-                                        <div class="message">Add wofi launcher</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e20e63e</div>
-                                        <div class="message">Add misc services</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5febc9</div>
-                                        <div class="message">Add thunar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d158423</div>
-                                        <div class="message">Add runners config</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c77547</div>
-                                        <div class="message">Add missing device role check for physlock</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Jun 2024, 18:07:12</div>
                             </section>
                         </div>
                     </section>
