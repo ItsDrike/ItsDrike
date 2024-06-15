@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="329" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="306" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.people{padding:0 10px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,27 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6d57e9e</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">15 Jun 2024, 01:28:01</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -52,60 +73,6 @@
                                     <div class="comment">Oh, well, if the types are needed by some packets then yeah add them, if not, why are they even useful for us?</div>
                                 </div>
                                 <div class="timestamp">13 Jun 2024, 16:38:57</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#297 More types</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by LiteApplication in <span class="repo">py-mine/mcproto</span></div>
-                                    <div class="comment">
-                                        <i>I don't really know how to handle 2 or more optional values, and for example here the nbt tag might be None even if present is false.</i>
-                                        Well, in this case it's simple, it would be optional in the nested type (namedtuple), but it could be a bit more difficult if there were multiple bool flags for presence indications in other types/packets.
-I'm not sure how common something like this is in the rest of the code-base / things that aren't yet done. I know there's a fair amount of optional types here, but are there really that many bool flags that affect multiple variables in the class like this? Cause whenever it just affects a single variable, it's not worth keeping this flag at all, it can be represented directly in the field (by making it optional, or just a union of 2 types, which can be checked for with
-                                        <code>isinstance</code>
-                                        ).
-The only time where this becomes  real problem is with these flags affecting multiple variables, which is the case here. If it's just a single such flag, this nested strucutre solution will work well. The issues only arise if there's multiple flags that affect multiple variables which intersect. If they control their own set of multiple variables which don't intersect, it is still easy to solve with nested structures.
-With intersections though, it could even mean dozens of such structures as this grows with the cartesian product of those flags, which obviously wouldn't be viable. However, I just really doubt that there actually are many types/packets like this (I don't know of any). But I might be wrong.
-                                        <i>What I think for now is that it's better to not nest the types when they are not nested in the documentation (wiki.vg), so that anyone can just look at wiki.vg's description of the packets/types, and code with them intuitively without having to read our documentation too much.
-For this particular case I think it's best to keep the present variable for more clarity and the other next to it directly, but I also understand that it can get become annoying to cast everything.</i>
-                                        To be fair, properties would allow that.
-                                        <i>What I suggest is to add a data property that returns the 3 items in a tuple if they are present (and raises an exception otherwise) that way the data can be unpacked without needing typecasts.</i>
-                                        hmm, I'm not sure I love that, most people would very likely still use the attributes normally, and this would bring in a lot of overhead if we used it internally (though also if others did) as it'd mean an instantiation each time the function is called, as opposed to if this structure was just stored in the class directly.
-                                        <i>Another option I see is to only guaranty the validity of the data if the present flag is set, by having item_id and item_count set to -1 when present is false (I don't think that would be a good idea for the packets but for the types it seems fine to me). This has the inconvenient of being more error-prone because forgetting to check will lead to silent bugs.</i>
-                                        Yeah, I don't like this either, magic values are generally just not a good idea.
-                                        <i>The last option (that I see) would be to have the optional fields hidden behind a property which raises an exception to prevent getting/setting anything while the present field is false. Again I don't think it's a good idea for packets, and this will prevent us from using @define on these classes, while also taking much longer to implement as we would need to define the field, the getter, the setter and the tests for each thing (which can't be tested automatically using gen_serializable_tests).</i>
-                                        I don't think this necessarily prevents us from using
-                                        <code>@define</code>
-                                        it's just that it'd take that inner structure, the only issue is that people would need to manually instantiate that structure first and pass in it, which yeah, could be a bit more annoying than doing so manually, but I'm not sure if that's such a huge issue. The alternative is another constructor or indeed using
-                                        <code>__init__</code>
-                                        and avoiding
-                                        <code>@define</code>
-                                        . Depends on whether or not we mind that people will now need to instantiate those inner structures themselves.
-I'm not sure why this wouldn't work with tests though, don't they just use
-                                        <code>__eq__</code>
-                                        ? We could just compare against the entire structure, rather than the individual fields. One annoying thing is that it will be slightly less clear as to which field was the invalid one, as the assertion will just show the whole structure now, but the testgen should still work.
-The nested structures would just be a lot more idiomatic solution type-wise and the unions here make me kind of uneasy, as they allow for an inconsistent state of the packet. Since the values are only getting validated on runtime after initialization/deserialization, it's entirely possible for anyone to just manually change the
-                                        <code>item_id</code>
-                                        to
-                                        <code>None</code>
-                                        after initialization without breaking typing rules, which is worrying.
-That said, it's very true that it will take some extra code &amp; time to do and will probably be pretty annoying because of the repetition in the field names in that structure and in the extra properties. So it's just a question whether it's worth that extra work and how it will affect users when working with the packets.
-                                        <i>PS : I also thought about having a master _Slot, a subclass for EmptySlot and one for Slot but this is a no-go (imo) because this would triple the amount of code needed for an otherwise simple class, and make it confusing when using the class anywhere else.</i>
-                                        Yeah, this just seems way more convoluted then necessary, we shouldn't make a new class just to represent the potential lack of data, but the thought did cross my mind too.
-Python's typing can just be so annoying sometimes, with rust, this could actually be solved very cleanly with the state pattern, which in rust you can just do with a simple generic attribute, for which you can then have different impls, being completely type safe. (There's a really nice video on this in rust:   if you're interested, though you might need some basic rust knowledge first.) In OOP langs, you're supposed to just use blank subclasses or composition, which well, isn't ideal.
-(Hope you didn't die of old age while reading all this lmao)
-                                    </div>
-                                </div>
-                                <div class="timestamp">13 Jun 2024, 16:37:47</div>
                             </section>
                         </div>
                     </section>
