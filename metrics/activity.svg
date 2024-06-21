@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="316" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="299" class="">
     <defs>
         <style/>
     </defs>
@@ -22,47 +22,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">ItsDrike/nixdots</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#874cbce</div>
-                                        <div class="message">Group app programs options</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92e0e85</div>
-                                        <div class="message">Add nomacs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9eb0fc4</div>
-                                        <div class="message">Don't use template systemd service for eww windows</div>
+                                        <div class="sha">#b3f4573</div>
+                                        <div class="message">Add toggle-notifications script &amp; notification keybinds</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 Jun 2024, 09:41:48</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9fb48ce</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Jun 2024, 01:28:36</div>
+                                <div class="timestamp">21 Jun 2024, 14:20:01</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -79,11 +50,36 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#47d070c</div>
-                                        <div class="message">Update remap rules for windowname script</div>
+                                        <div class="sha">#3cb701b</div>
+                                        <div class="message">Add toggle-fake-fullscreen script</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 Jun 2024, 00:39:07</div>
+                                <div class="timestamp">21 Jun 2024, 14:13:30</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">ItsDrike/nixdots</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#036b1a9</div>
+                                        <div class="message">Add quick-record script</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f17fea</div>
+                                        <div class="message">Add gh-notify script</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">21 Jun 2024, 14:08:16</div>
                             </section>
                         </div>
                     </section>
