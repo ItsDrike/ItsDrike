@@ -94,17 +94,17 @@
 **I Mostly Code in Python** 
 
 ```text
-Python                   44 repos            ██████████████░░░░░░░░░░░   56.41 % 
+Python                   43 repos            ██████████████░░░░░░░░░░░   55.13 % 
 C++                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 Nix                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 
 
 
- Last Updated on 30/07/2024 02:06:16 UTC
+ Last Updated on 24/08/2024 02:10:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
