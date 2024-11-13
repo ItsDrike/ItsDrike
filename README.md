@@ -91,6 +91,42 @@
  <summary>:chart_with_upwards_trend: <b>Extensive wakatime details</b></summary>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C025%20hrs-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1604 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+🌆 Daytime                5547 commits        ████████░░░░░░░░░░░░░░░░░   31.00 % 
+🌃 Evening                6644 commits        █████████░░░░░░░░░░░░░░░░   37.13 % 
+🌙 Night                  4101 commits        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   3114 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Tuesday                  2534 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Wednesday                2579 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Thursday                 2626 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Friday                   2112 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Saturday                 2045 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Sunday                   2886 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -104,7 +140,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/11/2024 02:21:59 UTC
+ Last Updated on 13/11/2024 02:21:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
