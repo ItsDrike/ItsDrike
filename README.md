@@ -17,7 +17,7 @@
 ![bash](https://img.shields.io/static/v1?logo=gnu-bash&label=&message=bash&color=111&logoColor=AAA&style=flat-square)
 <br>
 ![pgp](https://img.shields.io/static/v1?label=&message=pgp:&color=555&style=flat-square)
-[![itsdrike-key](https://img.shields.io/static/v1?logo=gnuprivacyguard&label=&message=0xFA2745890B7048C0&color=111&logoColor=AAA&style=flat-square)](https://github.com/ItsDrike.gpg)
+[![itsdrike-key](https://img.shields.io/static/v1?logo=gnuprivacyguard&label=&message=0xFA2745890B7048C0&color=111&logoColor=AAA&style=flat-square)](https://s.itsdrike.com/pgp)
 
 <!-- Load profile visitor count, but don't display it, keep it as a private stat, no need to show off (888)-->
 [](https://visitor-badge.glitch.me/badge?page_id=ItsDrike.ItsDrike)
