@@ -91,8 +91,6 @@
  <summary>:chart_with_upwards_trend: <b>Extensive wakatime details</b></summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C580%20hrs%2018%20mins-blue)
-
 **I Mostly Code in Python** 
 
 ```text
@@ -106,7 +104,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2025 02:36:11 UTC
+ Last Updated on 01/07/2025 02:47:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
