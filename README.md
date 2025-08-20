@@ -1,7 +1,7 @@
 ![workspace](https://img.shields.io/static/v1?label=&message=workspace:&color=555&style=flat-square)
 [![arch-linux](https://img.shields.io/static/v1?logo=arch-linux&label=&message=Arch%20Linux&color=111&logoColor=AAA&style=flat-square)](https://archlinux.org)
 [![firefox](https://img.shields.io/static/v1?logo=firefox-browser&label=&message=Firefox&color=111&logoColor=AAA&style=flat-square)](https://mozilla.org/en-US/firefox/)
-[![discord](https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=111&logoColor=AAA&style=flat-square)](https://discord.gg/zmQ3NcSY)
+[![discord](https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=111&logoColor=AAA&style=flat-square)](https://s.itsdrike.com/discord)
 <br>
 ![editors](https://img.shields.io/static/v1?label=&message=editors:&color=555&style=flat-square)
 ![nvim](https://img.shields.io/static/v1?logo=neovim&label=&message=NeoVim&color=111&logoColor=AAA&style=flat-square)
