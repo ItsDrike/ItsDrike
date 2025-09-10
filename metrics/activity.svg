@@ -29,11 +29,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3843043</div>
-                                        <div class="message">Add systemd-resolvconf package for vpns</div>
+                                        <div class="sha">#c6fab34</div>
+                                        <div class="message">Update user-dirs.dirs</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Sept 2025, 15:27:54</div>
+                                <div class="timestamp">9 Sept 2025, 16:45:07</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,11 +50,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0058d78</div>
-                                        <div class="message">Mention adding /etc/resolv.conf symlink</div>
+                                        <div class="sha">#45eee4d</div>
+                                        <div class="message">Add sudonvim alias</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Sept 2025, 15:22:09</div>
+                                <div class="timestamp">9 Sept 2025, 16:23:29</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -65,17 +65,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">ItsDrike/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#68a82b9</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#3843043</div>
+                                        <div class="message">Add systemd-resolvconf package for vpns</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">8 Sept 2025, 02:08:32</div>
+                                <div class="timestamp">8 Sept 2025, 15:27:54</div>
                             </section>
                         </div>
                     </section>
