@@ -20,13 +20,14 @@
 [![itsdrike-key](https://img.shields.io/static/v1?logo=gnuprivacyguard&label=&message=0xFA2745890B7048C0&color=111&logoColor=AAA&style=flat-square)](https://s.itsdrike.com/pgp)
 
 <!-- Load profile visitor count, but don't display it, keep it as a private stat, no need to show off (888)-->
+
 [](https://visitor-badge.glitch.me/badge?page_id=ItsDrike.ItsDrike)
 
 ### Hey there 👋
 
 - :neutral_face: I usually work on back-end related development and algorithm design.
 - :man: I'm addicted to automating everything and a huge advocate of CI workflows, unit testing, and other DevOps related technologies.
-- :seedling: Currently, I'm learning about system administration and security.
+- :seedling: Currently, I'm learning about K3s kubernetes and IaC.
 - :gear: I like exploring low-level languages, such as Assembly, Rust and C.
 - :speech_balloon: Ask me about anything, I am happy to help.
 - :tv: I enjoy watching TV shows, mostly Sci-Fi/Fantasy.
@@ -34,7 +35,7 @@
 
 <details>
  <summary> <b>📌 Detailed metrics</b></summary>
- 
+
  <table>
   <tr>
     <th>🙋 Profile Details</th>
@@ -89,7 +90,7 @@
 
 <details>
  <summary>:chart_with_upwards_trend: <b>Extensive wakatime details</b></summary>
- 
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C799%20hrs%2057%20mins-blue)
 
