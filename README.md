@@ -92,6 +92,8 @@
  <summary>:chart_with_upwards_trend: <b>Extensive wakatime details</b></summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C864%20hrs%208%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -143,7 +145,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 02:11:55 UTC
+ Last Updated on 29/09/2025 02:06:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
