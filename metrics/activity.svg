@@ -23,17 +23,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">ItsDrike/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d3a9711</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#6a29544</div>
+                                        <div class="message">Start walker via socket call on keybind</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">5 Oct 2025, 02:10:52</div>
+                                <div class="timestamp">5 Oct 2025, 16:15:30</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -44,17 +44,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">ItsDrike/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1be673b</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#2e8b9de</div>
+                                        <div class="message">Add elephant bluetooth &amp; elephant archpkgs</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">4 Oct 2025, 01:56:39</div>
+                                <div class="timestamp">5 Oct 2025, 16:14:43</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -65,17 +65,23 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ItsDrike/ItsDrike</span>
+                                        <span class="repo">ItsDrike/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8d9150c</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#7d73201</div>
+                                        <div class="message">Revert "Move to bin pkgs for walker &amp; elephant"
+
+This reverts commit 746739ec0b06996a057145193f5f1b700d32e6ec.
+
+It seems that the -bin packages contain issues with being built against
+different versions of some internal dependencies, causing elephant-bin
+not to be able to load the providers.</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 Oct 2025, 02:01:47</div>
+                                <div class="timestamp">5 Oct 2025, 15:51:05</div>
                             </section>
                         </div>
                     </section>
