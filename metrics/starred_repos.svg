@@ -79,7 +79,7 @@
                                         <span>starred Nov 11 2025</span>
                                     </div>
                                 </div>
-                                <div class="field description">Electron-based Stremio client with support for plugins and themes. This is a community project and is not affiliated with Stremio in any way.</div>
+                                <div class="field description">Electron-based Stremio desktop client with support for plugins and themes. This is a community project and is not affiliated with Stremio in any way.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
