@@ -92,60 +92,22 @@
  <summary>:chart_with_upwards_trend: <b>Extensive wakatime details</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C526%20hrs%2012%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1268 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-🌆 Daytime                5550 commits        ████████░░░░░░░░░░░░░░░░░   31.24 % 
-🌃 Evening                7147 commits        ██████████░░░░░░░░░░░░░░░   40.23 % 
-🌙 Night                  3800 commits        █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   2928 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Tuesday                  2443 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Wednesday                3203 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Thursday                 2507 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Friday                   2020 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Saturday                 1933 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Sunday                   2731 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-YAML                     7 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-Rust                     6 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-Python                   4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-QML                      3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-reStructuredText         3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-
-🔥 Editors: 
-Neovim                   28 hrs 24 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    28 hrs 24 mins      █████████████████████████   100.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C529%20hrs%2019%20mins-blue?style=flat)
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   53 repos            ███████████████░░░░░░░░░░   58.89 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Zig                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Python                   53 repos            ███████████████░░░░░░░░░░   58.24 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Zig                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 
 
 
 
- Last Updated on 10/03/2026 02:51:10 UTC
+ Last Updated on 11/03/2026 02:51:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
