@@ -94,58 +94,20 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C642%20hrs%2033%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1766 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-🌆 Daytime                6886 commits        ████████░░░░░░░░░░░░░░░░░   30.44 % 
-🌃 Evening                9196 commits        ██████████░░░░░░░░░░░░░░░   40.65 % 
-🌙 Night                  4772 commits        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   3617 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Tuesday                  3181 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Wednesday                4289 commits        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Thursday                 3313 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Friday                   2362 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Saturday                 2361 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Sunday                   3497 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-YAML                     4 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   42.00 % 
-SQL                      3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.87 % 
-Python                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Docker                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-
-🔥 Editors: 
-Neovim                   10 hrs 27 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    10 hrs 27 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   53 repos            ███████████████░░░░░░░░░░   59.55 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Zig                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Python                   53 repos            ███████████████░░░░░░░░░░   58.89 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Zig                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 
 
 
 
- Last Updated on 07/04/2026 03:15:25 UTC
+ Last Updated on 08/04/2026 03:34:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
