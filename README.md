@@ -92,61 +92,22 @@
  <summary>:chart_with_upwards_trend: <b>Extensive wakatime details</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C130%20hrs%2012%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1789 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-🌆 Daytime                7094 commits        ████████░░░░░░░░░░░░░░░░░   30.35 % 
-🌃 Evening                9623 commits        ██████████░░░░░░░░░░░░░░░   41.17 % 
-🌙 Night                  4867 commits        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   3686 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Tuesday                  3181 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Wednesday                4590 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Thursday                 3464 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Friday                   2475 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Saturday                 2347 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Sunday                   3630 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-YAML                     11 hrs 19 mins      ███████████░░░░░░░░░░░░░░   45.07 % 
-Python                   3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Markdown                 3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Other                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Git                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-
-🔥 Editors: 
-Neovim                   22 hrs 4 mins       ██████████████████████░░░   87.89 % 
-Opencode Cli             3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-
-💻 Operating System: 
-Linux                    25 hrs 7 mins       █████████████████████████   100.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C135%20hrs-blue?style=flat)
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   54 repos            ███████████████░░░░░░░░░░   61.36 % 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Zig                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Python                   55 repos            ███████████████░░░░░░░░░░   61.80 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Zig                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 
 
 
- Last Updated on 21/07/2026 03:54:11 UTC
+ Last Updated on 22/07/2026 03:48:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
