@@ -92,9 +92,9 @@
  <summary>:chart_with_upwards_trend: <b>Extensive wakatime details</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C868%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C872%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2050%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -121,42 +121,41 @@ Sunday                   3670 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     19 hrs 12 mins      █████████████░░░░░░░░░░░░   50.11 % 
-Markdown                 6 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Python                   3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Other                    2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Bash                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+YAML                     14 hrs 55 mins      █████████████░░░░░░░░░░░░   51.06 % 
+Markdown                 4 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Other                    2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+SQL                      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Bash                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 🔥 Editors: 
-Neovim                   33 hrs 25 mins      ██████████████████████░░░   87.15 % 
-Opencode Cli             4 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Neovim                   25 hrs 57 mins      ██████████████████████░░░   88.82 % 
+Opencode Cli             3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 
 💻 Operating System: 
-Linux                    38 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 51 mins (25.72%)
+⏱ AI Coding Time: 4 hrs 25 mins (15.14%)
 
-✍️ 2,122 lines written by AI, 1,304 lines written by hand (61.94% AI-written)
+✍️ 716 lines written by AI, 689 lines written by hand (50.96% AI-written)
 
-🔤 2,309,347 Input Tokens, 63,593 Output Tokens
+🔤 1,017,096 Input Tokens, 28,696 Output Tokens
 
-💵 $11.19 Estimated AI Cost This Week
+💵 $5.98 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 103 AI Prompts
+🧠 6 AI Sessions, 37 AI Prompts
 
-GPT                      1,653 lines         ███████████████████░░░░░░   74.16 % 
-OpenCode                 576 lines           ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+GPT                      714 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.94% of written lines came from AI
-📚 Verbose Prompter — average 2,152 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 98.69% of changed lines were hand-edited
+⚖️ Balanced with AI — 50.96% of written lines came from AI
+📚 Verbose Prompter — average 4,595 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 99.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -172,7 +171,7 @@ HCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 04:00:05 UTC
+ Last Updated on 01/08/2026 04:00:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
