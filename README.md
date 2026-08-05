@@ -96,68 +96,6 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2050%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1813 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-🌆 Daytime                7188 commits        ████████░░░░░░░░░░░░░░░░░   30.37 % 
-🌃 Evening                9786 commits        ██████████░░░░░░░░░░░░░░░   41.35 % 
-🌙 Night                  4882 commits        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   3726 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Tuesday                  3211 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Wednesday                4700 commits        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Thursday                 3498 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Friday                   2507 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Saturday                 2350 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Sunday                   3677 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-YAML                     11 hrs 23 mins      ████████████░░░░░░░░░░░░░   49.65 % 
-Markdown                 3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Other                    2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-SQL                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Bash                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-
-🔥 Editors: 
-Neovim                   19 hrs 40 mins      █████████████████████░░░░   85.77 % 
-Opencode Cli             3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-
-💻 Operating System: 
-Linux                    22 hrs 56 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 25 mins (19.29%)
-
-✍️ 716 lines written by AI, 622 lines written by hand (53.51% AI-written)
-
-🔤 1,017,096 Input Tokens, 28,696 Output Tokens
-
-💵 $5.98 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 37 AI Prompts
-
-GPT                      714 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.51% of written lines came from AI
-📚 Verbose Prompter — average 4,595 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 99.55% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -171,7 +109,7 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 03:44:31 UTC
+ Last Updated on 05/08/2026 03:40:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
