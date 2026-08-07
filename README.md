@@ -92,28 +92,24 @@
  <summary>:chart_with_upwards_trend: <b>Extensive wakatime details</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C873%20hrs%2050%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2050%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                1813 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 🌆 Daytime                7188 commits        ████████░░░░░░░░░░░░░░░░░   30.37 % 
-🌃 Evening                9786 commits        ██████████░░░░░░░░░░░░░░░   41.35 % 
-🌙 Night                  4882 commits        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+🌃 Evening                9788 commits        ██████████░░░░░░░░░░░░░░░   41.35 % 
+🌙 Night                  4882 commits        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   3726 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Tuesday                  3211 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Wednesday                4700 commits        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Thursday                 3498 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Tuesday                  3214 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Wednesday                4697 commits        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Thursday                 3500 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 Friday                   2507 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 Saturday                 2350 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Sunday                   3677 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Sunday                   3677 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
 ```
 
 
@@ -121,57 +117,39 @@ Sunday                   3677 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.12 % 
-Other                    2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.78 % 
-Python                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-SQL                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Text                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Text                     29 mins             ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+Other                    26 mins             ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+Python                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+YAML                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 45 mins       █████████████████████░░░░   84.10 % 
-Opencode Cli             1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Neovim                   1 hr 52 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (20.52%)
-
-✍️ 3 lines written by AI, 284 lines written by hand (1.05% AI-written)
-
-🔤 266,548 Input Tokens, 6,438 Output Tokens
-
-💵 $1.48 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 18 AI Prompts
-
-GPT                      3 lines             █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.05% of written lines came from AI
-📚 Verbose Prompter — average 3,872 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 99.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   54 repos            ███████████████░░░░░░░░░░   60.00 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Zig                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Python                   53 repos            ███████████████░░░░░░░░░░   59.55 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Zig                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 
 
 
- Last Updated on 06/08/2026 03:45:33 UTC
+ Last Updated on 07/08/2026 03:23:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
