@@ -92,6 +92,10 @@
  <summary>:chart_with_upwards_trend: <b>Extensive wakatime details</b></summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C873%20hrs%2050%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2050%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -117,17 +121,13 @@ Sunday                   3677 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     29 mins             ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-Other                    26 mins             ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
-Python                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-YAML                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 52 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 52 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -139,7 +139,7 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   53 repos            ███████████████░░░░░░░░░░   59.55 % 
+Python                   54 repos            ███████████████░░░░░░░░░░   60.67 % 
 Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
@@ -149,7 +149,7 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 03:23:05 UTC
+ Last Updated on 08/08/2026 02:32:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
