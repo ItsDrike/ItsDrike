@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.62mb of code in 2453 edited files across 1227 commits</small>
+                <small>estimation from 2.41mb of code in 2342 edited files across 1170 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.7455756138106" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.7455756138106" y="0" width="0.8929488659029082" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.6385244797135" y="0" width="0.3614755202864694" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.7347485281749" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.7347485281749" y="0" width="0.9006560134566863" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.63540454163166" y="0" width="0.36459545836837676" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>747 kB</div>
-                                <div>99.73%</div>
+                                <div>741 kB</div>
+                                <div>99.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>1.46 kB</div>
-                                <div>0.19%</div>
+                                <div>0.2%</div>
                             </small>
                         </div>
                     </section>
