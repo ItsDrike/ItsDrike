@@ -99,21 +99,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2181 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-🌆 Daytime                8607 commits        ████████░░░░░░░░░░░░░░░░░   30.68 % 
-🌃 Evening                11377 commits       ██████████░░░░░░░░░░░░░░░   40.55 % 
-🌙 Night                  5891 commits        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+🌞 Morning                2182 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+🌆 Daytime                8631 commits        ████████░░░░░░░░░░░░░░░░░   30.70 % 
+🌃 Evening                11409 commits       ██████████░░░░░░░░░░░░░░░   40.58 % 
+🌙 Night                  5891 commits        █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4348 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Tuesday                  3829 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Wednesday                5535 commits        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Thursday                 4068 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Friday                   2913 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Saturday                 2733 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Sunday                   4630 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Monday                   4348 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Tuesday                  3829 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Wednesday                5573 commits        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Thursday                 4071 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Friday                   2915 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Saturday                 2733 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Sunday                   4644 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
 ```
 
 
@@ -121,56 +121,56 @@ Sunday                   4630 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 26 mins       ███████████████████████░░   91.14 % 
-Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-gitconfig                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    3 hrs 36 mins       ██████████████████████░░░   87.24 % 
+Python                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+gitconfig                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-OpenCode                 3 hrs 4 mins        █████████████░░░░░░░░░░░░   51.39 % 
-Neovim                   2 hrs 54 mins       ████████████░░░░░░░░░░░░░   48.61 % 
+OpenCode                 2 hrs 14 mins       ██████████████░░░░░░░░░░░   54.24 % 
+Neovim                   1 hr 53 mins        ███████████░░░░░░░░░░░░░░   45.76 % 
 
 💻 Operating System: 
-Linux                    5 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 26 mins (91.1%)
+⏱ AI Coding Time: 3 hrs 36 mins (87.18%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 651,912 Input Tokens, 54,205 Output Tokens
+🔤 537,946 Input Tokens, 30,643 Output Tokens
 
-💵 $3.97 Estimated AI Cost This Week
+💵 $2.63 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 97 AI Prompts
+🧠 9 AI Sessions, 49 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 4,495 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 8,736 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   49 repos            ███████████████░░░░░░░░░░   59.76 % 
-Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Zig                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Python                   50 repos            ███████████████░░░░░░░░░░   60.24 % 
+Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Zig                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
 
 
 
- Last Updated on 29/10/2026 05:57:38 UTC
+ Last Updated on 30/10/2026 05:55:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
